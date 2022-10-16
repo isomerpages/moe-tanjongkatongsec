@@ -8,7 +8,7 @@ description: ""
 **CCA Training Schedule**
 
 Please click [here](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/CCA-Calendar_2022-as-of-4-Jan.pdf) to download the PDF for 2022’s CCA details.
-
+<a href="/our-special-programme/ELIXiR/" target="_blank">here</a>
  **CCA Guidelines & Grading**
 
 *    **Level 1-3 Students**
