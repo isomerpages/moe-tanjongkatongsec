@@ -30,7 +30,7 @@ TK PE curriculum aims to enhance student learning to facilitate the confidence a
 
 Our PE syllabus is organised to achieve the goals of PE based on the framework below. At the apex is the purpose of PE, achieved through the seven learning areas to produce effective, efficient and versatile movers. Learning in the affective areas and competencies for the 21st century are both the outcomes and pre-requisites for the learning of PE. Through a balanced and well-designed curriculum, delivered through appropriate and effective pedagogies and meaningful assessment, students will acquire the knowledge, skills and values to live active and healthy lives.
 
-![1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/1-9.jpg)
+![](/images/Academic/1-9.jpg)
 
 **TK PE Syllabus**
 
