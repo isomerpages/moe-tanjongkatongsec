@@ -2,9 +2,9 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
