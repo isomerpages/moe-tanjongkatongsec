@@ -2,14 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Physical Sports/.keep
-      - Physical Sports/Physical Sports.md
-      - Physical Sports/Athletics.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Floorball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Netball.md
-      - Physical Sports/Shooting.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
@@ -36,3 +28,11 @@ collections:
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/AV Media & Computer Club (AVMC).md
       - Clubs and Societies/Chess Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Physical Sports.md
+      - Physical Sports/Athletics.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Shooting.md
