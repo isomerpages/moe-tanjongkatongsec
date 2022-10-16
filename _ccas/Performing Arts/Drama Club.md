@@ -6,6 +6,8 @@ third_nav_title: Performing Arts
 ---
 # Drama Club
 
+# upload to youtube
+
 ## **About**
 
 Drama allows you to express your feelings and be spontaneous. It is an avenue to expand your creativity and look within yourself for answers. The Drama Club finds opportunities for its members to go on stage by participating in school concerts, public speaking competitions and doing public performances.
