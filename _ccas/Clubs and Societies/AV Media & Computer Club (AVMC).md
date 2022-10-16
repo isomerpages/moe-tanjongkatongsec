@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 # AV Media & Computer Club (AVMC)
-# upload to youtube
+# upload videos to youtube
 
 ## **About**
 
