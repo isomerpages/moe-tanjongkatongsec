@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # Girl Guides
-### **About**
+## **About**
 
 Guiding is an educational youth movement. It is open to all girls without distinction of creed, race, nationality or any other circumstance.
 
@@ -13,7 +13,7 @@ Guiding is a game of adventure, observation, knowledge and ideas. It is an educa
 
 The aim is to provide girls with the opportunity for self-training in the development of character, in realisation of citizenship and promotion of service to the community.
 
-#### Activities
+### Activities
 
 *   Proficiency badge work preparations
 *   Basic First Aid Training
@@ -40,7 +40,7 @@ The aim is to provide girls with the opportunity for self-training in the develo
 
 Ashmita Ghale (3B)
 
-### **Teachers-in-Charge**
+## **Teachers-in-Charge**
 
 *   **Miss Cherlyn Tan**
 *   Miss Nadiah Bte Abdul Karim
