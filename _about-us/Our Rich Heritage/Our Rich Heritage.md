@@ -17,7 +17,7 @@ Our Alumni have distinguished themselves in diverse fields, and to continue to n
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
+| ![](/images/About%20us/1.jpg)  | ![](/images/About%20us/2.jpg)  | ![](/images/About%20us/3.jpg)  |
 
 <b><u>School Wide Achievements</u></b>
 
