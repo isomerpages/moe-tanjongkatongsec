@@ -15,7 +15,7 @@ Team members consciously and regularly participate in building and sharing knowl
 
 |                        |                    |
 |------------------------|------------------------------------------------------|
-| **GOALS**        | To tap on the expertise of teachers in implementing programmes that lead to<br><br>pupils’ learning mathematics in a meaningful way<br>pupils’ mastery of mathematics concepts, skills and processes<br>pupils’ appreciation of mathematics and its interdisciplinary connections |
-| **PROGRAMMES**      | Classroom Lessons for all mathematics lessons.<br>Weekly Revision Programme for selected pupils.<br>Bridging Programme for selected pupils.<br>Lecture and Tutorial approach for Additional Mathematics.                                                                          |
-| **ENRICHMENT**       | Outdoor Trail<br>Competition Training Programme<br>Student Research<br>Mathematics Talks                |
+| **GOALS**        | To tap on the expertise of teachers in implementing programmes that lead to<br><br>- pupils’ learning mathematics in a meaningful way<br>- pupils’ mastery of mathematics concepts, skills and processes<br>- pupils’ appreciation of mathematics and its interdisciplinary connections |
+| **PROGRAMMES**      | - Classroom Lessons for all mathematics lessons.<br>- Weekly Revision Programme for selected pupils.<br>- Bridging Programme for selected pupils.<br>- Lecture and Tutorial approach for Additional Mathematics.                                                                          |
+| **ENRICHMENT**       | - Outdoor Trail<br>- Competition Training Programme<br>- Student Research<br>- Mathematics Talks                |
 | **SUBJECT**<br>**COMBINATION** | All pupils will be offered Additional Mathematics.                    |
