@@ -229,3 +229,93 @@ third_nav_title: People
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">SCIENCE DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Miss Cherlyn Tan</td>
+    <td>SH Biology/LS</td>
+    <td>tan_suat_ying_cherlyn@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Yong Choon Hei Kelvin</td>
+    <td>Asst Year Head / Sec 3</td>
+    <td>yong_choon_hei_kelvin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Quek Toh Peng</td>
+    <td>Senior Teacher</td>
+    <td>puah_toh_peng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Tey Wei Yen</td>
+    <td>Teacher</td>
+    <td>loo_wei_yen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Nabilah Banu</td>
+    <td>Teacher</td>
+    <td>nabilah_banu_nazeer_khan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Gordon Yong</td>
+    <td>Teacher</td>
+    <td>gordon_yong_wenjie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Cassidy Soh</td>
+    <td>Teacher</td>
+    <td>soh_yi_xing_cassidy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Sophia Lim</td>
+    <td>Teacher</td>
+    <td>Sophia_lim_fang_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Tan Si Hao Brian</td>
+    <td>Teacher</td>
+    <td>tan_si_hao_brian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Toh Lee Lee</td>
+    <td>Teacher</td>
+    <td>chow_lee_lee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Ng Li Juan</td>
+    <td>Teacher</td>
+    <td>ng_li_juan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Benson Ang</td>
+    <td>Teacher</td>
+    <td>ang_benson@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Peh Chu Ming</td>
+    <td>Teacher</td>
+    <td>peh_chu_ming@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Woo Yan Lin</td>
+    <td>Teacher</td>
+    <td>woo_yan_lin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Jeslyn Ong Ting Ting</td>
+    <td>Teacher</td>
+    <td>ong_ting_ting_jeslyn@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Nuraisyah</td>
+    <td>Laboratory Technician</td>
+    <td>nuraisyah_dollah@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
