@@ -2,13 +2,13 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Seladang Scouts.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/NCC Land.md
       - Uniformed Groups/NCC Sea.md
       - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Seladang Scouts.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
