@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # Girl Guides
-**About**
+### **About**
 
 Guiding is an educational youth movement. It is open to all girls without distinction of creed, race, nationality or any other circumstance.
 
@@ -40,7 +40,7 @@ The aim is to provide girls with the opportunity for self-training in the develo
 
 Ashmita Ghale (3B)
 
-**Teachers-in-Charge**
+### **Teachers-in-Charge**
 
 *   **Miss Cherlyn Tan**
 *   Miss Nadiah Bte Abdul Karim
