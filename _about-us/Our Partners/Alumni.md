@@ -52,9 +52,12 @@ From TK Gives Back Day, staff, students and alumni raised 10659 bowls of rice fo
      style="width:100%"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="/images/About%20us/4-1.jpg" 
+     style="width:100%"></td>
+    <td><img src="/images/About%20us/5-1.jpg" 
+     style="width:100%"></td>
+    <td><img src="/images/About%20us/6-1.jpg" 
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
