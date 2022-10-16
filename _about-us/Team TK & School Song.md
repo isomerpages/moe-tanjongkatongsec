@@ -26,12 +26,9 @@ The school song speaks on the themes of a balanced education, hard work in both 
 
 **Tanjong Katong Secondary School Song**
 
-_On the sea-shore of endless worlds,_
-
-_With the mind and with the body,_
-
-_We’ll work together and we’ll play,_
-
+_On the sea-shore of endless worlds,_  
+_With the mind and with the body,_  
+_We’ll work together and we’ll play,_  
 _It’s one for all and all for one._
 
 _Chorus:_   
