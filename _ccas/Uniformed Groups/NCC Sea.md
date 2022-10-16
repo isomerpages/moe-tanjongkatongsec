@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # NCC Sea
+# upload videos to youtube
 
 [TK SEA FAQs](/files/CCAs/TK-SEA-FAQs.pdf)
 
