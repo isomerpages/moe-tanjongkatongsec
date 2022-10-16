@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Physical Education.md
       - Aesthetics.md
       - Design Technology & Food Consumer Education.md
       - English.md
@@ -10,3 +9,4 @@ collections:
       - Mathematics.md
       - Mother Tongue.md
       - Science.md
+      - Physical Education.md
