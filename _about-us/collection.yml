@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - People/People.md
       - People/.keep
       - Principal’s Message.md
       - Our Rich Heritage/.keep
