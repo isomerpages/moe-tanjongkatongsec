@@ -33,3 +33,31 @@ We encourage our alumni to be involved in the school community as this would con
 The inaugural TK Gives Back Day 2014 saw alumni from the batch of 1960s to 2013 come together to collectively Walk For Rice in support of the South East CDC. Joined by alumni Mr Lawrence Wong, Minister of Culture, Community and Youth, TK Gives Back saw hundreds of alumni, students and staff (from the past and present), walked around the streets of Tanjong Katong Road, Dunman Road and Mountbatten Road. The morning walk was made enriching with students trail guides, who planned activities at various stations. The trail included walking passed the old site of Tanjong Katong Secondary Technical School, Sin Po Po Bar, Nam Seng Bird Trading, Katong News Agency and the Katong Post Office.
 
 From TK Gives Back Day, staff, students and alumni raised 10659 bowls of rice for the needy in South East CDC.  Well done, Team TK!
+
+**Homecoming**
+
+As part of the school’s efforts to further strengthen links with the Alumni, homecoming events are organized each year
+
+**a. Annual Homecoming**
+
+A team of SAC Scholars from each graduating cohort would organise a get-together for their peers the following year after graduation. During the annual homecoming, alumnis played games and interacted with one another.
+
+**b. 21st Birthday Bash (5th Anniversary Homecoming)**
+
+The respective cohort Alumni Organising Committee organizes the 21st Birthday Bash to celebrate the 5-year anniversary homecoming. The event provides the opportunity for many who had not met since graduation to catch up with one another. The highlight of the evening is the cutting of the birthday cake to symbolise celebrating the cohort’s 21st birthday
+
+**c. 10th Anniversary Homecoming**
+
+The school supports the Organising Committee for the 10th anniversary homecoming Highlight of the event includes mingling with teachers who had taught the cohort as well as meet up with one another.
+
+![](/images/About%20us/7-1.jpg)
+
+**d. 50th Birthday Celebration**
+
+The school supports the 50th Birthday celebration for the class of 1976-1979. The organizing committee planned an elaborate programme, which saw former students and teachers reminisce about the ‘good old days’ at Tanjong Katong Secondary Technical School (formerly known as)
+
+**e. CCA Alumni Homecoming**
+
+The school also host alumnis from CCAs for their reunion and homecoming. The TK Band Alumni organized a homecoming and were treated to a preview of the band’s KL show. The TK NPCC Alumni also organized their reunion in TK.
+
+We wish to see this bond between the school and her former students flourish, so that our partnership will bring the school to greater heights.
