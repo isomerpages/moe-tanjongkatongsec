@@ -6,7 +6,8 @@ description: ""
 # Team TK & School Song
 <b><u>Team TK</u></b>
 
-![1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/1-3.jpg)
+<img src="/images/About%20us/1-3.jpg" 
+     style="width:40%">
 
 **WE ARE ALL IN THIS TOGETHER!**
 
