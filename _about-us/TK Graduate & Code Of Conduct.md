@@ -9,7 +9,7 @@ description: ""
 
 The TK Graduate is self-directed in learning and passionate in all he undertakes. Confident, resilient and flexible, he is guided by sound values to lead and contribute to school, nation and the global community.
 
-![1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/1-2.jpg)
+![](/images/About%20us/1-2.jpg)
 
 <b><u>Code Of Conduct</u></b>
 
