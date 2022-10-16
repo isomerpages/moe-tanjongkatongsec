@@ -18,9 +18,9 @@ Everyone in TK matters and everyone in TK has his or her part to play. That is 
 
 The star represents Excellence which every TKsian strives hard for and aspires to achieve. The strong front illustrates Diligentia. It represents the determination, drive and perseverance of every TKsian in their journey towards excellence. The fluid curves emphasise Ingenuity and Dexteritas that every TKsian has to demonstrate in his or her quest for Excellentia. The letters TK in solid colours represent the sturdiness of the team as it is one that is grounded in sound values and rooted in rich tradition. Finally, the bright colours depict the diversity within Team TK and how the school harnesses different talents, passions and areas of expertise to nurture the aspirations of all TKsians.
 
-![2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/2-1.jpg)
+![](/images/About%20us/2-1.jpg)
 
-**School Song**
+<b><u>School Song</u></b>
 
 The school song speaks on the themes of a balanced education, hard work in both work and play and of teamwork. The names that the song invokes represent those who dared to dream the impossible and achieve realities which could have been mere figments of imagination in their time.
 
