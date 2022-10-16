@@ -12,4 +12,4 @@ description: ""
 | Communicare Issue 1 2020 | Communicare Issue 2 2020 |
 | Communicare Issue 1 2021 | Communicare Issue 2 2021 |
 | Communicare Issue 1 2022 |                          |
-|   TKSS 65th Anniversary  |                          |
+|   [TKSS 65th Anniversary](/files/About%20Us/Publication/TKSS-65th-Ann-Magazine-FINAL.pdf)  |                          |
