@@ -2,12 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Band.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Dance Club.md
-      - Performing Arts/Drama Club.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
@@ -23,3 +17,9 @@ collections:
       - Uniformed Groups/NCC Sea.md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Seladang Scouts.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance Club.md
+      - Performing Arts/Drama Club.md
