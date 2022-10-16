@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Publications.md
       - Principal’s Message.md
       - Our Rich Heritage/.keep
       - Our Rich Heritage/Our Rich Heritage.md
@@ -15,3 +14,4 @@ collections:
       - People/School Advisory Committee.md
       - People/School Management Committee.md
       - People/School Staff.md
+      - Publications.md
