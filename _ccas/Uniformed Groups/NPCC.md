@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 
 #### Mission
 
-Established in 1971, the TK NPCC Unit aims to mould builders of a safe and secure home. We strive to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
+<p style="text-align: justify;">Established in 1971, the TK NPCC Unit aims to mould builders of a safe and secure home. We strive to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.</p>
 
 #### Beliefs
 
@@ -24,11 +24,11 @@ We believe in:
 
 ## **Activities**
 
-In accordance to the NPCC Training Framework stipulated by NPCC HQ, the key areas of emphasis in our training include law enforcement, national education, leadership, resilience, personal development, character development, innovation and enterprise. From the time a cadet is enrolled in NPCC, he will undergo structured training to acquire skills and knowledge that will help him thrive in 21st century.
+<p style="text-align: justify;">In accordance to the NPCC Training Framework stipulated by NPCC HQ, the key areas of emphasis in our training include law enforcement, national education, leadership, resilience, personal development, character development, innovation and enterprise. From the time a cadet is enrolled in NPCC, he will undergo structured training to acquire skills and knowledge that will help him thrive in 21st century.</p>
 
 #### Training
 
-We firmly believe in development of character, leadership and resilience. Training has evolved from just drills to more structured and interesting training programmes.
+<p style="text-align: justify;">We firmly believe in development of character, leadership and resilience. Training has evolved from just drills to more structured and interesting training programmes.</p>
 
 Our training programme includes:
 
@@ -40,7 +40,7 @@ Our training programme includes:
 
 #### Activities
 
-TK NPCC has also been exploring into different kinds of activities to help bring our cadets closer to achieving the qualities of a TK Graduate. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.
+<p style="text-align: justify;">TK NPCC has also been exploring into different kinds of activities to help bring our cadets closer to achieving the qualities of a TK Graduate. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.</p>
 
 These activities include:
 
@@ -56,7 +56,7 @@ These activities include:
 
 #### Visits
 
-Our cadets are exposed to the unique opportunities to gain exposure and familiarity with Singapore’s crime prevention efforts to build a Safe and Secure Home.
+<p style="text-align: justify;">Our cadets are exposed to the unique opportunities to gain exposure and familiarity with Singapore’s crime prevention efforts to build a Safe and Secure Home.</p>
 
 Our visits include:
 
@@ -67,11 +67,11 @@ Our visits include:
 
 #### Visits
 
-NPCC organises annual educational visits for our cadets and members. NPCC cadets and members have the opportunity to network, not just locally, but into foreign lands as well. The purpose of the visit is to broaden the mental horizon of our cadets and members through first-hand knowledge of the economic, social and cultural aspects of the host country. The educational visits focus mainly on regional Asian countries that have similar set-up as the NPCC so that our cadets are further exposed to the Police-Youth partnership programme in other countries.
+<p style="text-align: justify;">NPCC organises annual educational visits for our cadets and members. NPCC cadets and members have the opportunity to network, not just locally, but into foreign lands as well. The purpose of the visit is to broaden the mental horizon of our cadets and members through first-hand knowledge of the economic, social and cultural aspects of the host country. The educational visits focus mainly on regional Asian countries that have similar set-up as the NPCC so that our cadets are further exposed to the Police-Youth partnership programme in other countries.</p>
 
-Overseas Education Visits organised by NPCC HQ include Hong Kong, Macau, Shanghai and Brunei.
+<p style="text-align: justify;">Overseas Education Visits organised by NPCC HQ include Hong Kong, Macau, Shanghai and Brunei.</p>
 
-TK NPCC also organises an annual Leadership and Adventure overseas camp for cadet leaders. The aim is to offer our cadets a different type of outdoor experience and develop their leadership skills, teamwork and resilience. Countries visited include Australia and Malaysia.
+<p style="text-align: justify;">TK NPCC also organises an annual Leadership and Adventure overseas camp for cadet leaders. The aim is to offer our cadets a different type of outdoor experience and develop their leadership skills, teamwork and resilience. Countries visited include Australia and Malaysia.</p>
 
 “With honour we serve, with pride we lead. Together, we unite.”
 
