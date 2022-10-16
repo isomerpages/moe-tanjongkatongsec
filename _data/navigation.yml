@@ -1,6 +1,4 @@
 logo: /images/cropped-TK-logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: ABOUT US
+    collection: about-us
