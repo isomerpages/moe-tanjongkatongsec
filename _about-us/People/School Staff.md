@@ -509,3 +509,123 @@ third_nav_title: People
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">AESTHETICS DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Lawrence Siao</td>
+    <td>SH Aesthetics</td>
+    <td>siao_choon_keong_lawrence@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Tan Mui Mui</td>
+    <td>Teacher</td>
+    <td>tan_mui_mui_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Tan Sok Tiow</td>
+    <td>Teacher</td>
+    <td>tan_sok_tiow@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">COUNSELLORS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Kalaisselvan Poniah</td>
+    <td>Full-Time School Counsellor</td>
+    <td>kalaisselvan_poniah_ponrajah@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Beth Chew</td>
+    <td>Sr SEN Officer</td>
+    <td>chew_ai_mei_beth@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Kate Choo</td>
+    <td>Education and Career Guidance (ECG) Counsellor</td>
+    <td>Kate_CHOO_HUEY_XUAN@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">ADMINISTRATION DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Aruumugam Samikkannu</td>
+    <td colspan="2">Administration Manager</td>
+  </tr>
+  <tr>
+    <td>Mr Leslie Tan</td>
+    <td colspan="2">Operations Manager</td>
+  </tr>
+  <tr>
+    <td>Mdm Norazah A Ghaffar</td>
+    <td colspan="2">Management Support Officer</td>
+  </tr>
+  <tr>
+    <td>Ms Harbalbir Raj Kaur</td>
+    <td colspan="2">Management Support Officer</td>
+  </tr>
+  <tr>
+    <td>Ms Lim Feng</td>
+    <td colspan="2">Corporate Support Officer</td>
+  </tr>
+  <tr>
+    <td>Ms Rafidah Ramlan</td>
+    <td colspan="2">Corporate Support Officer</td>
+  </tr>
+  <tr>
+    <td>Mdm Anjala</td>
+    <td colspan="2">Librarian</td>
+  </tr>
+  <tr>
+    <td>Mdm Loh May Leng</td>
+    <td colspan="2">Clerical Officer</td>
+  </tr>
+  <tr>
+    <td>Mdm Connie Song</td>
+    <td colspan="2">Clerical Officer</td>
+  </tr>
+  <tr>
+    <td>Mdm Lim See Lee</td>
+    <td colspan="2">Office Attendant</td>
+  </tr>
+  <tr>
+    <td>Mdm Asmah</td>
+    <td colspan="2">School Attendant</td>
+  </tr>
+  <tr>
+    <td>Mr Ismail</td>
+    <td colspan="2">School Attendant</td>
+  </tr>
+  <tr>
+    <td>Mdm Rani</td>
+    <td colspan="2">School Attendant</td>
+  </tr>
+  <tr>
+    <td>Mdm Paridah</td>
+    <td colspan="2">School Attendant</td>
+  </tr>
+  <tr>
+    <td>Mdm Anom</td>
+    <td colspan="2">School Attendant</td>
+  </tr>
+</tbody>
+</table>
