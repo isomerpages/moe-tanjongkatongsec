@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
-      - Clubs and Societies/AV Media & Computer Club (AVMC).md
       - Clubs and Societies/.keep
       - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/Art Club.md
+      - Clubs and Societies/AV Media & Computer Club (AVMC).md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
