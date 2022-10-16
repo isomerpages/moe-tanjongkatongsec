@@ -12,7 +12,7 @@ TK Netball provides our netballers with an enriching experience to grow into con
 
 We train twice weekly, Tuesday and Thursday, 3 pm – 6.30 pm at the assembly plaza in TK. To better equip the girls for the East Zone and National competitions, we also conduct intensive training during the June and November holidays. Occasionally, we have trainings on Saturdays during the tournament season.
 
-Visit our TK Netball facebook page! 
+Visit our TK Netball facebook page!  
 <a href="http://www.facebook.com/TkNetball" target="_blank">http://www.facebook.com/TkNetball</a>
 
 “Teamwork brought TK Netball to where it is now. Teamwork divides the task and multiplies success.”
