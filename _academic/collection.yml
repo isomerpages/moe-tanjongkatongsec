@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Mathematics.md
       - Aesthetics.md
       - Design Technology & Food Consumer Education.md
       - English.md
