@@ -3,7 +3,7 @@ title: Publications
 permalink: /about-us/publications/
 description: ""
 ---
-# Other pdfs are >5MB
+# Communicare Issues from 2019-2022 inclusive pdfs are >5MB
 # Publications
 
 |                          |                          |
