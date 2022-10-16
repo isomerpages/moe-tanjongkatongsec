@@ -34,6 +34,29 @@ The inaugural TK Gives Back Day 2014 saw alumni from the batch of 1960s to 2013 
 
 From TK Gives Back Day, staff, students and alumni raised 10659 bowls of rice for the needy in South East CDC.  Well done, Team TK!
 
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/About%20us/1-7.jpg" 
+     style="width:100%"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 **Homecoming**
 
 As part of the school’s efforts to further strengthen links with the Alumni, homecoming events are organized each year
