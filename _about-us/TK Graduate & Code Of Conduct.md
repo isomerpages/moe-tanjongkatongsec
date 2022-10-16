@@ -135,11 +135,12 @@ Class T-shirts
 *   The deadline for submitting the design to the HOD Discpline for approval is the **end of Week 8** in **Term 1.** Late submissions will not be entertained.
 *   T-shirt sizes must be of standard types. No mini-cuts will be allowed.
 
-![1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/1-4.jpg)
+![](/images/About%20us/1-4.jpg)
 
-![2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/2-2.jpg)
+![](/images/About%20us/2-2.jpg)
 
-![3](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/3-1.jpg)
+![](/images/About%20us/3-1.jpg)
+
 
 ATTENDANCE AND PUNCTUALITY
 
