@@ -7,7 +7,8 @@ description: ""
 <b><u>Team TK</u></b>
 
 <img src="/images/About%20us/1-3.jpg" 
-     style="width:40%">
+     style="width:40%;float:left">
+<br><br><br><br><br><br><br><br><br>
 
 **WE ARE ALL IN THIS TOGETHER!**
 
