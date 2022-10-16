@@ -2,5 +2,6 @@ collections:
   academic:
     output: true
     order:
+      - English.md
       - Aesthetics.md
       - Design Technology & Food Consumer Education.md
