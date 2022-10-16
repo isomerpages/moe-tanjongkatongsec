@@ -34,16 +34,11 @@ _We’ll work together and we’ll play,_
 
 _It’s one for all and all for one._
 
-_Chorus:_
-
-_We’ll seek and find,_
-
-_We’ll make and mind,_
-
+_Chorus:_   
+_We’ll seek and find,_  
+_We’ll make and mind,_  
 _However hard, we’ll strive to reach the goal._
 
-_O Rutherford, Da Vinci, Tagore and Albert Einstein,_
-
-_We hope we have rightly invoked_
-
+_O Rutherford, Da Vinci, Tagore and Albert Einstein,_  
+_We hope we have rightly invoked_  
 _Your aspirations and your fame._
