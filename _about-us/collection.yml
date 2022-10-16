@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Mission, Vision, Values and Crest.md
       - Principal’s Message.md
       - Our Rich Heritage/.keep
       - Our Rich Heritage/Our Rich Heritage.md
