@@ -23,7 +23,7 @@ To nurture our students to their fullest potential, developing in them sound val
 Tksians are future-ready critical thinkers, confident leaders and  
 compassionate citizens who strive for excellence in all they undertake to achieve aspirations.
 
-####Values
+#### Values
 
 **Respect, Responsibility, Resilience, Integrity** and **Compassion**
 
