@@ -25,7 +25,7 @@ compassionate citizens who strive for excellence in all they undertake to achiev
 
 #### Values
 
-**Respect, Responsibility, Resilience, Integrity** and **Compassion**
+#### **Respect, Responsibility, Resilience, Integrity** and **Compassion**
 
 #### Crest
 
