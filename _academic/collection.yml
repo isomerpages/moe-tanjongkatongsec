@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - Humanities.md
       - Aesthetics.md
       - Design Technology & Food Consumer Education.md
       - English.md
+      - Humanities.md
