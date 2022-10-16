@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/Parents.md
-      - Our Partners/Our Partners.md
       - Our Partners/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Parents.md
       - Principal’s Message.md
       - Our Rich Heritage/.keep
       - Our Rich Heritage/Our Rich Heritage.md
