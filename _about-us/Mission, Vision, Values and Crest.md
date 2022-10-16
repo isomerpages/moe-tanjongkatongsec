@@ -35,14 +35,11 @@ The school motto in Latin: Diligentia, Ingenium and Dexteritas.
 
 It highlights the importance of the meaning of these words: **Diligence**, **Ingenuity** and **Dexterity**
 
-**Diligence**
-
+**Diligence**  
 is the willingness to persevere long after others have given up.
 
-**Ingenuity**
-
+**Ingenuity**  
 of mind and spirit, being creative, taking initiative and showing resourcefulness.
 
-**Dexterity**
-
+**Dexterity**  
 is about flexibility and nimble, having the mental and emotional adaptability and agility.
