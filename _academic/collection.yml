@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Homework Policy.md
       - Aesthetics.md
       - Design Technology & Food Consumer Education.md
       - English.md
@@ -11,3 +10,4 @@ collections:
       - Mother Tongue.md
       - Science.md
       - Physical Education.md
+      - Homework Policy.md
