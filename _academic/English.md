@@ -79,3 +79,5 @@ Lecture-style teaching (only for Secondary Fours)
 In order to capitalize on our various teacher’s  strengths and ensure that students receive a consistent message across the level, our Secondary Four team decided to experiment with the idea of holding lecture-style sessions once a week from the start of the year.
 
 “Each teacher has their area of specialization and we found it novel and beneficial because it allowed us to experience their different teaching styles.” –Hazel Toh and Wang Zheng Qing (4E)
+
+![](/images/Academic/1-8.jpg)
