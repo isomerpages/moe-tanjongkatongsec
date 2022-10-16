@@ -149,3 +149,83 @@ third_nav_title: People
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">MOTHER TONGUE DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm Chong Mong Leng</td>
+    <td>HOD Mother Tongue</td>
+    <td>chong_mong_leng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Nurul Ain</td>
+    <td>SH Malay Language</td>
+    <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Ishak</td>
+    <td>Teacher</td>
+    <td>ishak_abdul_latiff@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Ngoi Kah Teck</td>
+    <td>Teacher</td>
+    <td>ngoi_kah_teck@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Ng Mo Boey</td>
+    <td>Teacher</td>
+    <td>ng_mo_boey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Zhang Hao</td>
+    <td>Teacher</td>
+    <td>zhang_hao@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Cheng Liang Yu</td>
+    <td>Teacher</td>
+    <td>cheng_liangyu@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Noorashikin</td>
+    <td>Teacher</td>
+    <td>noorashikin_mohamed_ishak@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Nur Khairiyyah</td>
+    <td>Teacher</td>
+    <td>nur_khairiyyah_nordin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Nadiah</td>
+    <td>Teacher</td>
+    <td>nadiah_abdul_karim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Adeline Chan</td>
+    <td>Teacher</td>
+    <td>adeline_chan_wen_lin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Han Li</td>
+    <td>Teacher</td>
+    <td>han_li@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Suriyani</td>
+    <td>Teacher</td>
+    <td>suriyani_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Ong Lee Eng</td>
+    <td>Teacher</td>
+    <td>ong_lee_eng@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
