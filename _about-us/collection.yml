@@ -2,11 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/.keep
-      - Our Partners/Our Partners.md
-      - Our Partners/Parents.md
-      - Our Partners/Alumni.md
-      - Our Partners/External Organisations.md
       - Principal’s Message.md
       - Our Rich Heritage/.keep
       - Our Rich Heritage/Our Rich Heritage.md
@@ -20,3 +15,8 @@ collections:
       - People/School Management Committee.md
       - People/School Staff.md
       - Publications.md
+      - Our Partners/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Parents.md
+      - Our Partners/Alumni.md
+      - Our Partners/External Organisations.md
