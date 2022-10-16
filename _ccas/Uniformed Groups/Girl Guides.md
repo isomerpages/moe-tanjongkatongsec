@@ -9,11 +9,11 @@ third_nav_title: Uniformed Groups
 
 ## **About**
 
-Guiding is an educational youth movement. It is open to all girls without distinction of creed, race, nationality or any other circumstance.
+<p style="text-align: justify;">Guiding is an educational youth movement. It is open to all girls without distinction of creed, race, nationality or any other circumstance.</p>
 
-Guiding is a game of adventure, observation, knowledge and ideas. It is an education in life skills that will encourage each girl to be a responsible citizen and to lead a useful life.
+<p style="text-align: justify;">Guiding is a game of adventure, observation, knowledge and ideas. It is an education in life skills that will encourage each girl to be a responsible citizen and to lead a useful life.</p>
 
-The aim is to provide girls with the opportunity for self-training in the development of character, in realisation of citizenship and promotion of service to the community.
+<p style="text-align: justify;">The aim is to provide girls with the opportunity for self-training in the development of character, in realisation of citizenship and promotion of service to the community.</p>
 
 ### Activities
 
