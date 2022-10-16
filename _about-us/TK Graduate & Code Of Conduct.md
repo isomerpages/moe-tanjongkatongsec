@@ -35,7 +35,7 @@ In the Classroom
 *   Greet teacher/guest after the command signal by the class Chairman
 *   Bring out the learning materials for the subject on your table
 
-1.  During lesson
+2.  During lesson
 
 *   Quieten down quickly and give your attention when your teacher shows the hand signal
 *   Raise your hand before posing questions
@@ -45,13 +45,13 @@ In the Classroom
 *   Refrain from visiting the toilet, unless urgent
 *   Be at your best behaviour at all times
 
-1.  During lesson (Group work)
+3.  During lesson (Group work)
 
 *   Help arrange the class to get into group work seating arrangement upon teacher’s instructions
 *   Understand the objective and nature of group activity as well as ground rules set
 *   Perform the assigned group roles for the group work activity and carry out your responsibilities well
 
-1.  End of Lesson (last 5 minutes of period)
+4.  End of Lesson (last 5 minutes of period)
 
 *   Seek to understand the key points of your lesson
 *   Arrange classroom seating back to default mode (when there is group work)
