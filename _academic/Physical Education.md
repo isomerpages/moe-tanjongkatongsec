@@ -83,7 +83,13 @@ As part of the coursework requirement, students will choose ONE practical activi
 
 For the practical component, based on the school’s resources and capabilities, TK will be offering activities from the 2 categories.
 
-<table width="420" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 116px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Categories Practical Activities (Individual/Dual Individual)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Categories Practical Activities (Team)</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Swimming</td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Basketball</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Track and Field</td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Floorball</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Badminton</td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Football</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Table Tennis</td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px;">Netball</td></tr></tbody></table>
+|                                                              |                                        |
+|--------------------------------------------------------------|----------------------------------------|
+| Categories Practical Activities (Individual/Dual Individual) | Categories Practical Activities (Team) |
+| Swimming                                                     | Basketball                             |
+| Track and Field                                              | Floorball                              |
+| Badminton                                                    | Football                               |
+| Table Tennis                                                 | Netball                                |
 
 **Theoretical component** **(40%):**
 
