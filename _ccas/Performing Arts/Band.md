@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 # Band
 
-**About**
+## **About**
 
 The beginnings of the Tanjong Katong Band can be traced to two root branches. One branch – from the former Tanjong Katong Technical School (TKTS) – began in the year 1965. That band started out humbly as a brass band with only 26 members. It called itself the Tanjong Katong Brass Band – TKBB, in short.
 
@@ -28,7 +28,7 @@ The band continues its tradition of excellence, serving as a living spirit for a
 
 Mr Lawrence Siao
 
-**Teachers-in-Charge**
+## **Teachers-in-Charge**
 
 *   **Mr Siao Choon Keong Lawrence**
 *   Mr Gordon Yong Wenjie
