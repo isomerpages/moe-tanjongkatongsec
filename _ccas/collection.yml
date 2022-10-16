@@ -2,13 +2,13 @@ collections:
   ccas:
     output: true
     order:
-      - Physical Sports/Netball.md
       - Physical Sports/.keep
       - Physical Sports/Physical Sports.md
       - Physical Sports/Athletics.md
       - Physical Sports/Basketball.md
       - Physical Sports/Floorball.md
       - Physical Sports/Football.md
+      - Physical Sports/Netball.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2021.md
