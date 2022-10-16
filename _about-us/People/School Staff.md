@@ -319,3 +319,193 @@ third_nav_title: People
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">HUMANITIES DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm Rozanah Basrun</td>
+    <td>HOD Humanities</td>
+    <td>rozanah_basrun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Chin Wan Ee</td>
+    <td>School Staff Developer</td>
+    <td>chua_wan_ee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Hazelin</td>
+    <td>SH History</td>
+    <td>nor_hazelin_idayu@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Nani Rahayu</td>
+    <td>Senior Teacher</td>
+    <td>nani_rahayu_mohamed@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Audrey Chen</td>
+    <td>Senior Teacher</td>
+    <td>lau_siew_kiang_audrey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Liz Sriyanty</td>
+    <td>Teacher</td>
+    <td>liz_sriyanty_jamaludin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Lee Hui Ling</td>
+    <td>Teacher</td>
+    <td>lee_hui_ling_b@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Syafeena</td>
+    <td>Teacher</td>
+    <td>syafeena@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Melissa Chua</td>
+    <td>Teacher</td>
+    <td>chua_sock_huang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Connie Ho</td>
+    <td>Teacher</td>
+    <td>shu_ying_ho@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Tan Sze Eng</td>
+    <td>Teacher</td>
+    <td>tan_sze_eng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Ian Chan</td>
+    <td>Teacher</td>
+    <td>chan_zhi_wei_ian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Estee Goh</td>
+    <td>Teacher</td>
+    <td>estee_goh_pei_shan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Ayshathun</td>
+    <td>Teacher</td>
+    <td>ayshathun_munavvara_shihabuddeen@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">PE &amp; CCA DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Clarence Tng</td>
+    <td>HOD PE &amp; CCA</td>
+    <td>tng_choon_beng_clarence@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Yusoff</td>
+    <td>Teacher</td>
+    <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Colin Chew</td>
+    <td>Teacher</td>
+    <td>colin_chew_kim_heng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Danny Wong</td>
+    <td>Teacher</td>
+    <td>wong_kok_wye_danny@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Chye De San</td>
+    <td>Teacher</td>
+    <td>chye_de_san@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">DESIGN TECHNOLOGY &amp; FOOD CONSUMER EDUCATION DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm Shahera</td>
+    <td>HOD Craft &amp; Tech</td>
+    <td>shahera_mohamed@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Pang Ling Li</td>
+    <td>Teacher</td>
+    <td>pang_ling_li@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Tan Wan Hwa</td>
+    <td>Teacher</td>
+    <td>tan_wan_hwa@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Ermawati</td>
+    <td>Teacher</td>
+    <td>ermawati_zaini@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Foo Wen Hui</td>
+    <td>Teacher</td>
+    <td>foo_wen_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Ahmad Borhan</td>
+    <td>Educational Workshop Instructor</td>
+    <td>ahmad_borhan_mohd_salleh@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">ICT/AV DEPARTMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Alan Pang</td>
+    <td>SH ICT</td>
+    <td>pang_chau_choon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Shirah</td>
+    <td>ICT Associate</td>
+    <td>nur_shirah_rafidi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Atiqah</td>
+    <td>ICT Associate</td>
+    <td>nur_atiqah_zaini_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Adric Chan</td>
+    <td>Desktop Engineer</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Muhammad Hazwan</td>
+    <td>AV Technician</td>
+    <td>muhammad_hazwan_zainal@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
