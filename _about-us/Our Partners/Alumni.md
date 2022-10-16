@@ -46,16 +46,12 @@ From TK Gives Back Day, staff, students and alumni raised 10659 bowls of rice fo
   <tr>
     <td><a href="/images/About%20us/1-7.jpg" target = "_blank"> <img src="/images/About%20us/1-7.jpg" style="width:100%"></a></td>
     <td><a href="/images/About%20us/2-5.jpg" target = "_blank"> <img src="/images/About%20us/2-5.jpg" style="width:100%"></a></td>
-    <td><img src="/images/About%20us/3-3.jpg" 
-     style="width:100%"></td>
+    <td><a href="/images/About%20us/3-3.jpg" target = "_blank"> <img src="/images/About%20us/3-3.jpg" style="width:100%"></a></td>
   </tr>
   <tr>
-    <td><img src="/images/About%20us/4-1.jpg" 
-     style="width:100%"></td>
-    <td><img src="/images/About%20us/5-1.jpg" 
-     style="width:100%"></td>
-    <td><img src="/images/About%20us/6-1.jpg" 
-     style="width:100%"></td>
+    <td><a href="/images/About%20us/4-1.jpg" target = "_blank"> <img src="/images/About%20us/4-1.jpg" style="width:100%"></a></td>
+    <td><a href="/images/About%20us/5-1.jpg" target = "_blank"> <img src="/images/About%20us/5-1.jpg" style="width:100%"></a></td>
+    <td><a href="/images/About%20us/6-1.jpg" target = "_blank"> <img src="/images/About%20us/6-1.jpg" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
