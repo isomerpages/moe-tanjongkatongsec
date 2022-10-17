@@ -4,6 +4,7 @@ permalink: /academic/aesthetics/
 description: ""
 ---
 # Aesthetics
+
 |                  |                          |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **VISION & MISSION** | **VISION**<br>To establish TK as an institution that is rich and vibrant in arts and culture.<br>**MISSION**<br>In TK, the promotion of the learning of and the passion for arts and culture is achieved by having all TKsians develop an **appreciation** for the arts, the **immersion** in the arts and ultimately in the **presentation** of the arts.                                                                    |
