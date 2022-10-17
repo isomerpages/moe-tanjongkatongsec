@@ -4,6 +4,8 @@ permalink: /emas-programme/
 description: ""
 ---
 # EMAS Programme
+
+
 |                          |                                |
 |--------------------------|------------------|
 | **VISION & MISSION & GOALS** | EMAS (Elective Malay Language Programme for Secondary School) was first launched by the Ministry of Education in 2001. In 2006, Tanjong Katong Secondary School became the second EMAS centre in Singapore. The programme aims to nurture the language talents of students so that they can attain a high level of proficiency in the Malay language and a deeper appreciation of Malay culture and literature. This allows us to produce more language experts and leaders to continue the effort of enriching and enhancing Malay language in Singapore. |
