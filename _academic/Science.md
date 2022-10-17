@@ -4,6 +4,8 @@ permalink: /academic/science/
 description: ""
 ---
 # Science
+
+
 |                  |                        |
 |------------------|---------------------|
 | **VISION & MISSION** | **Today’s Curriculum Defining Tomorrow’s Education**<br><br>**Vision**<br>A rigorous Science curriculum driven by self-directed learning fuelled by passion, grounded in sound values and supported by new media                               |
