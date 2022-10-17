@@ -4,6 +4,7 @@ permalink: /academic/design-technology-and-food-consumer-education/
 description: ""
 ---
 # Design Technology & Food Consumer Education
+
 |              |          |
 |--------------|--------------------------------------------------------------------------------------------|
 | **GOALS**        | All students can appreciate and understand the benefits of subjects such as Food & Consumer Education and Design & Technology. Through hands on approach to learning, students will acquire knowledge and develop skills that can be applied in the present, and the future.       |
