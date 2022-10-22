@@ -58,3 +58,7 @@ Through feedback from teachers and peers, students better understand their stren
 Students are assessed developmentally for the following six Personal Qualities, which are aligned to the six TK Graduate Outcomes below.
 
 **Personal Qualities (PQs)**
+
+|                           |                   |                 |                 |                |
+|:-------------------------:|:-----------------:|:---------------:|-----------------|----------------|
+| Self-directed in learning | Positive Attitude | Self-Confidence | Self-Leadership | Peer Supporter |
