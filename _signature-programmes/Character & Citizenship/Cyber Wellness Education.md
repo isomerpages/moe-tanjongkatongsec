@@ -38,3 +38,5 @@ The school experiences under different tiers reinforce and extend the learning f
 | Cyber Relationships | • Develop safe, respectful, and meaningful online relationships (e.g. address cyber bullying, build positive relationships)               |
 | Cyber Citizenship   | • Understand the cyber world and make informed choices about participation in online activities (e.g. accessing online content with malicious intent/inappropriate websites with content that is violent, sexual or harmful in nature)<br><br>• Recognise and protect oneself and others from online risks associated with people who may have malicious intent (e.g. hackers, scammers, online predators)<br><br>• Have a positive presence in the cyber community and be a positive influence |
 | Cyber Ethics        | • Create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)<br><br>• Respect copyright                      |
+
+Parents may refer to the following resources for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
