@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Character & Citizenship/Values in Action.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
       - Character & Citizenship/Character Education.md
@@ -10,4 +9,5 @@ collections:
       - Character & Citizenship/Environmental Policy.md
       - Character & Citizenship/National Education.md
       - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/Values in Action.md
       - Aesthetics Programme.md
