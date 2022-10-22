@@ -42,20 +42,20 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-1-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-1-1.jpg"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 
 <p style="text-align: center;"><b>Secondary 2</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-2.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-2.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-2.jpg"> <img src="/images/Signature%20Programmes/Sec-2.jpg"></a>
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-3-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-3-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-3-1.jpg"> <img src="/images/Signature%20Programmes/Sec-3-1.jpg"></a>
 
 <p style="text-align: center;"><b>Secondary 4</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-4-1.jpg"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a>
 
 <u><b><i>eTeens</i> Programme</b></u>:
 
@@ -65,7 +65,7 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 **At Tanjong Katong Secondary School, the *eTeens* programme will be implemented as follows in 2022:**
 
-<a href="/images/Signature%20Programmes/eteens.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/eteens.jpg"></a>
+<a href="/images/Signature%20Programmes/eteens.jpg"> <img src="/images/Signature%20Programmes/eteens.jpg"></a>
 
  **Information for Parents**
 
