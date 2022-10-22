@@ -65,7 +65,7 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 **At** **Tanjong Katong Secondary** **School****, the _eTeens_ programme will be implemented as follows in 2022:**
 
-[![Eteens](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/eteens-1024x251.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/eteens.jpg)
+<a href="/images/Signature%20Programmes/eteens.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/eteens.jpg"></a>
 
  **Information for Parents**
 
