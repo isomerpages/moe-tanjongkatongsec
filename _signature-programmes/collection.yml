@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Current Affairs.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -12,3 +11,4 @@ collections:
       - Character & Citizenship/National Education.md
       - Character & Citizenship/Sexuality Education.md
       - Character & Citizenship/Values in Action.md
+      - Current Affairs.md
