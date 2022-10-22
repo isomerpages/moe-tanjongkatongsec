@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Character & Citizenship/.keep
-      - Character & Citizenship/Character Education.md
       - Character & Citizenship/School Counselling.md
+      - Character & Citizenship/Character Education.md
       - Aesthetics Programme.md
