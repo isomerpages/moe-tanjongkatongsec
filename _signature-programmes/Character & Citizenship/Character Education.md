@@ -4,8 +4,6 @@ permalink: /signature-programmes/character-and-citizenship/Character-Education/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-
-
 # Character Education
 **Character and Citizenship Education**
 
@@ -30,7 +28,7 @@ In the design and delivery of the various components of the CCE curriculum, the 
 *   Promoting student choice and voice
 *   Breadth and variety
 
-Centre of Excellence for Character & Citizenship Education (Year of inception- 2011)
+<u>Centre of Excellence for Character & Citizenship Education (Year of inception- 2011)</u>
 
 Tanjong Katong Secondary School is proud to have been selected in 2011 to be one of the three schools in the East Zone to host the EZ Centre of Excellence for CCE. Leading the zone in Character and Citizenship Education, the school has organized and hosted a number of CCE seminars, Brown Bag Sessions and Coffee & Connect Sessions where schools shared their best practices in the implementation of the CCE curriculum over the years.
 
