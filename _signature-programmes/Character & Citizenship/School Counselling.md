@@ -56,7 +56,7 @@ If you encounter the following difficult situations, or know of someone who may 
 *   Encounter of Cyber Dangers/ Threats
 *   Signs of distress
 
-[![Table](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/table-1024x549.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/table.png)
+![](/images/Signature%20Programmes/table.png)
 
 **What happens when you see a Counsellor?**
 
@@ -67,7 +67,7 @@ The Counselling sessions are CONFIDENTIAL and this means:
 *   It will not be reported in your report book, stay in your records that may affect your future, nor shared with anybody. 
 *   However, for your safety, your school counsellor will be required to share the information that puts yourself or someone else at risk of being harmed.
 
-**Other Useful Helplines**
+<b><u>Other Useful Helplines</u></b>
 
 If you would prefer to speak to someone outside the family or school, do consider the following contacts for support:
 
