@@ -42,19 +42,20 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 **Secondary 1**
 
+<a href="/images/Signature%20Programmes/Sec-1-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 
 **Secondary 2**
 
-[![Sec 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-2-1024x315.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-2.jpg)
+<a href="/images/Signature%20Programmes/Sec-2.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 **Secondary 3** 
 
-[![Sec 3](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-3-1-1024x525.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-3-1.jpg)
+<a href="/images/Signature%20Programmes/Sec-3-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 **Secondary 4**
 
-[![Sec 4](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-4-1-1024x675.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/01/Sec-4-1.jpg)
+<a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 **_eTeens_** **Programme**:
 
