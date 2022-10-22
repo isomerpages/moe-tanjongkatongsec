@@ -2,6 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Character Education/Character Education.md
-      - Character Education/.keep
+      - Character & Citizenship/Character Education.md
+      - Character & Citizenship/.keep
       - Aesthetics Programme.md
