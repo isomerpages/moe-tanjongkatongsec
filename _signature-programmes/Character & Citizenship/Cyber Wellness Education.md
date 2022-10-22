@@ -23,6 +23,7 @@ TK adopts MOE’s Cyber Wellness Framework in educating our students on Cyber We
 In order for our students to be equipped with knowledge and skills to navigate cyber space with discernment and empathy, varied opportunities are offered for students to practice their learnings through related experiences where they analyse, evaluate and reflect on Cyber Wellness issues. We aim to partner parents in playing an integral role to reinforce the messages shared in school and through partnership with external agencies to support families. 
 
 <p style="text-align: center;"><b>3-TIERED APPROACH FOR CYBER WELLNESS EDUCATION @ TK</b></p>
+
 <a href="/images/Signature%20Programmes/3-tier.png"> <img src="/images/Signature%20Programmes/3-tier.png"
      style="width:100%"></a>
 		 
