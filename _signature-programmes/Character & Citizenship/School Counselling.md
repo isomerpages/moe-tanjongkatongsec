@@ -45,7 +45,7 @@ Students who require more intensive intervention will be referred to our Lead Sc
 
 **Who may benefit from Counselling?**
 
-If you encounter the following difficult situations, or know of someone who may need help, do talk to any of your Teachers or you can also do a self-referral or refer a friend by requesting for a counselling session. Fill up the [Counselling Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfwkn4nTKaLWyTWuPEFR7kfctXwrswBp4lxnyBcv_nWpjQa4A/viewform) here.
+If you encounter the following difficult situations, or know of someone who may need help, do talk to any of your Teachers or you can also do a self-referral or refer a friend by requesting for a counselling session. Fill up the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwkn4nTKaLWyTWuPEFR7kfctXwrswBp4lxnyBcv_nWpjQa4A/viewform" target="_blank">Counselling Request Form</a> here.
 
 *   Stress or School Anxieties
 *   Academic /Exam Anxieties
