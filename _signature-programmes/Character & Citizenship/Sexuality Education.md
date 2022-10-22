@@ -47,15 +47,15 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 **Secondary 2**
 
-<a href="/images/Signature%20Programmes/Sec-2.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-2.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-2.jpg"></a>
 
 **Secondary 3** 
 
-<a href="/images/Signature%20Programmes/Sec-3-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-3-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-3-1.jpg"></a>
 
 **Secondary 4**
 
-<a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
+<a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a>
 
 **_eTeens_** **Programme**:
 
