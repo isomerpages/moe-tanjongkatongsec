@@ -4,6 +4,7 @@ permalink: /signature-programmes/Character-and-Citizenship/school-counselling/
 description: ""
 third_nav_title: Character & Citizenship
 ---
+# Schoolbag Articles links broken: On Growth Mindset (2 links) On Stress and Coping (3links)
 # School Counselling
 
 **What is counselling?**
