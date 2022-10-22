@@ -28,8 +28,8 @@ Students are also given opportunity to showcase their projects through skits and
 <tbody>
   <tr>
     <td><a href="/images/Signature%20Programmes/1-1.jpg"> <img src="/images/Signature%20Programmes/1-1.jpg"></a></td>
-    <td><a href="/images/Signature%20Programmes/1-1.jpg"> <img src="/images/Signature%20Programmes/2-2.jpg"></a></td>
-    <td><a href="/images/Signature%20Programmes/1-1.jpg"> <img src="/images/Signature%20Programmes/3-1.jpg"></a></td>
+    <td><a href="/images/Signature%20Programmes/2-2.jpg"> <img src="/images/Signature%20Programmes/2-2.jpg"></a></td>
+    <td><a href="/images/Signature%20Programmes/3-1.jpg"> <img src="/images/Signature%20Programmes/3-1.jpg"></a></td>
   </tr>
 </tbody>
 </table>
