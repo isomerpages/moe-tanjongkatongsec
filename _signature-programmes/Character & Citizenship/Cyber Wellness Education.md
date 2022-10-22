@@ -40,3 +40,22 @@ The school experiences under different tiers reinforce and extend the learning f
 | Cyber Ethics        | • Create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)<br><br>• Respect copyright                      |
 
 Parents may refer to the following resources for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
+
+
+**Additional resources for parents:**
+
+[Family Contract on Use of Digital Device](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Family-Contract-on-Use-of-Digital-Device.pdf)
+
+[Parent Handbook on 1 to 1 Learning](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Parent-Handbook-on-1_1-Learning.pdf)
+
+[Safe and Smart Online Parent Guide](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Safe-and-Smart-Online-Parent-Guide.pdf)
+
+[Cyber wellness for your child](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/cyber-wellness-for-your-child.pdf)
+
+Parent Guide to Social Media platforms
+
+*   [Instagram](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Instagram-Parents-Guide-V2-081118.pdf)
+*   [Snapchat](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Snapchat-Parents-Guide-V2-081118.pdf)
+*   [TikTok](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/TikTok-x-MLC-ebook.pdf)
+*   [Youtube](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Youtube-Parents-Guide.pdf)
+*   [WhatsApp](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/WhatsApp-Parents-Guide.pdf)
