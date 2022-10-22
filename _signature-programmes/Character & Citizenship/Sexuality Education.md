@@ -22,7 +22,7 @@ ii.  Build positive relationships based on love and respect (which are the found
 iii.  Make responsible decisions for yourself, your family and society; and  
 iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.
 
 **Overview of Tanjong Katong Secondary** **School’s** **Sexuality Education Programme for 2022**
 
