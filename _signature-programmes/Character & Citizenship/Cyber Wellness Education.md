@@ -11,14 +11,9 @@ TK adopts MOE’s Cyber Wellness Framework in educating our students on Cyber We
 
 **_Through CW education, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online._**
 
-<figure>
-	<a href="/images/Signature%20Programmes/cyber-wellness-principles.png"> <img src="/images/Signature%20Programmes/cyber-wellness-principles.png"
+<a href="/images/Signature%20Programmes/cyber-wellness-principles.png"> <img src="/images/Signature%20Programmes/cyber-wellness-principles.png"
      style="width:100%"></a>
-<figcaption>
-	<strong> Staff Activity to Jewel @ Changi Airport </strong>
-	</figcaption>
-</figure>
 
-![](
+
 ![](/images/Signature%20Programmes/multi-approach.png)
 ![](/images/Signature%20Programmes/3-tier.png)
