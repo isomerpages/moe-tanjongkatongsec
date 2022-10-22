@@ -52,19 +52,19 @@ Parents may refer to the following resources for a list of guides and tips, res
 
 **Additional resources for parents:**
 
-<a href="[](/files/Signature%20Programme/Family-Contract-on-Use-of-Digital-Device.pdf)" target="_blank">Family Contract on Use of Digital Device</a>
+<a href="/files/Signature%20Programme/Family-Contract-on-Use-of-Digital-Device.pdf" target="_blank">Family Contract on Use of Digital Device</a>
 
+<a href="/files/Signature%20Programme/Parent-Handbook-on-1_1-Learning.pdf" target="_blank">Parent Handbook on 1 to 1 Learning</a>
 
-[Parent Handbook on 1 to 1 Learning](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Parent-Handbook-on-1_1-Learning.pdf)
+<a href="/files/Signature%20Programme/Safe-and-Smart-Online-Parent-Guide.pdf" target="_blank">Safe and Smart Online Parent Guide</a>
 
-[Safe and Smart Online Parent Guide](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Safe-and-Smart-Online-Parent-Guide.pdf)
+<a href="/files/Signature%20Programme/cyber-wellness-for-your-child.pdf" target="_blank">Cyber wellness for your child</a>
 
-[Cyber wellness for your child](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/cyber-wellness-for-your-child.pdf)
 
 Parent Guide to Social Media platforms
 
 *   [Instagram](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Instagram-Parents-Guide-V2-081118.pdf)
 *   [Snapchat](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Snapchat-Parents-Guide-V2-081118.pdf)
-*   [TikTok](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/TikTok-x-MLC-ebook.pdf)
+*   <a href="/files/Signature%20Programme/TikTok-x-MLC-ebook.pdf" target="_blank">TikTok</a>
 *   [Youtube](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Youtube-Parents-Guide.pdf)
-*   [WhatsApp](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/WhatsApp-Parents-Guide.pdf)
+*  <a href="/files/Signature%20Programme/WhatsApp-Parents-Guide.pdf" target="_blank">WhatsApp</a>
