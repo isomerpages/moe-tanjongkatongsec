@@ -27,11 +27,18 @@ Tier 2 Counselling is provided by the following:
 *   **School Counsellors** who are professional counsellors with either a Diploma, Bachelor or Master Degree in Counselling.
 *   **Teacher-Counsellors (TC)** who are trained on in counselling skills including and in areas such as suicide intervention, grief and loss counselling, and psychological first aid.
 
-**Our Teacher Counsellors**
+<b><u>Our Teacher Counsellors</u></b>
 
 The school’s counselling team comprises the following teachers:
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;"><span style="box-sizing: inherit; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Name</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;"><span style="box-sizing: inherit; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Email Address</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Kalaisselvan Poniah Ponrajah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">kalaisselvan_poniah_ponrajah@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mrs Tan Pei Shan (HOD/CCE)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">teh_pei_shan@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mdm Halilah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">halilah_salim_alkhatib@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Vincent Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">tan_kok_leong_vincent@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mdm Jasma/Mrs Khairul&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">jasmawati_saptu@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Kelvin Yong</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">yong_choon_hei_kelvin@moe.edu.sg</td></tr></tbody></table>
+| Name                            | Email Address                           |
+|---------------------------------|-----------------------------------------|
+| Mr Kalaisselvan Poniah Ponrajah | kalaisselvan_poniah_ponrajah@moe.edu.sg |
+| Mrs Tan Pei Shan (HOD/CCE)      | teh_pei_shan@moe.edu.sg                 |
+| Mdm Halilah                     | halilah_salim_alkhatib@moe.edu.sg       |
+| Mr Vincent Tan                  | tan_kok_leong_vincent@moe.edu.sg        |
+| Mdm Jasma/Mrs Khairul           | jasmawati_saptu@moe.edu.sg              |
+| Mr Kelvin Yong                  | yong_choon_hei_kelvin@moe.edu.sg        |
 
 **3\. Referral to specialists or community agencies**  
 Students who require more intensive intervention will be referred to our Lead School Counsellor, or mental health professionals from the multi-disciplinary Response, Early intervention, Assessment in Community mental Health (REACH), or social service agencies. 
