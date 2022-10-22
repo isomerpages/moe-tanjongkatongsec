@@ -15,6 +15,6 @@ At the heart of the framework, TK’s Vision, Mission, Values anchor CCE key pro
 
 We adopt the Head-Heart-Hand approach (Lickona, 1991) and aim to impart knowledge, inculcate values and motivate students to take the right actions.
 
-|             Moral Knowing (Head): Awareness & Understanding            |                         Moral Feeling (Heart): Beliefs & Convictions                         |          Moral Action (Hand):  Commitment & Demonstration         |
-|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| Teach values<br>Develop reasoning skills & responsible decision making | Promote reflection on thoughts, feelings and behaviour<br>Develop perspective taking/empathy | Encourage positive role models<br>Encourage altruistic leadership |
+|      Moral Knowing (Head): Awareness & Understanding            |        Moral Feeling (Heart): Beliefs & Convictions                 |          Moral Action (Hand):  Commitment & Demonstration         |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| - Teach values<br>- Develop reasoning skills & responsible decision making | - Promote reflection on thoughts, feelings and behaviour<br>- Develop perspective taking/empathy | - Encourage positive role models<br>- Encourage altruistic leadership |
