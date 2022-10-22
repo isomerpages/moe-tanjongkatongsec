@@ -21,17 +21,17 @@ In TK, the promotion of the learning of and the passion for arts and culture isÂ
 <tbody>
   <tr>
     <td>Sec 1</td>
-    <td>General Art Programme (GAP)<br>General Music Programme (GMP)<br>Music Elective Programme (MEP) (external)*</td>
-    <td rowspan="3">Arts Learning Journey (Sec 2)<br>Aesthetics Corner<br>Hall Assembly Programme<br>O Level Music Showcase<br>Post-Exam Arts Learning Journeys<br>CHOICES Programme (Sec 3)</td>
+    <td>- General Art Programme (GAP)<br><br>- General Music Programme (GMP)<br><br>- Music Elective Programme (MEP) (external)*</td>
+    <td rowspan="3">- Arts Learning Journey (Sec 2)<br>Aesthetics Corner<br><br>- Hall Assembly Programme<br><br>- O Level Music Showcase<br><br>- Post-Exam Arts Learning Journeys<br><br>- CHOICES Programme (Sec 3)</td>
     <td rowspan="3">Art Club<br><br>5 Performing Arts CCA:<br>Band<br>Choir<br>Dance<br>Drama (EL)<br>Drama (CL)<br>Platforms:<br>SYF Art Presentations<br>Biennial Concerts (Band/Choir)<br>Public Peformances (NDP, SYF Opening Ceremony, Collaboration with SCO)<br>Band: NCO Camps etc.</td>
   </tr>
   <tr>
     <td>Sec 2</td>
-    <td>General Art Programme (GAP)<br>General Music Programme (GMP)<br>iPad Music Lesson<br>Music Elective Programme (MEP) (external)*</td>
+    <td>- General Art Programme (GAP)<br><br>- General Music Programme (GMP)<br><br>- iPad Music Lesson<br><br>- Music Elective Programme (MEP) (external)*</td>
   </tr>
   <tr>
     <td>Upper<br>Sec</td>
-    <td>O Level Art Programme<br>O Level Music Programme (external)*</td>
+    <td>- O Level Art Programme<br><br>- O Level Music Programme (external)*</td>
   </tr>
 </tbody>
 </table>
