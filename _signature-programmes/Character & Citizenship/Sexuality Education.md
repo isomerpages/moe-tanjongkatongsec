@@ -40,20 +40,20 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 **At Tanjong Katong Secondary Secondary School, the following Sexuality Education lessons will be taught in** <u><b>2022</b></u>:
 
-**Secondary 1**
+<p style="text-align: center;"><b>Secondary 1</b></p>
 
 <a href="/images/Signature%20Programmes/Sec-1-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
 
 
-**Secondary 2**
+<p style="text-align: center;"><b>Secondary 2</b></p>
 
 <a href="/images/Signature%20Programmes/Sec-2.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-2.jpg"></a>
 
-**Secondary 3** 
+<p style="text-align: center;"><b>Secondary 3</b></p>
 
 <a href="/images/Signature%20Programmes/Sec-3-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-3-1.jpg"></a>
 
-**Secondary 4**
+<p style="text-align: center;"><b>Secondary 4</b></p>
 
 <a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a>
 
