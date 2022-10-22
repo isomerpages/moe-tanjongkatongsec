@@ -42,12 +42,13 @@ The school experiences under different tiers reinforce and extend the learning f
 Parents may refer to the following resources for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
 
 
-| Ministry of Education             | https://www.moe.gov.sg/programmes/cyber-wellness                                           |
+|                                   |                                                                                            |
 |-----------------------------------|--------------------------------------------------------------------------------------------|
-| Cyber Security Agency             | https://www.csa.gov.sg/gosafeonline                                                        |
-| Media Literacy Council            | https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents |
-| National Crime Prevention Council | https://www.scamalert.sg/resources/videos                                                  |
-| National Library Board            | https://sure.nlb.gov.sg                                                                    |
+| **Ministry of Education**            | https://www.moe.gov.sg/programmes/cyber-wellness                                           |
+| **Cyber Security Agency**             | https://www.csa.gov.sg/gosafeonline                                                        |
+| **Media Literacy Council**            | https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents |
+| **National Crime Prevention Council** | https://www.scamalert.sg/resources/videos                                                  |
+| **National Library Board**            | https://sure.nlb.gov.sg                                                                    |
 
 **Additional resources for parents:**
 
