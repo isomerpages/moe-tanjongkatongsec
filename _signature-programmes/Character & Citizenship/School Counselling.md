@@ -4,3 +4,68 @@ permalink: /signature-programmes/Character-and-Citizenship/school-counselling/
 description: ""
 third_nav_title: Character & Citizenship
 ---
+# School Counselling
+
+**What is counselling?**
+
+Counselling involves providing a safe environment for students to share your challenges and work through your social, emotional, behavioural and mental health issues with a trained counsellor.
+
+A Counsellor supports students by helping you learn and use strategies to manage and cope with your emotions or situation and enables you to make choices for positive change and development.
+
+**Support and Referral Process**
+
+There are 3 levels of counselling at TK:  
+  
+**1\. Support by teachers**  
+Students are encouraged to talk to their Teachers who will provide the first level of support.   
+  
+**2\. Referral to counsellors**  
+Students who need more specialised attention may be referred to a teacher-counsellor or school counsellor who will provide early intervention for students facing social, emotional or mental health challenges.
+
+Tier 2 Counselling is provided by the following:
+
+*   **School Counsellors** who are professional counsellors with either a Diploma, Bachelor or Master Degree in Counselling.
+*   **Teacher-Counsellors (TC)** who are trained on in counselling skills including and in areas such as suicide intervention, grief and loss counselling, and psychological first aid.
+
+**Our Teacher Counsellors**
+
+The school’s counselling team comprises the following teachers:
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;"><span style="box-sizing: inherit; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Name</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;"><span style="box-sizing: inherit; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Email Address</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Kalaisselvan Poniah Ponrajah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">kalaisselvan_poniah_ponrajah@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mrs Tan Pei Shan (HOD/CCE)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">teh_pei_shan@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mdm Halilah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">halilah_salim_alkhatib@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Vincent Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">tan_kok_leong_vincent@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mdm Jasma/Mrs Khairul&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">jasmawati_saptu@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">Mr Kelvin Yong</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px;">yong_choon_hei_kelvin@moe.edu.sg</td></tr></tbody></table>
+
+**3\. Referral to specialists or community agencies**  
+Students who require more intensive intervention will be referred to our Lead School Counsellor, or mental health professionals from the multi-disciplinary Response, Early intervention, Assessment in Community mental Health (REACH), or social service agencies. 
+
+**Who may benefit from Counselling?**
+
+If you encounter the following difficult situations, or know of someone who may need help, do talk to any of your Teachers or you can also do a self-referral or refer a friend by requesting for a counselling session. Fill up the [Counselling Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfwkn4nTKaLWyTWuPEFR7kfctXwrswBp4lxnyBcv_nWpjQa4A/viewform) here.
+
+*   Stress or School Anxieties
+*   Academic /Exam Anxieties
+*   Grief and Loss
+*   Relationship issues with Peers
+*   Family Conflicts
+*   Bullying
+*   Encounter of Cyber Dangers/ Threats
+*   Signs of distress
+
+[![Table](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/table-1024x549.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/table.png)
+
+**What happens when you see a Counsellor?**
+
+During the counselling session, the counsellor will explore your concerns and various coping strategies with you so that you can try what works best for you. Together, you will tap on your strengths and resources to customize strategies to build your mental well-being.
+
+The Counselling sessions are CONFIDENTIAL and this means:
+
+*   It will not be reported in your report book, stay in your records that may affect your future, nor shared with anybody. 
+*   However, for your safety, your school counsellor will be required to share the information that puts yourself or someone else at risk of being harmed.
+
+**Other Useful Helplines**
+
+If you would prefer to speak to someone outside the family or school, do consider the following contacts for support:
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px; height: 198px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 23px;"><strong style="box-sizing: inherit; font-weight: bold;">Organisation</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; text-align: center; height: 23px;"><strong style="box-sizing: inherit; font-weight: bold;">Telephone number</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 23px; text-align: left;">Samaritans of Singapore (SOS) 24hrs</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 23px; text-align: center;">1800-221 4444</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 44px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 44px;">Singapore Association for Mental Health</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 44px; text-align: center;">1800-283-7019</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 44px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 44px; text-align: left;">Touchline for youths Mon to Fri, 9.00am to 6.00pm</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 44px; text-align: center;">1800-377-2252</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 64px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 64px;">IMH Emergency Hotline Urgent intervention for those who are facing a mental health crisis</td><td style="box-sizing: inherit; padding: 5px 10px; width: 428.167px; height: 64px; text-align: center;">6389-2222 (24 hours)</td></tr></tbody></table>
+
+**Schoolbag Articles**
+
+Schoolbag.sg has feature areas on student well-being in their articles. Please click on the following links to access them.
