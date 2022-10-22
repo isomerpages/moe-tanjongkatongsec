@@ -63,7 +63,7 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education" t
 
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At** **Tanjong Katong Secondary** **School****, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Tanjong Katong Secondary School, the *eTeens* programme will be implemented as follows in 2022:**
 
 <a href="/images/Signature%20Programmes/eteens.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/eteens.jpg"></a>
 
