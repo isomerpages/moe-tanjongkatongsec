@@ -52,7 +52,8 @@ Parents may refer to the following resources for a list of guides and tips, res
 
 **Additional resources for parents:**
 
-[Family Contract on Use of Digital Device](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Family-Contract-on-Use-of-Digital-Device.pdf)
+<a href="[](/files/Signature%20Programme/Family-Contract-on-Use-of-Digital-Device.pdf)" target="_blank">Family Contract on Use of Digital Device</a>
+
 
 [Parent Handbook on 1 to 1 Learning](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Parent-Handbook-on-1_1-Learning.pdf)
 
