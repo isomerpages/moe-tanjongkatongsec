@@ -4,6 +4,7 @@ permalink: /signature-programmes/Character-and-Citizenship/cyber-wellness-educat
 description: ""
 third_nav_title: Character & Citizenship
 ---
+# Additional resources for parents: > Parent Guide to Social Media platforms: Instagram, snapchat, youtube pdfs > 5MB
 # Cyber Wellness Education
 
 <p style="text-align: center;"><b> Overview of Cyber Wellness Education at TK </b></p>
