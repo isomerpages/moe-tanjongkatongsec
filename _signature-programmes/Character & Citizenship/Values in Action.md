@@ -4,7 +4,7 @@ permalink: /signature-programmes/Character-and-Citizenship/values-in-action/
 description: ""
 third_nav_title: Character & Citizenship
 ---
- # Values in Action
+# Values in Action
  Values in Action in TK, students are encouraged to select community issues that they are concerned about, understand the issues better, and then decide how they can make a difference in a sustained way. Teachers and more senior students will act as facilitators and mentors to support them in their individual or group endeavours.
 
 In the process of executing their projects, students will undertake personal and group reflections on their Values in Action (VIA) experience. They will discuss their experience and the role that they can play in the community. They will reflect on the values they have put into practice and how they can continue to contribute meaningfully. Such reflections will reinforce learning, make it more authentic and help students internalise values.
@@ -27,9 +27,9 @@ Students are also given opportunity to showcase their projects through skits and
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="![](/images/Signature%20Programmes/1-1.jpg)" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a></td>
+    <td><a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a></td>
+    <td><a href="/images/Signature%20Programmes/Sec-4-1.jpg" target = "_blank"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a></td>
   </tr>
 </tbody>
 </table>
