@@ -7,8 +7,7 @@ description: ""
 
 [![](/images/Sec%201%202023/Academic-year-2022.png)](/images/Sec%201%202023/Academic-year-2022.png)
 
-**Academic Year 2022**
-----------------------
+### **Academic Year 2022**
 
 **Welcome Note from Principal to Sec 1 Parents and Students**
 
@@ -83,8 +82,8 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 
 **Bus Services:** 16, 33 (Dunman Road beside/opposite TK side gate) 10, 31 , 32 , 40 , 76 , 135 , 197 (Tanjong Katong Road)
 
-**Appearance and School Attire Requirements**
----------------------------------------------
+### **Appearance and School Attire Requirements**
+
 
 Please refer to the following link:
 
