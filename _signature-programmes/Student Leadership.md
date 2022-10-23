@@ -99,7 +99,7 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 
  |   |   |
 |---|---|
-| [![Img 1074](/images/Signature%20Programmes/Student%20Leadership/IMG_1074.jpg)]((/images/Signature%20Programmes/Student%20Leadership/IMG_1074.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_2353.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_2353.jpg)  | 
+| [![Img 1074](/images/Signature%20Programmes/Student%20Leadership/IMG_1074.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_1074.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_2353.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_2353.jpg)  | 
 
  |   |   |
 |---|---|
