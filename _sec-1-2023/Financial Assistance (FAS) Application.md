@@ -11,7 +11,7 @@ The MOE Financial Assistance (FAS) Application is now open for application for 2
 
 **(i) eFAS (**[**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)**)**
 <img src="/images/Sec%201%202023/eFAS.jpg" 
-     style="width:30%">
+     style="width:25%">
 
 2.  Both the link for eFAS and hardcopy application form is attached in this notification, including the QR code.
 3.  Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link.
