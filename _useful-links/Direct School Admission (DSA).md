@@ -3,6 +3,7 @@ title: Direct School Admission (DSA)
 permalink: /useful-links/dsa/
 description: ""
 ---
+# broken links Direct to DSA-Sec Portal (Mainstream Students): https://go.gov.sg/apply-dsa-sec , Direct to DSA-Sec Portal (Non Mainstream Students): https://go.gov.sg/apply-dsa-sec-nms
 # Direct School Admission (DSA)
 **Direct School Admission to Sec 1 2023 Intake**
 
