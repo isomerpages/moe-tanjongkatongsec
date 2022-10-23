@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 ---
 # Students
-*   [SYFC](http://www.syfc.sg/)
+*   <a href="http://www.syfc.sg/" target="_blank">SYFC</a>
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *   [Password Reset](https://tinyurl.com/tksspwreset)
 *   [Library OPAC System](https://schoolibrary.moe.edu.sg/tanjongkatongsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
