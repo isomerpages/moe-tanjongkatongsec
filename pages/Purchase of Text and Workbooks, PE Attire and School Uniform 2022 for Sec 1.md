@@ -9,7 +9,7 @@ Dear Parents/Guardians,
 
 In view of the Covid-19 situation and the safe management measures put in place, the sale of textbooks, materials, PE attire and the school uniform for academic year 2022 will go online again this year.
 
-[Download the Booklist for Sec 1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/TKSS-S1-BOOKLIST.pdf)
+<a href="/files/Sec1%202023/TKSS-S1-BOOKLIST.pdf" target="_blank">Download the Booklist for Sec 1</a>
 
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose that you purchase the books and uniform online and you are strongly encouraged to opt for **home delivery** to ensure a smooth and pleasant purchase experience.
 
