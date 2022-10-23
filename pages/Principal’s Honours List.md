@@ -58,7 +58,9 @@ Sec 4 PHL Students – Going Beyond
 
 **Example of Einstein + Project**
 
-[![Stem](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/STEM-1024x679.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/STEM.png)**Sec 4 PHL Students**
+[![Stem](/images/STEM.png)](/images/STEM.png)
+
+**Sec 4 PHL Students**
 
 <p style="text-align: justify;">Sec 4 PHL students will attend training sessions to hone their skills for the various assessments during their university and scholarship applications. These include workshops for personal statement writing, resume and interviews and oracy skills.</p>
 
