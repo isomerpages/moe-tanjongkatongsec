@@ -40,7 +40,8 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 
 ### **Important Information for Sec 1 students and parents**
 
-*   [Purchase of Books, PE Attire and School Uniform](https://tanjongkatongsec.moe.edu.sg/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2022/)
+*   <a href="/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2022/" target="_blank">Purchase of Books, PE Attire and School Uniform</a>
+
 *   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
 **Daily Reporting & Dismissal Time**
