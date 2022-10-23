@@ -4,6 +4,7 @@ permalink: /useful-links/pld/parents-handbook/
 description: ""
 third_nav_title: Personal Learning Device (PLD)
 ---
+# Parent Handbook (II) on Learning with a Personal Learning Device file> 5MB
 # Parents Resources
 **DMA Resource Guide**
 
