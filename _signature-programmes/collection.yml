@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Student Leadership.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -16,3 +15,4 @@ collections:
       - Da Vinci Programme.md
       - Einstein Programme.md
       - Education and Career Guidance.md
+      - Student Leadership.md
