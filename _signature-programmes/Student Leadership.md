@@ -89,17 +89,13 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 |---|---|
 |   |   |
 
-
-
-  
-
-[![Img 0929](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_0929-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_0929.jpg)
-
-[![Img 0925](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_0925-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_0925.jpg)
-
   
 
 #### Class  & Peer Support Leaders
+
+|   |   |
+|---|---|
+| <a href="/images/Signature%20Programmes/Student%20Leadership/2C.jpeg"> <img src="/images/Signature%20Programmes/Student%20Leadership/2C.jpeg" style="width:100%"></a>  | <a href=""> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_0883.jpg" style="width:100%"></a>  |
 
 [![2c](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/2C-1024x768.jpeg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/2C.jpeg)
 
