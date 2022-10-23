@@ -6,8 +6,7 @@ third_nav_title: Personal Learning Device (PLD)
 ---
 # Personal Learning Device (PLD)
 
-Frequently Asked Questions
---------------------------
+### Frequently Asked Questions
 
 **PLD**  
 **1\. What device will the students be purchasing?**  
