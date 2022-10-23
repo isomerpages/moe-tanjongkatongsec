@@ -50,6 +50,13 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 |---|---|
 |  Sec 1 & 2 Cohort | Sec 1 & 2 Mass Leadership Trainings by Board of CCA Heads  |
 
+|  Inter-Personal Leadership: **Leading the Team**                    |                                                             |
+|----------------------|-------------------------------------------------------------|
+| Class Leaders        | Class Leaders Mass & Targeted Leadership Training           |
+| Peer Support Leaders | Peer Support Leaders Training & Peer Support Class Sessions |
+| CCA Leaders          | Mass CCA Leaders Training & Individualised CCA Training     |
+| Student Councillors  | Mass Leadership Training & SC Leadership Training           |
+
 **Gallery** 
 
 #### CCA Leaders
