@@ -9,7 +9,7 @@ description: ""
 **Fax:** 6440 9624  
 **Email:** [tkss@moe.edu.sg](http://tkss.24k-designs.com/mailto:tkss@moe.edu.sg)
 
-**Getting to TK**
+<b><u>Getting to TK</u></b>
 
 **Nearest MRT Station:** Paya Lebar & Dakota Station
 
