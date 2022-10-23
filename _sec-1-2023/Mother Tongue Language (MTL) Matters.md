@@ -5,10 +5,7 @@ description: ""
 ---
 # Mother Tongue Language (MTL) Matters
 
-Mother Tongue Language (MTL) Matters
-====================================
-
-*   MOE HMTL Option Letters will be given to **eligible Sec 1 students** based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens. **Parents are advised to purchase MT/ HMTL textbook on the first week of school only after receiving the eligibility letter to be offered HMTL.**
+*   MOE HMTL Option Letters will be given to <b><u>eligible Sec 1 students</u></b> based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens. **Parents are advised to purchase MT/ HMTL textbook on the first week of school only after receiving the eligibility letter to be offered HMTL.**
 *   For students who are offering Higher Chinese Language (HCL) and Higher Malay Language (HML), they will study these subjects during school curriculum time.
 *   For students who are offering HCL and HML, students are to indicate accept or reject the offer and inform their Higher Mother Tongue or Mother Tongue teacher in the first HMT or MT lesson in 2022.
 *   For students who are offering Higher Tamil Language (HTL), they will need to attend lessons at designated HTL centres.
