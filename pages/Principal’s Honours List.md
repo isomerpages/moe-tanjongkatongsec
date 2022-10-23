@@ -9,7 +9,9 @@ description: ""
 
  The school’s Principal’s Honours List (PHL) is the second platform for TD@TK. PHL is structured according and aligned to the 3I (Imaginative-Inquisitive-Interconnectedness) framework of TD@TK below.
 
-[![](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/PHL-845x1024.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/PHL.png)**PRINCIPAL’S HONOURS LIST**
+[![](/images/PHL.png)](/images/PHL.png)
+
+**PRINCIPAL’S HONOURS LIST**
 
 **Aims**
 
