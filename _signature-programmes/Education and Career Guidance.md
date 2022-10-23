@@ -4,11 +4,11 @@ permalink: /signature-programmes/education-and-career-guidance/
 description: ""
 ---
 # Education and Career Guidance
-**Aim**
+### **Aim**
 
 To equip TKsians with requisite attributes and competencies to succeed in their future education and career.
 
-**Outcome**
+### **Outcome**
 
 To provide TKsians with a social-emotional learning experience which will contribute to:
 
@@ -17,13 +17,13 @@ To provide TKsians with a social-emotional learning experience which will contri
 *   enhancing the ability to make effective decisions in education and career choices; and
 *   developing 2lst century worker qualities of pro-activity, adaptability and resilience to thrive in this challenging world of work
 
-**ECG Curriculum**
+### **ECG Curriculum**
 
 The ECG programmes are designed developmentally appropriate and delivered in a rigorous manner to cater to the needs of our students from Secondary One to Four. As part of the CCE learning outcomes ECG also serves as a vehicle for our students to develop their social and emotional competencies in all the 5 domains of SEL.
 
 In TK, ECG activities are delivered in a variety of ways either involving the use of the e-portal or through the carrying out of non-portal activities.
 
-**Overview of ECG Programmes**
+### **Overview of ECG Programmes**
 
 Students should be able to demonstrate effective communication by:
 
