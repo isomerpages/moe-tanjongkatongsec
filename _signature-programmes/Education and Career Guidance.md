@@ -37,7 +37,7 @@ Students should be able to demonstrate effective communication by:
 | Institute of Higher Learning (IHL) Talks | Sec 4 |
 | Career & Education Fair / Seminar | Sec 4|
 
-**ECG Programme Highlights**
+### **ECG Programme Highlights**
 
 #### 1\. Career Dialogue Sessions
 
