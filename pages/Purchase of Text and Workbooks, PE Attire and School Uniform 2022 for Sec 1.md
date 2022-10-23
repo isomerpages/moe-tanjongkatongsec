@@ -13,4 +13,4 @@ In view of the Covid-19 situation and the safe management measures put in place,
 
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose that you purchase the books and uniform online and you are strongly encouraged to opt for **home delivery** to ensure a smooth and pleasant purchase experience.
 
-<table width="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="2" width="602" style="box-sizing: inherit; padding: 5px 10px; width: 856.333px;"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">Sales of School Text Books,&nbsp; School Uniform &amp; PE Attire</strong></p></td></tr></tbody></table>
+**Sales of School Text Books,&nbsp; School Uniform &amp; PE Attire**
