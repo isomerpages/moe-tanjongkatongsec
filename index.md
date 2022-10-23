@@ -13,10 +13,9 @@ sections:
       button: VIEW ALL ANNOUNCEMENTS
   - infobar:
       title: PARENTS & PARTNERS
-      subtitle: Subtitle
       description: '"The Power of We - Nurturing Aspirations through Partnerships" and
         it is with this in mind that we forge synergistic collaborations with
         our parents. Several...'
       button: MORE
-      url: /faq/
+      url: /for-parents-partners/
 ---
