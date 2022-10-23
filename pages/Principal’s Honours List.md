@@ -94,35 +94,32 @@ PHL students are recognised at the following platforms:
 </figure></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><figure>
+	<a href="/images/Einstein-3_2-300x225.jpg"> <img src="/images/Einstein-3_2-300x225.jpg"></a>
+<figcaption>
+	<strong> Einstein 3+ </strong>
+	</figcaption>
+</figure></td>
+    <td><figure>
+	<a href="/images/ALS-300x225.jpg"> <img src="/images/ALS-300x225.jpg"></a>
+<figcaption>
+	<strong> Applied Learning Symposium </strong>
+	</figcaption>
+</figure></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><figure>
+	<a href="/images/Einstein-3-300x225.jpg"> <img src="/images/Einstein-3-300x225.jpg"></a>
+<figcaption>
+	<strong> Einstein 3+ </strong>
+	</figcaption>
+</figure></td>
+    <td><figure>
+	<a href="/images/Design-Thinking_2-300x225.jpg"> <img src="/images/Design-Thinking_2-300x225.jpg"></a>
+<figcaption>
+	<strong> Design Thinking </strong>
+	</figcaption>
+</figure</td>
   </tr>
 </tbody>
 </table>
-
-
-
-
-  
-
-[![Einstein 3+ 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Einstein-3_2-300x225.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/einstein-3_2/)
-
-Einstein 3+
-
-[![Als](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/ALS-300x225.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/als/)
-
-Applied Learning Symposium
-
-  
-
-[![Einstein 3+](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Einstein-3-300x225.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/einstein-3/)
-
-Einstein 3+
-
-[![Design Thinking 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Design-Thinking_2-300x225.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/design-thinking_2/)
-
-Design Thinking
