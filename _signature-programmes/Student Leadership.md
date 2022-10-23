@@ -71,6 +71,16 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 |---|---|
 | <a href="/images/Signature%20Programmes/Student%20Leadership/366-e1595236863306.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/366-e1595236863306.jpg" style="width:100%"></a>  | <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_2346.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_2346.jpg" style="width:100%"></a>  |
 
+
+|   |   |
+|---|---|
+| <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_2473.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_2473.jpg" style="width:100%"></a>  | <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_2427.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_2427.jpg" style="width:100%"></a>  |
+
+
+|   |   |
+|---|---|
+| <a href="/images/Signature%20Programmes/Student%20Leadership/366-e1595236863306.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/366-e1595236863306.jpg" style="width:100%"></a>  | <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_2346.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_2346.jpg" style="width:100%"></a>  |
+
 |   |   |
 |---|---|
 |   |   |
@@ -81,7 +91,6 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 
 
 
-[![Img 2473](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2473-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2473.jpg)
 
 [![Img 2427](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2427-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2427.jpg)
 
