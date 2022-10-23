@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Talent Development.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -17,3 +16,4 @@ collections:
       - Einstein Programme.md
       - Education and Career Guidance.md
       - Student Leadership.md
+      - Talent Development.md
