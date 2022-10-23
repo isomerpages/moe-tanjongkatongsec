@@ -22,13 +22,14 @@ The TD@TK programme has various platforms for talent development (see below). Th
 
 <p style="text-align: center;"><a href="/department-based/" target="_blank">Department-Based</a></p>
 
-[Principal’s Honours List (PHL) : Da Vinci & Einstein Plus](/principals-honours-list/)
+<p style="text-align: center;"><a href="/principals-honours-list/" target="_blank">Principal’s Honours List (PHL) : Da Vinci & Einstein Plus</a></p>
 
-[Direct School Admission (DSA) : STEM@TK (Einstein Plus)](/stem/)
+<p style="text-align: center;"><a href="/stem/" target="_blank">Direct School Admission (DSA) : STEM@TK (Einstein Plus)</a></p>
 
-[Direct School Admission (DSA) : Malay Language](/malay-language/)
+<p style="text-align: center;"><a href="/malay-language/" target="_blank">Direct School Admission (DSA) : Malay Language</a></p>
 
-[Malay Language Elective Programme (MLEP)](https://tanjongkatongsec.moe.edu.sg/mlep/)
+<p style="text-align: center;"><a href="/mlep/" target="_blank">Malay Language Elective Programme (MLEP)</a></p>
+
 
 **TD@TK Programme** 
 
