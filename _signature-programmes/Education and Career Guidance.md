@@ -30,12 +30,12 @@ Students should be able to demonstrate effective communication by:
 | ECG Activities | Targetted Level |
 | --- | --- |
 | Career Guidance Lessons (include class-based and e-portal) | Sec 1 to 4 |
-| ECG Bi-monthly Bites |
-| Education and Career Guidance (ECG) Counselling |
+| ECG Bi-monthly Bites | Sec 1 to 4 |
+| Education and Career Guidance (ECG) Counselling | Sec 1 to 4 |
 | Career Dialogue Sessions | Sec 3 and 4 |
-| Career Talks |
+| Career Talks | Sec 3 and 4 |
 | Institute of Higher Learning (IHL) Talks | Sec 4 |
-| Career & Education Fair / Seminar |
+| Career & Education Fair / Seminar | Sec 4|
 
 **ECG Programme Highlights**
 
