@@ -14,11 +14,11 @@ Da Vinci Curriculum@TK aims to equip our students with disciplinarity knowledge 
 
 The design of Da Vinci Curriculum@TK is principled on 2 models:
 
-**Sequenced Model**
+<b><u>Sequenced Model</u></b>
 
 Topics from different disciplines are rearranged and sequenced to coincide with one another. Similar ideas are taught in concert while remaining separate disciplines.
 
-**Webbed Model**
+<b><u>Webbed Model</u></b>
 
 A theme is weaved or webbed into relevant disciplines to pull what are separate and disparate parts of the curriculum together for learners.
 
