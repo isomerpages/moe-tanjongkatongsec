@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents/Group Personal Accident Product Factsheet and User Guide.md
       - Parents/Parents.md
       - Parents/.keep
       - Direct School Admission (DSA).md
