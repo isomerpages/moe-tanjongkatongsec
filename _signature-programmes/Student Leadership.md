@@ -15,7 +15,7 @@ description: ""
 
 ![](/images/Signature%20Programmes/Student%20Leadership/leadership-challenge-model.jpg)
 
-FRAMEWORK
+**FRAMEWORK**
 
 ![](/images/Signature%20Programmes/Student%20Leadership/framework.png)
 
