@@ -27,9 +27,15 @@ At the Lower Secondary levels, students are equipped with skills to carry out sc
 
 Selection criteria for Lower Secondary students will be based on their WA results, recommendations from teachers on students’ Science learning dispositions as well as volunteers from highly-interested students.   
 
-Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge. [![Arrow 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-2.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-2.png)**TD@TK Mathematics**
+Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge. 
 
-TD@TK Mathematics is a two-tiered programme. In the first tier, at Lower Secondary, selected students will attend Mathematics Workshops on strategies to manage challenging questions. These students are selected based on their performance at PSLE as well as their progress in TK. These students will then participate in the Singapore Mathematics Olympiad. At Secondary 2, selected students will participate in workshops on coding, such as control of drones. At Secondary 3 level, selected students attend sessions on use of coding for mathematics modelling. These students will also collaborate with students from other schools on their learnings.[![Arrow 3](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-3.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-3.png)
+[![Arrow 2](/images/Arrow-2.png)](/images/Arrow-2.png)
+
+**TD@TK Mathematics**
+
+TD@TK Mathematics is a two-tiered programme. In the first tier, at Lower Secondary, selected students will attend Mathematics Workshops on strategies to manage challenging questions. These students are selected based on their performance at PSLE as well as their progress in TK. These students will then participate in the Singapore Mathematics Olympiad. At Secondary 2, selected students will participate in workshops on coding, such as control of drones. At Secondary 3 level, selected students attend sessions on use of coding for mathematics modelling. These students will also collaborate with students from other schools on their learnings.
+
+[![Arrow 3](/images/Arrow-3.png)](/images/Arrow-3.png)
 
 **TD@TK Mother Tongue**
 
@@ -41,7 +47,7 @@ For Higher Chinese students pursuing interests in the language, we put in progra
 
 The department also identifies high progress learners to participate in writing competitions at the national level, such as the Writing Competition “Pena Emasku” (Peraduan Mengarang “Pena Emasku”), National Chinese Creative Writing Competition “Xin Lei Jiang”, Teater Pelajar Skit National Competition, National Malay Writing Competition (Saya Boleh Mengarang).
 
-[![Arrow 4](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-4.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-4.png)
+[![Arrow 4](/images/Arrow-4.png)](/images/Arrow-4.png)
 
 **TD@TK Humanities**
 
