@@ -28,8 +28,7 @@ description: ""
 *   For appeal to TK, please follow the steps below:
 
 1\.  Go to [http://go.gov.sg/tkss2022s1appeal](http://go.gov.sg/tkss2022s1appeal)  
-2\.  Complete all fields. Supporting documents are to be uploaded via the same  
-    link.
+2\.  Complete all fields. Supporting documents are to be uploaded via the same link.
 
 *   Incomplete form and submission of supporting documents will not be considered for the appeal.
 *   Only successful applicants will be informed by the school.
