@@ -5,7 +5,7 @@ description: ""
 ---
 # Department-Based
 
-**TD@TK Application:** **Department-Based**
+**TD@TK Application: Department-Based**
 
 All departments in TK have their respective talent development programme for their high-progress students. These programmes are aligned to the TD@TK framework.
 
