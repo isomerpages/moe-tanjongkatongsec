@@ -2,5 +2,5 @@ collections:
   sec-1-2023:
     output: true
     order:
-      - Financial Assistance (FAS) Application.md
       - E Open House 2022.md
+      - Financial Assistance (FAS) Application.md
