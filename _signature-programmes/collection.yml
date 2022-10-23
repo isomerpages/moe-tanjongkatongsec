@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Da Vinci Programme.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -13,3 +12,4 @@ collections:
       - Character & Citizenship/Sexuality Education.md
       - Character & Citizenship/Values in Action.md
       - Current Affairs.md
+      - Da Vinci Programme.md
