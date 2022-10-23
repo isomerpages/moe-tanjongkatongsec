@@ -7,7 +7,7 @@ description: ""
 
 **TD@TK Application: Principal’s Honours List**
 
- The school’s Principal’s Honours List (PHL) is the second platform for TD@TK. PHL is structured according and aligned to the 3I (Imaginative-Inquisitive-Interconnectedness) framework of TD@TK below.
+<p style="text-align: justify;">The school’s Principal’s Honours List (PHL) is the second platform for TD@TK. PHL is structured according and aligned to the 3I (Imaginative-Inquisitive-Interconnectedness) framework of TD@TK below.</p>
 
 [![](/images/PHL.png)](/images/PHL.png)
 
@@ -15,11 +15,11 @@ description: ""
 
 **Aims**
 
-TK’s mission is to nurture students to their fullest potential, developing in them sound values and leadership skills, in an environment that encourages creativity and dynamism.
+<p style="text-align: justify;">TK’s mission is to nurture students to their fullest potential, developing in them sound values and leadership skills, in an environment that encourages creativity and dynamism.</p>
 
-The Principal’s Honours List (PHL) students are given varied platforms for them to develop both their academic and non-academic domains.
+<p style="text-align: justify;">The Principal’s Honours List (PHL) students are given varied platforms for them to develop both their academic and non-academic domains.</p>
 
-The PHL students are expected to live out TK values of Respect, Responsibility, Resilience, Integrity and Compassion as well as embody the characteristics of the TK Graduate.
+<p style="text-align: justify;">The PHL students are expected to live out TK values of Respect, Responsibility, Resilience, Integrity and Compassion as well as embody the characteristics of the TK Graduate.</p>
 
 The objectives of the PHL programme are as follows:
 
@@ -30,9 +30,9 @@ The objectives of the PHL programme are as follows:
 
  **Approach**
 
-The Principal’s Honours List students are determined after the final-year examinations at the end of each academic year. Eligibility is determined based on the combined marks for all subjects taken in the academic year.
+<p style="text-align: justify;">The Principal’s Honours List students are determined after the final-year examinations at the end of each academic year. Eligibility is determined based on the combined marks for all subjects taken in the academic year.</p>
 
-Each level of PHL will be also have macro-thematic approach to ensure spiraling growth of our PHL students.
+<p style="text-align: justify;">Each level of PHL will be also have macro-thematic approach to ensure spiraling growth of our PHL students.</p>
 
 Da Vinci and Einstein 2+ Programmes – Research and Inquiry
 
@@ -42,9 +42,9 @@ Sec 4 PHL Students – Going Beyond
 
 **Da Vinci Plus Programme**
 
-The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are ready to face the key driving forces of the future – globalisation, changing demographics and technological advancements.
+<p style="text-align: justify;">The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are ready to face the key driving forces of the future – globalisation, changing demographics and technological advancements.</p>
 
-In this programme, our students will embark on research projects which will sharpen their thinking processes. The projects are categorised into 5 domains – Cognitive Domain, Sports and Health Domain, Arts and Aesthetics Domain, Character and Leadership Domain and Community and Citizenship Domain. The projects will involve student-centred questioning or inquiry and will focus on enhancing students’ 21st Century Competencies. This will lead to greater understanding of the discipline and students will also develop the corresponding ability to formulate patterns, correlations or similarities.
+<p style="text-align: justify;">In this programme, our students will embark on research projects which will sharpen their thinking processes. The projects are categorised into 5 domains – Cognitive Domain, Sports and Health Domain, Arts and Aesthetics Domain, Character and Leadership Domain and Community and Citizenship Domain. The projects will involve student-centred questioning or inquiry and will focus on enhancing students’ 21st Century Competencies. This will lead to greater understanding of the discipline and students will also develop the corresponding ability to formulate patterns, correlations or similarities.</p>
 
 **Example of Da Vinci + Project**
 
@@ -52,15 +52,15 @@ In this programme, our students will embark on research projects which will shar
 
 **Einstein Plus Programme**
 
-The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are passionate in the Science, Mathematics and Design and Technology domains.
+<p style="text-align: justify;">The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are passionate in the Science, Mathematics and Design and Technology domains.</p>
 
-Students will embark on research projects to come up with innovative solutions to meet the needs of the end user. This will give them an edge in the maker culture of the 21st Century and equip them with the necessary digital literacy to allow them to stay ahead of the changes that take place.
+<p style="text-align: justify;">Students will embark on research projects to come up with innovative solutions to meet the needs of the end user. This will give them an edge in the maker culture of the 21st Century and equip them with the necessary digital literacy to allow them to stay ahead of the changes that take place.</p>
 
 **Example of Einstein + Project**
 
 [![Stem](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/STEM-1024x679.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/STEM.png)**Sec 4 PHL Students**
 
-Sec 4 PHL students will attend training sessions to hone their skills for the various assessments during their university and scholarship applications. These include workshops for personal statement writing, resume and interviews and oracy skills.
+<p style="text-align: justify;">Sec 4 PHL students will attend training sessions to hone their skills for the various assessments during their university and scholarship applications. These include workshops for personal statement writing, resume and interviews and oracy skills.</p>
 
 **Recognition for PHL Students**
 
