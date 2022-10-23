@@ -2,6 +2,6 @@ collections:
   sec-1-2023:
     output: true
     order:
-      - Annual School based Health & Dental Services.md
       - E Open House 2022.md
       - Financial Assistance (FAS) Application.md
+      - Annual School based Health & Dental Services.md
