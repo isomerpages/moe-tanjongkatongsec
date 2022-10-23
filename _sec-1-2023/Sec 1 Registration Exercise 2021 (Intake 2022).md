@@ -80,7 +80,7 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 
 ### **Transport to School**
 
-1\.  There is no School Bus Service provided by the school.
+1\.  There is no School Bus Service provided by the school.  
 2\.  Due to the heavy traffic during the morning hours, students are strongly discouraged from cycling to school.
 
 **Getting to TK**
