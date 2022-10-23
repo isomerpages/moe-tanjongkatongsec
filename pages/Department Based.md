@@ -47,7 +47,7 @@ For Higher Chinese students pursuing interests in the language, we put in progra
 
 The department also identifies high progress learners to participate in writing competitions at the national level, such as the Writing Competition “Pena Emasku” (Peraduan Mengarang “Pena Emasku”), National Chinese Creative Writing Competition “Xin Lei Jiang”, Teater Pelajar Skit National Competition, National Malay Writing Competition (Saya Boleh Mengarang).
 
-[![Arrow 3](/images/Arrow-3.png)](/images/Arrow-3.png)
+[![Arrow 4](/images/Arrow-4.png)](/images/Arrow-4.png)
 
 **TD@TK Humanities**
 
