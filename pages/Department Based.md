@@ -21,13 +21,13 @@ All departments in TK have their respective talent development programme for the
 
 **TD@TK Science**
 
-TD@TK Science is a structured programme that aims to develop students’ interest and proficiency in Science. It follows a spiral model, allowing selected students to deepen their learning in Science and engage in the practice of Science.
+<p style="text-align: justify;">TD@TK Science is a structured programme that aims to develop students’ interest and proficiency in Science. It follows a spiral model, allowing selected students to deepen their learning in Science and engage in the practice of Science.</p>
 
-At the Lower Secondary levels, students are equipped with skills to carry out scientific research and engage in the ways of thinking and doing Science through Investigative Research (IR). Selected Sec 2 students will embark on different programmes, such as Forensic Science workshop and collaboration project with Urban Insect Farm. Students will have the opportunity to develop research questions and design experiments to test their hypotheses. Research will cut across all three Science disciplines and beyond. Students will also have opportunities to hone their communication and oracy skills through presentations with the school community.
+<p style="text-align: justify;">At the Lower Secondary levels, students are equipped with skills to carry out scientific research and engage in the ways of thinking and doing Science through Investigative Research (IR). Selected Sec 2 students will embark on different programmes, such as Forensic Science workshop and collaboration project with Urban Insect Farm. Students will have the opportunity to develop research questions and design experiments to test their hypotheses. Research will cut across all three Science disciplines and beyond. Students will also have opportunities to hone their communication and oracy skills through presentations with the school community.</p>
 
-Selection criteria for Lower Secondary students will be based on their WA results, recommendations from teachers on students’ Science learning dispositions as well as volunteers from highly-interested students.   
+<p style="text-align: justify;">Selection criteria for Lower Secondary students will be based on their WA results, recommendations from teachers on students’ Science learning dispositions as well as volunteers from highly-interested students. </p>
 
-Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge. 
+<p style="text-align: justify;">Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge. </p>
 
 [![Arrow 2](/images/Arrow-2.png)](/images/Arrow-2.png)
 
