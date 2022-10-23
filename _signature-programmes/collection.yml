@@ -2,10 +2,10 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EMAS/Enrichment Activities.md
       - EMAS/.keep
       - EMAS/EMAS.md
       - EMAS/Gema Puisi Artistik (Poetry Competition).md
+      - EMAS/Enrichment Activities.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
