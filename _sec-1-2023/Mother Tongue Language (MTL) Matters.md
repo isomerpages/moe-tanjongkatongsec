@@ -28,7 +28,7 @@ Parents are advised to purchase MT/ HMTL textbook only after receiving the confi
 
 **_Offering TL and HTL At Secondary Level_**
 
-MOE HMTL Option Letters will be given to **eligible Sec 1 Higher Tamil students** based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens. Students would need to indicate accept or reject the offer and inform their Form teachers by the first day of school. For students who accept the offer, they would indicate the HTL centre on the option form.
+MOE HMTL Option Letters will be given to <b><u>eligible Sec 1 Higher Tamil students</u></b> based on MOE’s eligibility criteria to offer HMTL on the first day of school when school reopens. Students would need to indicate accept or reject the offer and inform their Form teachers by the first day of school. For students who accept the offer, they would indicate the HTL centre on the option form.
 
 Tamil students should see Mdm Chong Mong Leng (HOD/MTL) to indicate the TL centre that they would like to register with. They could also indicate their option through their Form teachers. Form teachers will inform HOD/MTL.
 
