@@ -42,7 +42,7 @@ description: ""
 
 **Request to transfer to another school**
 
-*   Students who wish to apply for a transfer to another school on **medical grounds** are to submit the request in person at the General Office with the necessary supporting documents by **23 December, 12pm.**
+*   Students who wish to apply for a transfer to another school on **medical grounds** are to submit the request in person at the General Office with the necessary supporting documents by <b><u>23 December, 12pm.</u></b>
 *   Application without supporting documents, incomplete form or late submission will not be processed.
 
 *   Students who wish to transfer to another school for reasons other than those above may approach the other school directly for a place.
