@@ -73,17 +73,15 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 *   Students are not required to bring books during orientation on 4 Jan. The class timetable will be distributed on the first day of school, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
 *   You may like to download the [Orientation Programme](/files/Sec1%202023/Orientation_-Investiture_Programme_2022-PG.pdf). A copy will be also sent via Parents’ Gateway.
 
-**Student Smart Card (SSC) for concessionary travel**
------------------------------------------------------
+### **Student Smart Card (SSC) for concessionary travel**
 
 *   All students entering Secondary One in January 2022 will be issued with a new Secondary level School Smart Cards (SSC)
 *   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2022.
 
-**Transport to School**
------------------------
+### **Transport to School**
 
-1.  There is no School Bus Service provided by the school.
-2.  Due to the heavy traffic during the morning hours, students are strongly discouraged from cycling to school.
+1\.  There is no School Bus Service provided by the school.
+2\.  Due to the heavy traffic during the morning hours, students are strongly discouraged from cycling to school.
 
 **Getting to TK**
 
