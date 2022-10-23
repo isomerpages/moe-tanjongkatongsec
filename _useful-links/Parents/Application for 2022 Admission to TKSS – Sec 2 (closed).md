@@ -10,7 +10,7 @@ third_nav_title: Parents
 
 Application for admission to Sec 2 (2022) is now open. Please submit the completed admission form to the General Office by **3 November 2021, 5 pm**.
 
-Application forms can be obtained from the General Office or by downloading it [here.](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Application-Form-for-Admission-to-Sec-2-in-2022.pdf) 
+Application forms can be obtained from the General Office or by downloading it [here.](/files/Useful%20Links/Application-Form-for-Admission-to-Sec-2-in-2022.pdf) 
 
 Please submit the following for your application to Sec 2 (2022):
 
