@@ -57,6 +57,12 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 | CCA Leaders          | Mass CCA Leaders Training & Individualised CCA Training     |
 | Student Councillors  | Mass Leadership Training & SC Leadership Training           |
 
+|  Team Leadership: **Leading the School**           |                               |
+|----------------------|-------------------------------|
+| Class Chairman EXCO  | Class Leaders Meeting         |
+| Board of CCA Heads   | Board of CCA Heads Training   |
+| Student Council EXCO | Student Council EXCO Training |
+
 **Gallery** 
 
 #### CCA Leaders
