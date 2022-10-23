@@ -10,4 +10,4 @@ third_nav_title: Students
 *   <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a>
 *   <a href="https://tinyurl.com/tksspwreset" target="_blank">Password Reset</a>
 *   <a href="https://schoolibrary.moe.edu.sg/tanjongkatongsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">Library OPAC System</a>
-*   <a href="https://schoolibrary.moe.edu.sg/tanjongkatongsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">Students_SGC_Template_2018</a>
+*   <a href="" target="_blank">Students_SGC_Template_2018</a>
