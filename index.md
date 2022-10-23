@@ -12,9 +12,11 @@ sections:
       title: ANNOUNCEMENT
       button: VIEW ALL ANNOUNCEMENTS
   - infobar:
-      title: Infobar title
+      title: PARENTS & PARTNERS
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      description: '"The Power of We - Nurturing Aspirations through Partnerships" and
+        it is with this in mind that we forge synergistic collaborations with
+        our parents. Several...'
+      button: MORE
       url: /faq/
 ---
