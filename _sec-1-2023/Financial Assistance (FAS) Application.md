@@ -4,6 +4,7 @@ permalink: /sec-1-2023/financial-assistance-fas-application/
 description: ""
 ---
 # Financial Assistance (FAS) Application
+# Links for FAS criteria eligibility (Pamphlet) and Application Form broken
 
 The MOE Financial Assistance (FAS) Application is now open for application for 2023.
 
