@@ -91,7 +91,6 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 
 ### **Appearance and School Attire Requirements**
 
-
 Please refer to the following link:
 
 [/about-us/tk-graduate/](/about-us/tk-graduate/)
