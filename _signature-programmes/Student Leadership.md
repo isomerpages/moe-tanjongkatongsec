@@ -124,17 +124,11 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 | [![](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-06-06-11-03-21.jpg)](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-06-06-11-03-21.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_2506-1350x1013.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_2506-1350x1013.jpg)  | 
   
 
-[![Photo 2019 06 06 11 03 21](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/PHOTO-2019-06-06-11-03-21-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/PHOTO-2019-06-06-11-03-21.jpg)
-
-[![Img 2506](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_2506-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_2506.jpg)
-
+ |   |   |
+|---|---|
+| [![](/images/Signature%20Programmes/Student%20Leadership/IMG_1205.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_1205.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_0847.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_0847.jpg)  | 
   
-
-[![Img 1205](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_1205-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_1205.jpg)
-
-[![Img 0847](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0847-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0847.jpg)
-
-  
+ 
 
 [![Img 0809](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0809-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0809.jpg)
 
