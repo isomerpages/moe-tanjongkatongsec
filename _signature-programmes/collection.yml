@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - EMAS/Gema Puisi Artistik (Poetry Competition).md
       - EMAS/EMAS.md
       - EMAS/.keep
       - Aesthetics Programme.md
