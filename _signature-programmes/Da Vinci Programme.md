@@ -4,7 +4,7 @@ permalink: /signature-programmes/applied-learning/
 description: ""
 ---
 # Da Vinci Programme
-**Da Vinci Curriculum@TK – Development of Critical and Inventive Thinking (CIT) 21st Century Competencies**
+<b><u>Da Vinci Curriculum@TK – Development of Critical and Inventive Thinking (CIT) 21st Century Competencies</u></b>
 
 **Objectives of Curriculum**
 
