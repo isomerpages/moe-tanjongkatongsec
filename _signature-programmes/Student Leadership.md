@@ -13,11 +13,11 @@ description: ""
 
  TK Student Leadership framework is derived from the theoretical underpinnings of The Leadership Challenge Model by Kouzes and Posner. The Five Practices of The Leadership Challenge Model are:
 
-![Leadership Challenge Model](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/leadership-challenge-model.jpg)
+![](/images/Signature%20Programmes/Student%20Leadership/leadership-challenge-model.jpg)
 
 FRAMEWORK
 
-![Framework](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/framework.png)
+![](/images/Signature%20Programmes/Student%20Leadership/framework.png)
 
 **3 Facets of Leadership**
 
