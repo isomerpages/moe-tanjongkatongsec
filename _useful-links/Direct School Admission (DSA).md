@@ -49,8 +49,8 @@ Please note:
 
 You may wish to access the following MOE weblinks for more information on DSA for admission to Secondary Schools:
  
- |                                                       |                                          |
-|-----------------------------------------------------|----------------------------------------|
+ |                               |                       |
+|------------------------------|----------------------------|
 | DSA-Sec Main Webpage                                  | [https://www.moe.gov.sg/dsa-sec ](https://www.moe.gov.sg/dsa-sec )          |
 | Instructions on Application (Mainstream students)     | [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)    |
 | Instructions on Application (Non Mainstream Students) | [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) |
