@@ -63,15 +63,26 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 | Board of CCA Heads   | Board of CCA Heads Training   |
 | Student Council EXCO | Student Council EXCO Training |
 
-**Gallery** 
+### **Gallery** 
 
-#### CCA Leaders
+**CCA Leaders**
+
+|   |   |
+|---|---|
+| ![](/images/Signature%20Programmes/Student%20Leadership/366-e1595236863306.jpg)  | ![](/images/Signature%20Programmes/Student%20Leadership/IMG_2346.jpg)  |
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
 
 [![366](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/366-1024x790.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/366-e1595236863306.jpg)
 
 [![Img 2346](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2346-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2346.jpg)
 
-  
 
 [![Img 2473](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2473-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/07/IMG_2473.jpg)
 
