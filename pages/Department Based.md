@@ -47,10 +47,12 @@ For Higher Chinese students pursuing interests in the language, we put in progra
 
 The department also identifies high progress learners to participate in writing competitions at the national level, such as the Writing Competition “Pena Emasku” (Peraduan Mengarang “Pena Emasku”), National Chinese Creative Writing Competition “Xin Lei Jiang”, Teater Pelajar Skit National Competition, National Malay Writing Competition (Saya Boleh Mengarang).
 
-[![Arrow 4](/images/Arrow-4.png)](/images/Arrow-4.png)
+[![Arrow 3](/images/Arrow-3.png)](/images/Arrow-3.png)
 
 **TD@TK Humanities**
 
 TD@TK Humanities is a mentoring-competition programme that enriches Sec 2 to Sec 4 students. These students are selected based on their excellent performances in Humanities in their respective End-of-Year examinations. They are mentored by the department teachers to plan and implement student-initiated activities for the annual Humanities Enrichment Week scheduled in Term 3 as well as take part in competitions.  
 
-Sec 3 and 4 students who are highly-proficient in Humanities are also mentored to participate in the competitions organised by higher institutions.[![](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-4.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-4.png)
+Sec 3 and 4 students who are highly-proficient in Humanities are also mentored to participate in the competitions organised by higher institutions.
+
+[![Arrow 4](/images/Arrow-4.png)](/images/Arrow-4.png)
