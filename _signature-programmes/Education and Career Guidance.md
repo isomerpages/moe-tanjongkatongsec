@@ -55,7 +55,7 @@ As part of the school’s learning journey, the industrial visit will provide TK
 
 The Work Experience Programme @ TK is one of key learning experiences that leave an indelible impact on our upper secondary students. Through this programme, Secondary Three students are attached to Well-established private and multi-national companies, or government statutory boards for a short stint of work experience, with the objective of instilling in them the importance of appropriate work ethics and conduct while increasing their awareness about a selected industry and/or area of work. As part of the learning experience, participants will learn resume writing and interview skills through workshops conducted by professionals.
 
-**5.** **ECG Counselling**
+#### **5\. ECG Counselling**
 
 Our ECG Counsellor, Miss Kate Choo, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a smoother transition to further education or work.
 
