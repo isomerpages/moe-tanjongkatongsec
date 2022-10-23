@@ -17,4 +17,4 @@ Students who are selected to be in the STEM@TK programme via DSA, will embark on
 
 The details are as such;
 
-[![Einstein](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Einstein.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Einstein.png)
+[![Einstein](/images/Einstein.png)](/images/Einstein.png)
