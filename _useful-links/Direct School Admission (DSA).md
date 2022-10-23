@@ -51,10 +51,10 @@ You may wish to access the following MOE weblinks for more information on DSA fo
  
  |                                                       |                                          |
 |-----------------------------------------------------|----------------------------------------|
-| DSA-Sec Main Webpage                                  | https://www.moe.gov.sg/dsa-sec           |
-| Instructions on Application (Mainstream students)     | https://go.gov.sg/dsa-sec-application    |
-| Instructions on Application (Non Mainstream Students) | https://go.gov.sg/nmsdsa-sec-application |
-| Direct to DSA-Sec Portal (Mainstream Students)        | https://go.gov.sg/apply-dsa-sec          |
-| Direct to DSA-Sec Portal (Non Mainstream Students)    | https://go.gov.sg/apply-dsa-sec-nms      |
-| DSA-Sec iFAQs                                         | https://go.gov.sg/dsa-secfaqs            |
-| DSA-Sec School Finder                                 | https://go.gov.sg/dsa-secschfinder       |
+| DSA-Sec Main Webpage                                  | [https://www.moe.gov.sg/dsa-sec ](https://www.moe.gov.sg/dsa-sec )          |
+| Instructions on Application (Mainstream students)     | [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)    |
+| Instructions on Application (Non Mainstream Students) | [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) |
+| Direct to DSA-Sec Portal (Mainstream Students)        | [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)          |
+| Direct to DSA-Sec Portal (Non Mainstream Students)    | [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)      |
+| DSA-Sec iFAQs                                         | [https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)            |
+| DSA-Sec School Finder                                 | [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)       |
