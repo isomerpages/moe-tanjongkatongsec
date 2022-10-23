@@ -71,16 +71,46 @@ PHL students are recognised at the following platforms:
 1\.  Lunch Session with the Principal
 2\.  Prize Giving Day
 
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <figure>
+	<a href="/images/Da-Vinci-3-225x300.jpg" target = "_blank"> <img src="/images/Da-Vinci-3-225x300.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> Da Vinci 3+ </strong>
+	</figcaption>
+</figure></td>
+    <td><figure>
+	<a href="/images/Design-Thinking-225x300.jpg" target = "_blank"> <img src="/images/Design-Thinking-225x300.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> Da Vinci 3+ </strong>
+	</figcaption>
+</figure></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 
-[![](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Da-Vinci-3-225x300.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/da-vinci-3/)
 
-Da Vinci 3+
+
+
+
 
 [![Design Thinking](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Design-Thinking-225x300.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/design-thinking/)
 
