@@ -68,7 +68,7 @@ Sec 4 PHL Students – Going Beyond
 
 PHL students are recognised at the following platforms:
 
-1\.  Lunch Session with the Principal
+1\.  Lunch Session with the Principal  
 2\.  Prize Giving Day
 
 <table>
@@ -119,7 +119,8 @@ PHL students are recognised at the following platforms:
 <figcaption>
 	<strong> Design Thinking </strong>
 	</figcaption>
-</figure</td>
+			</figure>
+		</td>
   </tr>
 </tbody>
 </table>
