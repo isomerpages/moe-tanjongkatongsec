@@ -5,7 +5,7 @@ description: ""
 ---
 # TK Parent Support Group (TK PSG)
 
-Please refer to the link [/about-us/our-partners/](/about-us/our-partners/) for details of home school partnership and platforms for parents to be involved in TK PSG.
+Please refer to the link [/about-us/Our-Partners/](/about-us/our-partners/) for details of home school partnership and platforms for parents to be involved in TK PSG.
 
 Parents who are interested to join TK PSG, can do so by completing the form [https://tinyurl.com/TKSPSG](https://tinyurl.com/TKSPSG) or scan the QR code below.
 
