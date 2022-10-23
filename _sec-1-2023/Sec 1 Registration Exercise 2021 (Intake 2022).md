@@ -54,6 +54,7 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 | Wednesday | 0720           | 0730             | 1415                                  |
 | Thursday  | 0820           | 0830             | 1415 (Odd Week)*<br>1255 (Even Week)* |
 | Friday    | 0720           | 0730             | 1245                                  |
+
 \*There will be Enrichment Activities for Secondary 1 on Tuesday and Thursday afternoons.
 
 **First Day of School for Secondary One 2022  
