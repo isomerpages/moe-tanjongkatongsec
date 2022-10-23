@@ -13,6 +13,7 @@ In view of the Covid-19 situation and the safe management measures put in place,
 [Download S3 Booklist](/files/Useful%20Links/TKSS-S3-BOOKLIST.pdf)  
 [Download S4 Booklist](/files/Useful%20Links/TKSS-S4-BOOKLIST.pdf)
 [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
+
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose that you purchase the books and uniform online and you are strongly encouraged to opt for <b><u>home delivery</u></b> to ensure a smooth and pleasant purchase experience.
 
 **Sales of School Text Books,&nbsp; School Uniform &amp; PE Attire**
