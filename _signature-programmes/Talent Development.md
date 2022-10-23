@@ -20,13 +20,13 @@ The TD@TK framework has three key components as follows:
 
 The TD@TK programme has various platforms for talent development (see below). The framework will be applied in the various platforms.
 
-[Department-Based](https://tanjongkatongsec.moe.edu.sg/department-based/)
+[Department-Based](/department-based/)
 
-[Principal’s Honours List (PHL) : Da Vinci & Einstein Plus](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/)
+[Principal’s Honours List (PHL) : Da Vinci & Einstein Plus](/principals-honours-list/)
 
-[Direct School Admission (DSA) : STEM@TK (Einstein Plus)](https://tanjongkatongsec.moe.edu.sg/stem/)
+[Direct School Admission (DSA) : STEM@TK (Einstein Plus)](/stem/)
 
-[Direct School Admission (DSA) : Malay Language](https://tanjongkatongsec.moe.edu.sg/malay-language/)
+[Direct School Admission (DSA) : Malay Language](/malay-language/)
 
 [Malay Language Elective Programme (MLEP)](https://tanjongkatongsec.moe.edu.sg/mlep/)
 
