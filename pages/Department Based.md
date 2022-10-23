@@ -15,7 +15,9 @@ TD@TK English Language is a top-stretch programme which helps students acquire a
 
 One of the highlights of the programme offers our students the opportunity to interact meaningfully with renowned local authors through creative writing workshops, learning from the masters of prose on how they can develop a flair in writing. In addition, TKsians get to demonstrate their creativity in writing when they take part in the prestigious Queens’ Commonwealth Essay Competition.
 
-To nurture confident and eloquent speakers, selected students are trained to think critically and be open to multiple perspectives by our in-house Debates Club. After receiving tutelage from a debates coach, they get the chance to pit their debating skills against students from other schools. Multiple platforms are built into the English Language curriculum for students to polish their public speaking skills, giving them the springboard to present their opinions confidently both in school and at external events and competitions.[![Arrow 1](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-1-300x186.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Arrow-1.png)
+To nurture confident and eloquent speakers, selected students are trained to think critically and be open to multiple perspectives by our in-house Debates Club. After receiving tutelage from a debates coach, they get the chance to pit their debating skills against students from other schools. Multiple platforms are built into the English Language curriculum for students to polish their public speaking skills, giving them the springboard to present their opinions confidently both in school and at external events and competitions.
+
+[![Arrow 1](/images/Arrow-1.png)](/images/Arrow-1.png)
 
 **TD@TK Science**
 
