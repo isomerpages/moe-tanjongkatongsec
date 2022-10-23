@@ -38,11 +38,10 @@ For parents with no Parents Gateway (PG) account or are not able to access PG, p
 
 Please indicate under the subject of the email as “Sec 1 registration 2021” together with your child’s name and his/ her primary school.
 
-**Important Information for Sec 1 students and parents**
---------------------------------------------------------
+### **Important Information for Sec 1 students and parents**
 
 *   [Purchase of Books, PE Attire and School Uniform](https://tanjongkatongsec.moe.edu.sg/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2022/)
-*   [Supporting your child in transition to Sec 1](https://www.moe.gov.sg/secondary/transition-to-secondary)
+*   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
 **Daily Reporting & Dismissal Time**
 ------------------------------------
