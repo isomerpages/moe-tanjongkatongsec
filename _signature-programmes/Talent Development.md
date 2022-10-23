@@ -20,15 +20,15 @@ The TD@TK framework has three key components as follows:
 
 The TD@TK programme has various platforms for talent development (see below). The framework will be applied in the various platforms.
 
-<p style="text-align: center;"><a href="/department-based/" target="_blank">Department-Based</a></p>
+<p style="text-align: center;"><a href="/department-based/">Department-Based</a></p>
 
-<p style="text-align: center;"><a href="/principals-honours-list/" target="_blank">Principal’s Honours List (PHL) : Da Vinci & Einstein Plus</a></p>
+<p style="text-align: center;"><a href="/principals-honours-list/" >Principal’s Honours List (PHL) : Da Vinci & Einstein Plus</a></p>
 
-<p style="text-align: center;"><a href="/stem/" target="_blank">Direct School Admission (DSA) : STEM@TK (Einstein Plus)</a></p>
+<p style="text-align: center;"><a href="/stem/">Direct School Admission (DSA) : STEM@TK (Einstein Plus)</a></p>
 
-<p style="text-align: center;"><a href="/malay-language/" target="_blank">Direct School Admission (DSA) : Malay Language</a></p>
+<p style="text-align: center;"><a href="/malay-language/">Direct School Admission (DSA) : Malay Language</a></p>
 
-<p style="text-align: center;"><a href="/mlep/" target="_blank">Malay Language Elective Programme (MLEP)</a></p>
+<p style="text-align: center;"><a href="/mlep/">Malay Language Elective Programme (MLEP)</a></p>
 
 
 **TD@TK Programme** 
