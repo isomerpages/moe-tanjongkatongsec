@@ -23,7 +23,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 **Registration for newly posted Secondary One students**
 
-As part of the school’s safe management measures, Secondary 1 students posted to the school are <b><u>not required</u></b> to report in person. Parents are required to register their child online via **Parents Gateway (PG)**. **It is compulsory for parents to complete the registration.**
+As part of the school’s safe management measures, Secondary 1 students posted to the school are <b><u>not required</u></b> to report in person. Parents are required to register their child online via <b><u>Parents Gateway (PG)</u></b>. **It is compulsory for parents to complete the registration.**
 
 1.  Log on to Parents Gateway using your SingPass.
 2.  Complete the registration form.
