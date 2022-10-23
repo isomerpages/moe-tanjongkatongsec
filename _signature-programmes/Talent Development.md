@@ -16,7 +16,7 @@ The TD@TK aims to develop academically high students to be critical thinkers and
 
 The TD@TK framework has three key components as follows:
 
-![](/images/Signature%20Programmes/TK-TD-Framework.png)
+[![](/images/Signature%20Programmes/TK-TD-Framework.png)](/images/Signature%20Programmes/TK-TD-Framework.png)
 
 The TD@TK programme has various platforms for talent development (see below). The framework will be applied in the various platforms.
 
