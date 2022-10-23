@@ -71,7 +71,7 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 
 *   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on **4 and 5 January 2022**. Please note that students will be dismissed at 5.00 pm on 4 Jan and 5.30pm on 5 Jan.
 *   Students are not required to bring books during orientation on 4 Jan. The class timetable will be distributed on the first day of school, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
-*   You may like to download the [Orientation Programme](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/12/Orientation_-Investiture_Programme_2022-PG.pdf). A copy will be also sent via Parents’ Gateway.
+*   You may like to download the [Orientation Programme](/files/Sec1%202023/Orientation_-Investiture_Programme_2022-PG.pdf). A copy will be also sent via Parents’ Gateway.
 
 **Student Smart Card (SSC) for concessionary travel**
 -----------------------------------------------------
