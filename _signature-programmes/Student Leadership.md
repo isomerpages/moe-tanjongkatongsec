@@ -111,26 +111,26 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 
 #### Student Council
 
- |   |   |
+|   |   |
 |---|---|
 | [![](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-scaled.jpg)](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-scaled.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)  | 
 
- |   |   |
+|   |   |
 |---|---|
 | [![](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2020-03-26-13-23-16.jpg)](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2020-03-26-13-23-16.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2020-07-01-10-06-18.jpg)](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2020-07-01-10-06-18.jpg)  | 
 
- |   |   |
+|   |   |
 |---|---|
 | [![](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-06-06-11-03-21.jpg)](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-06-06-11-03-21.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_2506-1350x1013.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_2506-1350x1013.jpg)  | 
   
 
- |   |   |
+|   |   |
 |---|---|
 | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_1205.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_1205.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/IMG_0847.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_0847.jpg)  | 
   
- 
-
-[![Img 0809](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0809-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/08/IMG_0809.jpg)
+|   |   |
+|---|---|
+| [![](/images/Signature%20Programmes/Student%20Leadership/IMG_0809-1350x1013.jpg)](/images/Signature%20Programmes/Student%20Leadership/IMG_0809-1350x1013.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-11-15-10-17-34-v2-1350x1013.jpg)](/images/Signature%20Programmes/Student%20Leadership/PHOTO-2019-11-15-10-17-34-v2-1350x1013.jpg)  | 
 
 [![Photo 2019 11 15 10 17 34 V2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/09/PHOTO-2019-11-15-10-17-34-v2-1024x768.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2020/09/PHOTO-2019-11-15-10-17-34-v2.jpg)
 
