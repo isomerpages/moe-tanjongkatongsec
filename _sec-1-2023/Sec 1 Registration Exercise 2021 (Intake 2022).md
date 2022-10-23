@@ -53,15 +53,19 @@ Please indicate under the subject of the email as “Sec 1 registration 2021” 
 | Tuesday   | 0720           | 0730             | 1415*                                 |
 | Wednesday | 0720           | 0730             | 1415                                  |
 | Thursday  | 0820           | 0830             | 1415 (Odd Week)*<br>1255 (Even Week)* |
-| Friday    | 0720           | 0730             | 1245                                  |
+| Friday    | 0720           | 0730             | 1245                     |
 
 \*There will be Enrichment Activities for Secondary 1 on Tuesday and Thursday afternoons.
 
-**First Day of School for Secondary One 2022  
-**
--------------------------------------------------
+### **First Day of School for Secondary One 2022**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px; height: 360px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 45px;"><strong style="box-sizing: inherit; font-weight: bold;">Reporting Time:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; height: 45px;">7:20 a.m.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px;"><strong style="box-sizing: inherit; font-weight: bold;">Dismissal:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px;">5:00 p.m.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 45px;"><strong style="box-sizing: inherit; font-weight: bold;">Venue:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; height: 45px;">School Hall Level 4</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px;"><strong style="box-sizing: inherit; font-weight: bold;">Attire:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px;">TK Uniform or Primary School Uniform</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 222px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 222px;"><strong style="box-sizing: inherit; font-weight: bold;">Things to bring:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; height: 222px;"><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">Water bottle</li><li style="box-sizing: inherit;">Stationery</li><li style="box-sizing: inherit;">Working thermometer</li><li style="box-sizing: inherit;">Additional mask</li><li style="box-sizing: inherit;">School Tie</li><li style="box-sizing: inherit;">Sufficient money for recess and lunch break</li></ol></td></tr></tbody></table>
+|                  |                                                                                                                                   |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Reporting Time:**  | 7:20 a.m.                                                                                                                         |
+| **Dismissal:**       | 5:00 p.m.                                                                                                                         |
+| **Venue:**           | School Hall Level 4                                                                                                               |
+| **Attire:**          | TK Uniform or Primary School Uniform                                                                                              |
+| **Things to bring:** | Water bottle<br>Stationery<br>Working thermometer<br>Additional mask<br>School Tie<br>Sufficient money for recess and lunch break |
 
 **Sec 1 Orientation Programme**
 
