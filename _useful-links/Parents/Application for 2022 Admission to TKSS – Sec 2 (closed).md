@@ -18,8 +18,8 @@ Please submit the following for your application to Sec 2 (2022):
 2.  Results of Sec 1 End-of-Year School Examinations (Overall)
 3.  Any other documents that will support your application.
 
-Only shortlisted applicants will be informed by **8 November 2021 (Mon)**. 
+Only shortlisted applicants will be informed by <b><u>8 November 2021 (Mon)</u></b>. 
 
-You can submit the abovementioned documents and the completed application form to the TKSS General Office from 8:30am to 5:00pm on weekdays. **The office is closed on Saturday.**
+You can submit the abovementioned documents and the completed application form to the TKSS General Office from <u>8:30am</u> to <u>5:00pm</u> on weekdays. **The office is closed on Saturday.**
 
 Please note that incomplete application forms will **not** be processed.
