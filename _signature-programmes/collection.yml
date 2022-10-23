@@ -2,11 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EMAS/.keep
-      - EMAS/EMAS.md
-      - EMAS/Gema Puisi Artistik (Poetry Competition).md
-      - EMAS/Enrichment Activities.md
-      - EMAS/Elective Programme in Malay Language for Secondary Schools.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -22,3 +17,8 @@ collections:
       - Education and Career Guidance.md
       - Student Leadership.md
       - Talent Development.md
+      - EMAS/.keep
+      - EMAS/EMAS.md
+      - EMAS/Gema Puisi Artistik (Poetry Competition).md
+      - EMAS/Enrichment Activities.md
+      - EMAS/Elective Programme in Malay Language for Secondary Schools.md
