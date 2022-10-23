@@ -10,7 +10,7 @@ third_nav_title: Students
 
 2021 TK Graduates may collect your SGC from the school General Office after 01/06/2022, during office hours (Monday to Friday 9 am to 4 pm).
 
-**IMPORTANT NOTE**
+<b><u>IMPORTANT NOTE</u></b>
 
 1) Please bring along your NRIC / Student Pass for verification.
 
