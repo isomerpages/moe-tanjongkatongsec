@@ -33,7 +33,7 @@ All departments in TK have their respective talent development programme for the
 
 **TD@TK Mathematics**
 
-TD@TK Mathematics is a two-tiered programme. In the first tier, at Lower Secondary, selected students will attend Mathematics Workshops on strategies to manage challenging questions. These students are selected based on their performance at PSLE as well as their progress in TK. These students will then participate in the Singapore Mathematics Olympiad. At Secondary 2, selected students will participate in workshops on coding, such as control of drones. At Secondary 3 level, selected students attend sessions on use of coding for mathematics modelling. These students will also collaborate with students from other schools on their learnings.
+<p style="text-align: justify;">TD@TK Mathematics is a two-tiered programme. In the first tier, at Lower Secondary, selected students will attend Mathematics Workshops on strategies to manage challenging questions. These students are selected based on their performance at PSLE as well as their progress in TK. These students will then participate in the Singapore Mathematics Olympiad. At Secondary 2, selected students will participate in workshops on coding, such as control of drones. At Secondary 3 level, selected students attend sessions on use of coding for mathematics modelling. These students will also collaborate with students from other schools on their learnings.</p>
 
 [![Arrow 3](/images/Arrow-3.png)](/images/Arrow-3.png)
 
