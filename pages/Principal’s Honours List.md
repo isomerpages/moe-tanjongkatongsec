@@ -68,8 +68,15 @@ Sec 4 PHL Students – Going Beyond
 
 PHL students are recognised at the following platforms:
 
-1.  Lunch Session with the Principal
-2.  Prize Giving Day
+1\.  Lunch Session with the Principal
+2\.  Prize Giving Day
+
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+
 
 [![](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Da-Vinci-3-225x300.jpg)](https://tanjongkatongsec.moe.edu.sg/principals-honours-list/da-vinci-3/)
 
