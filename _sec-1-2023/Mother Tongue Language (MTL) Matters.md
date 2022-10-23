@@ -49,6 +49,6 @@ _Note: If your child obtains a grade of A1 to C6 for both English and HMTL at th
 *   For Malay / Chinese Special Programme, please check with the MSP/CSP Zonal Centres for the registration deadline.
 *   The contact information for MSP/CSP programmes has been provided for your reference.
 
-For more information on Third Language, visit [/mother-tongue-language-mtl-matters/](https://tanjongkatongsec.moe.edu.sg/mother-tongue-language-mtl-matters/)
+For more information on Third Language, visit [/mother-tongue-language-mtl-matters/](/sec1-2023/mother-tongue-language-mtl-matters/)
 
 For queries on taking up a Third Language please direct them to Mdm Chong Mong Leng, HOD Mother Tongue, [chong\_mong\_leng@schools.gov.sg](mailto:chong_mong_leng@schools.gov.sg)
