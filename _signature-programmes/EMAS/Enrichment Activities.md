@@ -7,14 +7,14 @@ third_nav_title: EMAS
 # Enrichment Activities
 Core and elective enrichment programmes for EMAS students:
 
-<b><u>Secondary 1</u></b>
+<u>Secondary 1</u>
 
 Drama Workshop (8 hours)  
 Creative Writing Workshop 1 (12 hours)
 
 Pantun Writing Workshop (6 hours)
 
-<b><u>Secondary 2</u></b>
+<u>Secondary 2</u>
 
 Drama Scriptwriting Workshop (16 hours)  
 Sajak Writing Workshop (6 hours)  
@@ -24,7 +24,7 @@ Children Stories Writing and Storytelling programme (24 hours)
 
 ![](/images/Signature%20Programmes/1-16.jpg)
 
-<b><u>Secondary 3</u></b>
+<u>Secondary 3</u>
 
 Creative Writing Workshop 2 (4 hyours)  
 Lyrics Writing Workshop (12 hours)  
@@ -35,6 +35,6 @@ Short Film Production Workshop (10 hours)
 
 ![](/images/Signature%20Programmes/2-9.jpg)
 
-<b><u>Secondary 4</u></b>
+<u>Secondary 4</u>
 
 Creative Writing Workshop 3 (12 hours)
