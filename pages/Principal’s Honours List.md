@@ -48,7 +48,7 @@ Sec 4 PHL Students – Going Beyond
 
 **Example of Da Vinci + Project**
 
-[![Sports & Health Domain](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Sports-Health-Domain-1024x592.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/02/Sports-Health-Domain.png)
+[![Sports & Health Domain](/images/Sports-Health-Domain.png)](/images/Sports-Health-Domain.png)
 
 **Einstein Plus Programme**
 
