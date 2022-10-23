@@ -81,15 +81,6 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 |---|---|
 | <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_0929.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_0929.jpg" style="width:100%"></a>  | <a href="/images/Signature%20Programmes/Student%20Leadership/IMG_0925.jpg"> <img src="/images/Signature%20Programmes/Student%20Leadership/IMG_0925.jpg" style="width:100%"></a>  |
 
-|   |   |
-|---|---|
-|   |   |
-
-|   |   |
-|---|---|
-|   |   |
-
-  
 
 #### Class  & Peer Support Leaders
 
@@ -135,5 +126,4 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 
 |   |   |
 |---|---|
-| [![](/images/Signature%20Programmes/Student%20Leadership/20190208_141447-v2.jpg)](/images/Signature%20Programmes/Student%20Leadership/20190208_141447-v2.jpg) |  | 
-
+| [![](/images/Signature%20Programmes/Student%20Leadership/20190208_141447-v2.jpg)](/images/Signature%20Programmes/Student%20Leadership/20190208_141447-v2.jpg) |  |
