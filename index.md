@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/home_page.gif
+  - resources:
+      title: ANNOUNCEMENT
+      button: VIEW ALL ANNOUNCEMENTS
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: ANNOUNCEMENT
-      button: VIEW ALL ANNOUNCEMENTS
 ---
