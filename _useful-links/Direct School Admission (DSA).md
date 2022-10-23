@@ -34,7 +34,7 @@ TK reserves the final decision on the acceptance of students based on the above 
 **Schedule**
 
 |                                    |                     |
-|:------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+|------------------------------------------------------------------|--------------------------|
 | APPLICATION STAGE<br> <br>From 5 May 2022 to 1 June 2022           | Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm.<br>For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec             |
 | SELECTION STAGE<br>27 June –  12 September 2022<br>Selection Stage | Arrangements will be made with the respective Primary Schools’ Points-of-Contact (POC) for interview/trial/audition timeslots.<br>ONLY Shortlisted applicants will be notified via email and phone call from TKSS on the arrangements.              |
 | By 12 September 2022                                               | Letters will be sent out to all applicants on the outcome, namely Confirmed Offer (CO), put on the Waiting List (WL), or Unsuccessful.            |
