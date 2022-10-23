@@ -113,7 +113,7 @@ The TK student leader is the epitome of **Competence**, **Constructiveness** 
 
  |   |   |
 |---|---|
-| [![](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-1536x1152.jpg)](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-1536x1152.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)  | 
+| [![](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-scaled.jpg)](/images/Signature%20Programmes/Student%20Leadership/EXCO-2021-2022-scaled.jpg) | [![](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)](/images/Signature%20Programmes/Student%20Leadership/SC-2019-v2.jpg)  | 
 
  |   |   |
 |---|---|
