@@ -15,5 +15,6 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Announcements
+      title: ANNOUNCEMENT
+      button: VIEW ALL ANNOUNCEMENTS
 ---
