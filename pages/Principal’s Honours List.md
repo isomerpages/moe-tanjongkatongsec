@@ -81,15 +81,13 @@ PHL students are recognised at the following platforms:
 <tbody>
   <tr>
     <td> <figure>
-	<a href="/images/Da-Vinci-3-225x300.jpg" target = "_blank"> <img src="/images/Da-Vinci-3-225x300.jpg"
-     style="width:50%"></a>
+	<a href="/images/Da-Vinci-3-225x300.jpg" target = "_blank"> <img src="/images/Da-Vinci-3-225x300.jpg"></a>
 <figcaption>
 	<strong> Da Vinci 3+ </strong>
 	</figcaption>
 </figure></td>
     <td><figure>
-	<a href="/images/Design-Thinking-225x300.jpg" target = "_blank"> <img src="/images/Design-Thinking-225x300.jpg"
-     style="width:50%"></a>
+	<a href="/images/Design-Thinking-225x300.jpg" target = "_blank"> <img src="/images/Design-Thinking-225x300.jpg"></a>
 <figcaption>
 	<strong> Da Vinci 3+ </strong>
 	</figcaption>
