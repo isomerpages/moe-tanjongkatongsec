@@ -20,7 +20,7 @@ The TD@TK framework has three key components as follows:
 
 The TD@TK programme has various platforms for talent development (see below). The framework will be applied in the various platforms.
 
-[Department-Based](/department-based/)
+<p style="text-align: center;"><a href="/department-based/" target="_blank">Department-Based</a></p>
 
 [Principal’s Honours List (PHL) : Da Vinci & Einstein Plus](/principals-honours-list/)
 
