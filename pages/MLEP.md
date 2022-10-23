@@ -21,7 +21,7 @@ The objectives of MLEP are:
 
 **Entry criteria**
 
-1\.  B3 grade in Higher Malay Language; or
+1\.  B3 grade in Higher Malay Language; or  
 2\.  A2 grade in Malay Language
 
 **Course**
@@ -32,28 +32,28 @@ Literature in Malay language (pure or elective) as one of the subjects at GCE �
 
 <p style="text-align: justify;">The programme offers a wide range of activities to enhance language skills and interest in the learning of the Malay language, literature and culture. Activities include:</p>
 
-1\.  Overseas immersion programme / study tour
-2\.  Creative writing workshops
-3\.  Publication of literary works
-4\.  Literature camp
+1\.  Overseas immersion programme / study tour  
+2\.  Creative writing workshops  
+3\.  Publication of literary works  
+4\.  Literature camp  
 5\.  Lectures, forums and discussions
 
 **MLEP in Junior Colleges**
 
 Students may apply to enrol in the MLEP-JC through DSA or JAE. Colleges offering MLEP are:
 
-1\.  Jurong Pioneer Junior College
-2\.  National Junior College
-3\.  Raffles Institution
-4\.  Tampines Meridian Junior College
+1\.  Jurong Pioneer Junior College  
+2\.  National Junior College  
+3\.  Raffles Institution  
+4\.  Tampines Meridian Junior College  
 5\.  Yishun Innova Junior College
 
 **Entry criteria**
 
 Applicants must have good overall results in GCE ‘O’ level Examination, obtaining at least:
 
-1\.  B3 grade in HML; or
-2\.  B4 grade in HML and B3 grade in Malay Literature (Pure or Elective); or
+1\.  B3 grade in HML; or  
+2\.  B4 grade in HML and B3 grade in Malay Literature (Pure or Elective); or  
 3\.  A2 grade in Malay Language.
 
 **Programme Incentives**
