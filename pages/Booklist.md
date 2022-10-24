@@ -14,18 +14,18 @@ This new platform will enable you to purchase with the option of Home Delivery o
 
 **HOME DELIVERY**
 
-1.  Visit our website ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/))
-2.  Go to ‘Log In / Register’ on the top right hand corner
-3.  All customers will need to create and register for an account
+1\.  Visit our website ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/))  
+2\.  Go to ‘Log In / Register’ on the top right hand corner  
+3\.  All customers will need to create and register for an account
 
 [![Pacific Bookstores](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstores.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstores.png)
 
 4\. Upon logging in, customer are required to fill up the below fields to proceed for purchase
 
-*   1.  Select Education Level
-    2.  Select School
-    3.  Select Student Level (Next Year)
-    4.  Mother Tongue
+   1.  Select Education Level  
+   2.  Select School  
+   3.  Select Student Level (Next Year)  
+   4.  Mother Tongue
 
 [![Pacific Bookstore 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-2.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-2.png)
 
