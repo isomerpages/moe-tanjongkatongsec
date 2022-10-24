@@ -9,7 +9,7 @@ description: ""
 
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose the following procedures for the year end book sale to all our valued customers to ensure a smooth and pleasant purchase experience.
 
-We encourage parents to make their purchase via our new online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) with effect from **5th** **November to 13th December 2021****( Sec 2-4 )** and **Sec 1** will be launched from **20th to 26th December 2021.**
+We encourage parents to make their purchase via our new online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) with effect from **5th November to 13th December 2021****( Sec 2-4 )** and **Sec 1** will be launched from **20th to 26th December 2021.**
 
 This new platform will enable you to purchase with the option of Home Delivery or Self-Collection. Please find the guided procedures for your purchases.
 
