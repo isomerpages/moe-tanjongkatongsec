@@ -14,3 +14,5 @@ Schoolbag.sg has feature areas on student well-being in their articles. Please c
 | On Stress and Coping               |• [Keep calm and let them carry on](https://www.schoolbag.sg/story/keep-calm-and-let-them-carry-on)<br>• [What me worry](https://www.schoolbag.sg/story/what-me-worry)<br>• [Calming a Child’s first day jitters](https://www.schoolbag.sg/story/calming-a-child-s-first-day-jitters) |
 | On Conversations about Feelings    | • [From “I’m okay” to “It’s okay”](https://www.schoolbag.edu.sg/story/from-i-m-okay-to-it-s-okay)<br>• [In Their Skin](https://www.schoolbag.edu.sg/story/in-their-skin)                                         |
 | On Students’ Mental Health Support | • [Q&A about students’ mental health support](https://www.schoolbag.edu.sg/story/q-a-about-students-mental-health-support)                                               |
+
+Look through these useful tips from the Health Promotion Board below.
