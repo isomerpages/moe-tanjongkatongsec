@@ -39,7 +39,7 @@ This new platform will enable you to purchase with the option of Home Delivery o
 
 6\. Booklist will be shown and customer are required to uncheck the items that ‘**YOU DO NOT WANT TO PURCHASE**’. When you have completed selecting all your textbooks and stationery, proceed to click ‘**Next**’
 
-[![Pacific Bookstore 5](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-5.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-5.png)
+[![Pacific Bookstore 5](/images/Booklist//Pacific-bookstore-5.png)](/images/Booklist/Pacific-bookstore-5.png)
 
 7\. When you arrive at the ‘Purchase Details’ page, check that all your items are correct. If all items are correct, click on proceed to next step.
 
