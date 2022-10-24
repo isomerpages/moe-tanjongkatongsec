@@ -43,19 +43,19 @@ This new platform will enable you to purchase with the option of Home Delivery o
 
 7\. When you arrive at the ‘Purchase Details’ page, check that all your items are correct. If all items are correct, click on proceed to next step.
 
-[![Pacific Bookstore 6](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-6.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-6.png)
+[![Pacific Bookstore 6](/images/Booklist/Pacific-bookstore-6.png)](/images/Booklist//Pacific-bookstore-6.png)
 
 8\. For Home Delivery option, customer will need to fill the shipping information. A shipping/delivery charge of $13.80 will be added. Select your preferred mode of payment: Credit Card / PAYNOW and click ‘Place Order Now’
 
-[![Pacific Bookstore 7](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-7-1024x487.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-7.png)
+[![Pacific Bookstore 7](/images/Booklist/Pacific-bookstore-7.png)](/images/Booklist/Pacific-bookstore-7.png)
 
 9\. Customer to check the ordering information is correct. Click ‘Proceed to Payment’ to checkout
 
-[![Pacific Bookstore 8](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-8.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-8.png)
+[![Pacific Bookstore 8](/images/Booklist/Pacific-bookstore-8.png)](/images/Booklist/Pacific-bookstore-8.png)
 
 10\. For Credit Card payments, you will have to complete your credit card / debit card details
 
-[![Pacific Bookstore 9](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-9.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-9.png)
+[![Pacific Bookstore 9](/images/Booklist/Pacific-bookstore-9.png)](/images/Booklist/Pacific-bookstore-9.png)
 
 11\. For PAYNOW payments, please scan the QR code to proceed for payment.
 
@@ -65,7 +65,7 @@ Step 2. Select PAYNOW on your banking app
 
 Step 3. Scan QR code using banking app to make payment.
 
-[![Pacific Bookstore 10](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-10-217x300.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-10.png)
+[![Pacific Bookstore 10](/images/Booklist/Pacific-bookstore-10.png)](/images/Booklist/Pacific-bookstore-10.png)
 
 12\. You will receive a confirmation email once you have successfully made your payment. An invoice will be attached together with your confirmation email. Alternatively, you may also print your invoice from Pacific Bookstores website under your User Account -> Orders
 
