@@ -5,7 +5,7 @@ description: ""
 ---
 # Students
 
-*   [SYFC](http://www.syfc.sg/)
+*   <a href="http://www.syfc.sg/" target="_blank">SYFC</a>
 *   [ASKNLearn LMS](http://lms.asknlearn.com/tkss)
 *   [Library OPAC System](http://tanjongkatongsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 *   [Students\_SGC\_Template\_2018](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2017/03/Students_SGC_Template_2018.doc)
