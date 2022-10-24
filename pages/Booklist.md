@@ -35,7 +35,7 @@ This new platform will enable you to purchase with the option of Home Delivery o
 
 **Step 5** – Complete your order and checkout before the session expires within the **60** minutes.
 
-[![Pacific Bookstore 4.jpg](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-4.jpg.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-4.jpg.png)
+[![Pacific Bookstore 4.jpg](/images/Booklist/Pacific-bookstore-4.png)](/images/Booklist/Pacific-bookstore-4.png)
 
 6\. Booklist will be shown and customer are required to uncheck the items that ‘**YOU DO NOT WANT TO PURCHASE**’. When you have completed selecting all your textbooks and stationery, proceed to click ‘**Next**’
 
