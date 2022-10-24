@@ -69,7 +69,7 @@ Step 3. Scan QR code using banking app to make payment.
 
 12\. You will receive a confirmation email once you have successfully made your payment. An invoice will be attached together with your confirmation email. Alternatively, you may also print your invoice from Pacific Bookstores website under your User Account -> Orders
 
-*   [TKSS S1 BOOKLIST](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/TKSS-S1-BOOKLIST.pdf)
-*   [TKSS S2 BOOKLIST](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/TKSS-S2-BOOKLIST.pdf)
-*   [TKSS S3 BOOKLIST](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/TKSS-S3-BOOKLIST.pdf)
-*   [TKSS S4 BOOKLIST](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/TKSS-S4-BOOKLIST.pdf)
+*   [TKSS S1 BOOKLIST](/files/Booklist/TKSS-S1-BOOKLIST.pdf)
+*   [TKSS S2 BOOKLIST](/files/Booklist/TKSS-S2-BOOKLIST.pdf)
+*   [TKSS S3 BOOKLIST](/files/Booklist/TKSS-S3-BOOKLIST.pdf)
+*   [TKSS S4 BOOKLIST](/files/Booklist/TKSS-S4-BOOKLIST.pdf)
