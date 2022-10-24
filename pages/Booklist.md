@@ -66,7 +66,8 @@ Step 2. Select PAYNOW on your banking app
 
 Step 3. Scan QR code using banking app to make payment.
 
-[![Pacific Bookstore 10](/images/Booklist/Pacific-bookstore-10.png)](/images/Booklist/Pacific-bookstore-10.png)
+<a href="/images/Booklist/Pacific-bookstore-10.png"> <img src="/images/Booklist/Pacific-bookstore-10.png" 
+     style="width:30%"></a>
 
 12\. You will receive a confirmation email once you have successfully made your payment. An invoice will be attached together with your confirmation email. Alternatively, you may also print your invoice from Pacific Bookstores website under your User Account -> Orders
 
