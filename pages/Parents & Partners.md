@@ -8,4 +8,4 @@ description: ""
 *   [Booklist](/booklist/)
 *   <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" target="_blank">MOE cyberwellness</a>
 *   <a href="/files/User-Guide-for-Parents-on-Parents-Gateway.pdf" target="_blank">Parents Gateway User Guide</a>
-*   <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" target="_blank">Mental Health and Wellness Resources</a>
+*   <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/">Mental Health and Wellness Resources</a>
