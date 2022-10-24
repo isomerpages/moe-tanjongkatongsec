@@ -4,6 +4,7 @@ permalink: /booklist/
 description: ""
 ---
 # Booklist
+
 #### **User Guide for Online Purchase of School Textbooks for Year 2022**
 
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose the following procedures for the year end book sale to all our valued customers to ensure a smooth and pleasant purchase experience.
