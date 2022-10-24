@@ -3,6 +3,7 @@ title: Teachers
 permalink: /for-teachers/
 description: ""
 ---
+# Links for MOE intranet, digital resource, ICONnect, asknlearn broken
 # Teachers
 
 *   <a href="http://intranet.moe.gov.sg/" target="_blank">MOE Intranet</a>
