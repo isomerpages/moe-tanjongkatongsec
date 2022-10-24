@@ -18,7 +18,7 @@ This new platform will enable you to purchase with the option of Home Delivery o
 2\.  Go to ‘Log In / Register’ on the top right hand corner  
 3\.  All customers will need to create and register for an account
 
-[![Pacific Bookstores](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstores.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstores.png)
+[![Pacific Bookstores](/images/Booklist/Pacific-bookstores.png)](/images/Booklist/Pacific-bookstores.png)
 
 4\. Upon logging in, customer are required to fill up the below fields to proceed for purchase
 
