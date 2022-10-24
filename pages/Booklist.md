@@ -27,11 +27,11 @@ This new platform will enable you to purchase with the option of Home Delivery o
    3.  Select Student Level (Next Year)  
    4.  Mother Tongue
 
-[![Pacific Bookstore 2](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-2.png)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-2.png)
+[![Pacific Bookstore 2](/images/Booklist/Pacific-bookstore-2.png)](/images/Booklist/Pacific-bookstore-2.png)
 
 5\. Select Shipment Mode
 
-[![Pacific Bookstore 3.png](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-3.png-1024x553.jpg)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/10/Pacific-bookstore-3.png.jpg)
+[![Pacific Bookstore 3.png](/images/Booklist/Pacific-bookstore-3.jpg)](/images/Booklist/Pacific-bookstore-3.jpg)
 
 **Step 5** – Complete your order and checkout before the session expires within the **60** minutes.
 
