@@ -8,7 +8,7 @@ description: ""
 
 The MOE Financial Assistance (FAS) Application is now open for application for 2023.
 
-1.  We have attached the and [FAS criteria eligibility (Pamphlet)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-pamphlet-EL-for-schools.pdf) and [Application Form](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-Application-Form-Sep-2022.pdf) for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
+1.  We have attached the [FAS criteria eligibility (Pamphlet)](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-pamphlet-EL-for-schools.pdf) and [Application Form](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-Application-Form-Sep-2022.pdf) for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
 
 **(i) eFAS (**[**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)**)**
 <img src="/images/Sec%201%202023/eFAS.jpg" 
