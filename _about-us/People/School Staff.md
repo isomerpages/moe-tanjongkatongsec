@@ -49,16 +49,6 @@ third_nav_title: People
     <td>anisah_hassan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Vanessa Goh</td>
-    <td>Teacher</td>
-    <td>goh_hwee_fang_vanessa@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Miss Maureen Lian</td>
-    <td>Teacher</td>
-    <td>lian_ah_ai_maureen@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td>Ms Marliyana Lim</td>
     <td>Teacher</td>
     <td>marliyana_mustaffamarliyana_lim@moe.edu.sg</td>
@@ -72,6 +62,16 @@ third_nav_title: People
     <td>Mr Yusfiandi</td>
     <td>Teacher</td>
     <td>yusfiandi_yatiman@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Miss Maureen Lian</td>
+    <td>Teacher</td>
+    <td>lian_ah_ai_maureen@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Carolyn Lee</td>
+    <td>Teacher</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
@@ -98,6 +98,11 @@ third_nav_title: People
     <td>HOD Discipline</td>
     <td>tan_kok_leong_vincent@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td>Mr Alan Pang</td>
+    <td>HOD ICT</td>
+    <td>pang_chau_choon@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Mdm Halilah</td>
     <td>Year Head (Upper Sec)</td>
@@ -112,11 +117,6 @@ third_nav_title: People
     <td>Miss Mavis Lim</td>
     <td>SH Additional Mathematics</td>
     <td>lim_hui_mei_mavis@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Alan Pang</td>
-    <td>SH ICT</td>
-    <td>pang_chau_choon@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mrs Hwang Lay Beng</td>
@@ -143,11 +143,6 @@ third_nav_title: People
     <td>Teacher</td>
     <td>sin_joo_lee@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Mr Fong Kok Hoong</td>
-    <td>Teacher</td>
-    <td>fong_kok_hoong@moe.edu.sg</td>
-  </tr>
 </tbody>
 </table>
 
@@ -169,35 +164,51 @@ third_nav_title: People
     <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Ishak</td>
-    <td>Teacher</td>
-    <td>ishak_abdul_latiff@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td>Mr Ngoi Kah Teck</td>
     <td>Teacher</td>
     <td>ngoi_kah_teck@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Ng Mo Boey</td>
+    <td>Ms Han Li</td>
     <td>Teacher</td>
-    <td>ng_mo_boey@moe.edu.sg</td>
+    <td>han_li@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Miss Zhang Hao</td>
+	<td>Ms Suriyani</td>
     <td>Teacher</td>
-    <td>zhang_hao@moe.edu.sg</td>
+    <td>suriyani_a@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Miss Cheng Liang Yu</td>
+	<td>Ms Neo Lay Yian</td>
     <td>Teacher</td>
-    <td>cheng_liangyu@moe.edu.sg</td>
+    <td>neo_lay_yian@moe.edu.sg</td>
+  </tr>
+	<td>Ms Chin Sock Huay</td>
+    <td>Teacher</td>
+    <td>chin_sock_huay@moe.edu.sg</td>
+  </tr>
+	<td>Ms Li Fei</td>
+    <td>Teacher</td>
+    <td>li_fei@moe.edu.sg</td>
+  </tr>
+	<td>Ms Yuan Pin</td>
+    <td>Teacher</td>
+    <td>yuan_pin@moe.edu.sg</td>
+  </tr>
+	<td>Mr Foo Ying Xiang</td>
+    <td>Teacher</td>
+    <td>foo_ying_xiang@moe.edu.sg</td>
+  </tr>
+	<td>Ms Ong Lee Eng</td>
+    <td>Teacher</td>
+    <td>ong_lee_eng@moe.edu.sg</td>
+  </tr>
+  	 <tr>
+    <td>Mr Ishak</td>
+    <td>Teacher</td>
+    <td>ishak_abdul_latiff@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Miss Noorashikin</td>
-    <td>Teacher</td>
-    <td>noorashikin_mohamed_ishak@moe.edu.sg</td>
-  </tr>
+    <td>Teacher</td> <td>noorashikin_mohamed_ishak@moe.edu.sg</td></tr>
   <tr>
     <td>Miss Nur Khairiyyah</td>
     <td>Teacher</td>
@@ -208,25 +219,9 @@ third_nav_title: People
     <td>Teacher</td>
     <td>nadiah_abdul_karim@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Miss Adeline Chan</td>
+	<td>Ms Sri Nabilah</td>
     <td>Teacher</td>
-    <td>adeline_chan_wen_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Han Li</td>
-    <td>Teacher</td>
-    <td>han_li@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Suriyani</td>
-    <td>Teacher</td>
-    <td>suriyani_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Ong Lee Eng</td>
-    <td>Teacher</td>
-    <td>ong_lee_eng@moe.edu.sg</td>
+    <td>sri_nabilah_basri@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -239,7 +234,10 @@ third_nav_title: People
 </thead>
 <tbody>
   <tr>
-    <td>Miss Cherlyn Tan</td>
+    <td>Mr Desmond Chong</td>
+    <td>HOD Science</td> <td>desmond_chong_eng_soon@moe.edu.sg</td>
+  </tr>
+	<td>Miss Cherlyn Tan</td>
     <td>SH Biology/LS</td>
     <td>tan_suat_ying_cherlyn@moe.edu.sg</td>
   </tr>
@@ -260,18 +258,17 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Ms Nabilah Banu</td>
-    <td>Teacher</td>
-    <td>nabilah_banu_nazeer_khan@moe.edu.sg</td>
+    <td>Teacher</td> <td>nabilah_banu_nazeer_khan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Gordon Yong</td>
+    <td>Mrs Toh Lee Lee</td>
     <td>Teacher</td>
-    <td>gordon_yong_wenjie@moe.edu.sg</td>
+    <td>chow_lee_lee@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Mr Cassidy Soh</td>
+	<tr>
+    <td>Mr Peh Chu Ming</td>
     <td>Teacher</td>
-    <td>soh_yi_xing_cassidy@moe.edu.sg</td>
+    <td>peh_chu_ming@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Miss Sophia Lim</td>
@@ -283,10 +280,10 @@ third_nav_title: People
     <td>Teacher</td>
     <td>tan_si_hao_brian@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Mrs Toh Lee Lee</td>
+	<tr>
+    <td>Mr Ong Hoong Siong</td>
     <td>Teacher</td>
-    <td>chow_lee_lee@moe.edu.sg</td>
+    <td>ong_hoong_siong@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Ng Li Juan</td>
@@ -294,29 +291,14 @@ third_nav_title: People
     <td>ng_li_juan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Benson Ang</td>
-    <td>Teacher</td>
-    <td>ang_benson@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Peh Chu Ming</td>
-    <td>Teacher</td>
-    <td>peh_chu_ming@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Woo Yan Lin</td>
-    <td>Teacher</td>
-    <td>woo_yan_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Jeslyn Ong Ting Ting</td>
-    <td>Teacher</td>
-    <td>ong_ting_ting_jeslyn@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td>Ms Nuraisyah</td>
     <td>Laboratory Technician</td>
     <td>nuraisyah_dollah@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Miss Nurfilya</td>
+    <td>Laboratory Technician</td>
+    <td>nurfilya_hamdil@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -368,17 +350,7 @@ third_nav_title: People
     <td>Teacher</td>
     <td>syafeena@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Ms Melissa Chua</td>
-    <td>Teacher</td>
-    <td>chua_sock_huang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Miss Connie Ho</td>
-    <td>Teacher</td>
-    <td>shu_ying_ho@moe.edu.sg</td>
-  </tr>
-  <tr>
+    <tr>
     <td>Miss Tan Sze Eng</td>
     <td>Teacher</td>
     <td>tan_sze_eng@moe.edu.sg</td>
@@ -395,8 +367,12 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Miss Ayshathun</td>
+    <td>Teacher</td> <td>ayshathun_munavvara_shihabuddeen@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Miss Nurul Aqilah</td>
     <td>Teacher</td>
-    <td>ayshathun_munavvara_shihabuddeen@moe.edu.sg</td>
+    <td>nurul_aqilah_minhaj@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -415,8 +391,7 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Mr Yusoff</td>
-    <td>Teacher</td>
-    <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
+    <td>Teacher</td> <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Colin Chew</td>
@@ -424,9 +399,14 @@ third_nav_title: People
     <td>colin_chew_kim_heng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Danny Wong</td>
+    <td>Mr Cheng Xin Jin</td>
     <td>Teacher</td>
-    <td>wong_kok_wye_danny@moe.edu.sg</td>
+    <td>cheng_xin_jin@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Vincent Ng</td>
+    <td>Teacher</td>
+    <td>ng_ghim_hong_vincent@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Chye De San</td>
@@ -454,9 +434,9 @@ third_nav_title: People
     <td>pang_ling_li@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mrs Tan Wan Hwa</td>
+    <td>Mr Khee Jun Jie</td>
     <td>Teacher</td>
-    <td>tan_wan_hwa@moe.edu.sg</td>
+    <td>khee_jun_jie@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Miss Ermawati</td>
@@ -503,10 +483,14 @@ third_nav_title: People
     <td>Desktop Engineer</td>
     <td></td>
   </tr>
+	<tr>
+    <td>Ms Thamarai Selvi Soundarajan</td>
+    <td>Desktop Engineer</td>
+    <td></td>
+  </tr>
   <tr>
     <td>Muhammad Hazwan</td>
-    <td>AV Technician</td>
-    <td>muhammad_hazwan_zainal@moe.edu.sg</td>
+    <td>AV Technician</td> <td>muhammad_hazwan_zainal@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -556,7 +540,7 @@ third_nav_title: People
   <tr>
     <td>Ms Kate Choo</td>
     <td>Education and Career Guidance (ECG) Counsellor</td>
-    <td>Kate_CHOO_HUEY_XUAN@schools.gov.sg</td>
+    <td>Kate_choo_huey_xuan@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -576,20 +560,12 @@ third_nav_title: People
     <td>Mr Leslie Tan</td>
     <td colspan="2">Operations Manager</td>
   </tr>
-  <tr>
-    <td>Mdm Norazah A Ghaffar</td>
-    <td colspan="2">Management Support Officer</td>
-  </tr>
-  <tr>
+    <tr>
     <td>Ms Harbalbir Raj Kaur</td>
     <td colspan="2">Management Support Officer</td>
   </tr>
   <tr>
     <td>Ms Lim Feng</td>
-    <td colspan="2">Corporate Support Officer</td>
-  </tr>
-  <tr>
-    <td>Ms Rafidah Ramlan</td>
     <td colspan="2">Corporate Support Officer</td>
   </tr>
   <tr>
@@ -602,6 +578,10 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Mdm Connie Song</td>
+    <td colspan="2">Clerical Officer</td>
+  </tr>
+	<tr>
+    <td>Mdm Lilian Tan</td>
     <td colspan="2">Clerical Officer</td>
   </tr>
   <tr>
