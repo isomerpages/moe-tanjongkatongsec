@@ -20,3 +20,4 @@ third_nav_title: People
 | Dr Lim Keng Hua           | Member             |
 | Mr Seah Chee Huang        | Member             |
 | Mr Yuen Wei Loon Samuel   | Member             |
+| Mr Yang Si Cheng   | Member             |
