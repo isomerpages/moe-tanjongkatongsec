@@ -2,8 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EMAS Programme/EMAS & MLEP.md
-      - EMAS Programme/.keep
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -25,3 +23,5 @@ collections:
       - EMAS & MLEP/Student Achievements.md
       - EMAS & MLEP/Enrichment Activities.md
       - EMAS & MLEP/Elective Programme in Malay Language for Secondary Schools.md
+      - EMAS Programme/.keep
+      - EMAS Programme/EMAS & MLEP.md
