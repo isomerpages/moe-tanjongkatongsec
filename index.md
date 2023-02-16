@@ -11,6 +11,13 @@ sections:
   - resources:
       title: ANNOUNCEMENT
       button: VIEW ALL ANNOUNCEMENTS
+  - infopic:
+      title: PARENTS & PARTNERS
+      description: '"The Power of We - Nurturing Aspirations through Partnerships" and
+        it is with this in mind that we forge synergistic collaborations with
+        our parents. Several...'
+      button: MORE
+      url: /for-parents-partners/
   - infobar:
       title: PARENTS & PARTNERS
       description: '"The Power of We - Nurturing Aspirations through Partnerships" and
