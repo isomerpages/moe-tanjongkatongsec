@@ -18,6 +18,16 @@ sections:
         our parents. Several...'
       button: MORE
       url: /for-parents-partners/
+      image: /images/p.jpeg
+  - infopic:
+      title: STUDENTS
+      description: The TK Graduate is self-directed in learning and passionate in all
+        he undertakes. Confident, resilient and flexible, he is guided by sound
+        values to lead...
+      button: MORE
+      url: /for-students/
+      image: /images/p.jpeg
+      alt: Image alt text
   - infobar:
       title: PARENTS & PARTNERS
       description: '"The Power of We - Nurturing Aspirations through Partnerships" and
