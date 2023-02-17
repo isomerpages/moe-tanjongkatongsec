@@ -5,6 +5,8 @@ description: ""
 ---
 # Principal’s Message
 
+![](/images/principal.jpeg)
+
 In Tanjong Katong Secondary School (TK), we believe in developing a culture of care, trust and openness with a strong school ethos.  The clarity of our purpose, coupled with the strong focus on students, staff professional development and well-being, are all pivotal in the many strategic decisions made in student development, curriculum leadership, human resource and partnerships. Our TK Curriculum Framework guides the student-centric curriculum and co-curriculum to provide a diverse holistic learning and experiential opportunities within and beyond the classroom.
 
 The school philosophy is that ‘Everyone Matters’. Coupled with our belief in the growth mindset, TK adopts a holistic education approach considering our students’ individual interests and talents, while providing for diverse opportunities to enrich their school experiences and allowing them ample opportunities to pursue their passions. In addition to our key signature programmes, namely, Da Vinci Programme, Science Enrichment Programme, Current Affairs Programme, Critical & Inventive SKILLS programme, Aesthetics and Sports CHOICES programme and Twinning Programme.  TK is designated as the East Zone Centre of Excellence (COE) for both Design Education and Character & Citizenship Education, working with schools in the East Zone. Besides the COEs, our research programmes and inquiry-based projects are also testimony of our rigorous and progressive curriculum.
