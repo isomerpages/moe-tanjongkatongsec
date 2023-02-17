@@ -5,7 +5,7 @@ description: ""
 ---
 # Principal’s Message
 
-![](/images/principal.jpeg)
+![](/images/Principal.jpg)
 
 In Tanjong Katong Secondary School (TK), we believe in developing a culture of care, trust and openness with a strong school ethos.  The clarity of our purpose, coupled with the strong focus on students, staff professional development and well-being, are all pivotal in the many strategic decisions made in student development, curriculum leadership, human resource and partnerships. Our TK Curriculum Framework guides the student-centric curriculum and co-curriculum to provide a diverse holistic learning and experiential opportunities within and beyond the classroom.
 
