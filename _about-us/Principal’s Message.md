@@ -27,5 +27,6 @@ We will continue to leverage on our strengths to ensure a unique and holistic sc
 
 Diligentia, Ingenium, Dexteritas
 
-Mrs Dolly Ong 
+Mrs Dolly Ong
+
 Principal
