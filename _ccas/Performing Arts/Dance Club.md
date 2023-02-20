@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 ---
 # Dance Club
-# upload video to youtube
 
 ## **About**
 
@@ -24,6 +23,6 @@ Lim Li Xuan (3F)
 
 ## **Teachers-in-Charge**
 
-*   **Miss Cheng Liangyu**
-*   Miss Tan Mui Mui
+*   **Mrs Audrey Chen**
+*   Miss Noorashikin Binte Mohamed Ishak
 *   Miss Ayshathun Munavvara
