@@ -4,9 +4,9 @@ permalink: /about-us/Our-Partners/parents/
 description: ""
 third_nav_title: Our Partners
 ---
-# upload the video to youtube
-# Parents
-In TK, our partnership vision is “The  Power of We – Nurturing Aspirations through Partnerships” and it is with this in mind that we forge synergistic collaborations with our parents  Several platforms exist for us to harness the positive effects of such a partnership.
+
+# **Parents**
+In TK, our partnership vision is “The Power of We – Nurturing Aspirations through Partnerships” and it is with this in mind that we forge synergistic collaborations with our parents  Several platforms exist for us to harness the positive effects of such a partnership.
 
 **Parents’** **Days**
 
