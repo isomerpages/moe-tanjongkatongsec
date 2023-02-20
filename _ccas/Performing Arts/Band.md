@@ -31,4 +31,6 @@ Mr Lawrence Siao
 ## **Teachers-in-Charge**
 
 *   **Mr Siao Choon Keong Lawrence**
-*   Miss Nur Khairiyyah Nordin
+*   Mr Ong Hoong Siong
+*   Ms Nur Khairiyyah Binte Nordin
+*   Ms Lee Hui Ling
