@@ -17,6 +17,4 @@ Nicholas Tan (3C)
 ## **Teachers-in-Charge**
 
 *   **Mr Mohammed Yusoff** 
-*   Miss Ho Shu Ying
-*   Ms Vanessa Goh
 *   Miss Estee Goh
