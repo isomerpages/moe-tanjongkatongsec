@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 ---
 # Drama Club
 
-# upload to youtube
 
 ## **About**
 
