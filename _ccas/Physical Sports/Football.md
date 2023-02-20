@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 ---
 # Football
-# upload video to youtube
 ## **About**
 
 TK Football aims not only to develop students in their skills and playing acumen, but also to nurture students with the right values to succeed outside the football pitch.
@@ -30,4 +29,4 @@ Mr Roy Soh
 *   **Mr Colin Chew**
 *   Mr Roy Soh
 *   Mr Ian Chan
-*   Miss Jeslyn Ong
+*   Mr Vincent Ng
