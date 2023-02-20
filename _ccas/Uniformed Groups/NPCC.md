@@ -78,7 +78,7 @@ Dian Fransiska (3A)
 
 ## **Teachers-in-Charge**
 
-*   **Mr Kelvin Yong**
-*   Miss Joanne Lim
+*   **Miss Joanne Lim**
 *   Mr Brian Tan
+*   Mr Kelvin Yong
 *   Mr Peh Chu Ming
