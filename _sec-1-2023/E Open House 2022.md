@@ -7,4 +7,3 @@ description: ""
 
 <b><u>The TKSS Experience</u></b>
 
-# upload videos to youtube
