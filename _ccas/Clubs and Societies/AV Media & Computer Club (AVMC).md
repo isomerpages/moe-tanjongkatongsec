@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 # AV Media & Computer Club (AVMC)
-# upload videos to youtube
 
 ## **About**
 
@@ -55,5 +54,5 @@ Bhargav Piyushkumar Singapuri (4C, 2014)
 ## **Teachers-in-Charge**
 
 *   **Miss Nani Rahayu Bte Mohamed Razali**
-*   Mrs Hwang Lay Beng
 *   Mrs Tey Wei Yen
+*   Mrs Hwang Lay Beng
