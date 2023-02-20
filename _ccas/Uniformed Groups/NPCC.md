@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # NPCC
-# upload videos to youtube
 
 ## **Mission & Beliefs**
 
