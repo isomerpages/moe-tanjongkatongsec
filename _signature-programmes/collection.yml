@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EMAS & MLEP (1).md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
