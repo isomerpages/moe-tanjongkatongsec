@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # Seladang Scouts
-# upload videos to youtube
 
 ## **About**
 
@@ -56,6 +55,5 @@ Anson Chan (3F)
 ## **Teachers-in-Charge**
 
 *   **Miss Lye Jee Lee**
-*   Mrs Tan SuJuan
 *   Mr Ngoi Kah Teck
 *   Mrs Toh Lee Lee
