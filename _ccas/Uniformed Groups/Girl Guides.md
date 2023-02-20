@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # Girl Guides
-# upload videos to youtube
 
 ## **About**
 
