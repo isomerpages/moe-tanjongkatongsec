@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 # Chess Club
-# upload videos to youtube
 ## **About**
 
 #### Aims
@@ -26,4 +25,4 @@ Liew Cheng Wei (3A)
 
 ## **Teacher-in-Charge**
 
-*   **Mdm Han Li**
+*   **Ms Tan Mui Mui**
