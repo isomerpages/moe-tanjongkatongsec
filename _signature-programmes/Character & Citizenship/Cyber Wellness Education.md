@@ -4,7 +4,6 @@ permalink: /signature-programmes/Character-and-Citizenship/cyber-wellness-educat
 description: ""
 third_nav_title: Character & Citizenship
 ---
-# Additional resources for parents: > Parent Guide to Social Media platforms: Instagram, snapchat, youtube pdfs > 5MB
 # Cyber Wellness Education
 
 <p style="text-align: center;"><b> Overview of Cyber Wellness Education at TK </b></p>
@@ -64,8 +63,5 @@ Parents may refer to the following resources for a list of guides and tips, res
 
 Parent Guide to Social Media platforms
 
-*   [Instagram](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Instagram-Parents-Guide-V2-081118.pdf)
-*   [Snapchat](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Snapchat-Parents-Guide-V2-081118.pdf)
 *   <a href="/files/Signature%20Programme/TikTok-x-MLC-ebook.pdf" target="_blank">TikTok</a>
-*   [Youtube](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2021/06/Youtube-Parents-Guide.pdf)
 *  <a href="/files/Signature%20Programme/WhatsApp-Parents-Guide.pdf" target="_blank">WhatsApp</a>
