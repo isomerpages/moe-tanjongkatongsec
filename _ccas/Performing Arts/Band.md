@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 ---
 # Band
-# upload video to youtube
 
 ## **About**
 
@@ -32,6 +31,4 @@ Mr Lawrence Siao
 ## **Teachers-in-Charge**
 
 *   **Mr Siao Choon Keong Lawrence**
-*   Mr Gordon Yong Wenjie
 *   Miss Nur Khairiyyah Nordin
-*   Ms Nurul ‘Ain Kamarulzaman
