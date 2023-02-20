@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 ---
 # Basketball
-# upload video to youtube
 ## **About**
 
 Basketball has been an effective CCA for teambuilding, trust and friendship. It has developed discipline, determination, resilience, tactical skills and passion for the sport through regular training, friendly games and competitive matches.
@@ -21,7 +20,5 @@ Derek Jeter
 Muhd Naqib Bin Borhan (3G)
 
 ## **Teachers-in-Charge**
-
-*   **Mr Danny Wong**
-*   Ms Lee Hui Ling
-*   Ms Woo Yan Lin
+*   **Mr Cheng Xinjin**
+*   Ms Nurul’Ain
