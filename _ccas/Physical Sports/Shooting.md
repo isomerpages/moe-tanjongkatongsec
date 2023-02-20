@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 ---
 # Shooting
-# upload video to youtube
+
 ## **About**
 
 Shooting. The best mind game ever.
@@ -22,4 +22,4 @@ David Oates, BBC Sport
 
 *   **Mrs Quek Toh Peng**
 *   Miss Tan Sze Eng
-*   Miss Zhang Hao
+*   Ms Chin Sock Huay
