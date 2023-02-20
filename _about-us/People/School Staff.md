@@ -593,10 +593,6 @@ third_nav_title: People
     <td colspan="2">School Attendant</td>
   </tr>
   <tr>
-    <td>Mr Ismail</td>
-    <td colspan="2">School Attendant</td>
-  </tr>
-  <tr>
     <td>Mdm Rani</td>
     <td colspan="2">School Attendant</td>
   </tr>
