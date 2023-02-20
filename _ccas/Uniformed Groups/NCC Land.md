@@ -15,6 +15,7 @@ third_nav_title: Uniformed Groups
 Nicholas Tan (3C)
 
 ## **Teachers-in-Charge**
-
 *   **Mr Mohammed Yusoff** 
 *   Miss Estee Goh
+*   Mr Khee Jun Jie
+*   Ms Li Fei
