@@ -3,7 +3,7 @@ title: Education and Career Guidance
 permalink: /signature-programmes/education-and-career-guidance/
 description: ""
 ---
-# item 5. ecg counselling form, link broken
+
 # Education and Career Guidance
 ### **Aim**
 
@@ -64,4 +64,4 @@ Students who would like to explore more about subject choices, ask about post-se
 
 Parents are welcome to make an appointment to have a chat with her too!
 
-Please email her at [Kate\_Choo\_Huey\_Xuan@schools.gov.sg](mailto:Kate_Choo_Huey_Xuan@schools.gov.sg) or book an appointment via <a href="https://www.google.com/url?q=https%3A%2F%2Ftinyurl.com%2Fy7nmx67w&sa=D&sntz=1&usg=AFQjCNGkl3JCdm9M_HqG9MgxAxO9NuFrVg" target="_blank">https://tinyurl.com/y7nmx67w</a>
+Please email her at [Kate\_Choo\_Huey\_Xuan@schools.gov.sg](mailto:Kate_Choo_Huey_Xuan@schools.gov.sg)
