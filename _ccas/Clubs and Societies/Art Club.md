@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 # Art Club
-# upload video to youtube
 
 ## **About**
 
