@@ -24,5 +24,5 @@ Darren Chan (3D)
 ## **Teachers-in-Charge**
 
 *   **Mr Ishak**
-*   Miss Noorashikin
 *   Ms Foo Wen Hui
+*   Ms Liz Sriyanty
