@@ -16,9 +16,7 @@ It provides parents with opportunities to communicate personally with the teache
 
 **Parent Support** **Group**
 
-The TK Parent Support Group is an active body of parent volunteers who work hand-in-hand with the School in realising her vision of providing value-adding, all-round and global-oriented education. Formed in December
-
-2000, the TK PSG seeks to support the school in a strategic partnership through a two-pronged approach:
+The TK Parent Support Group is an active body of parent volunteers who work hand-in-hand with the School in realising her vision of providing value-adding, all-round and global-oriented education. Formed in December 2000, the TK PSG seeks to support the school in a strategic partnership through a two-pronged approach:
 
 1\. Working with parents directly, and
 
