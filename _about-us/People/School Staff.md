@@ -161,7 +161,7 @@ third_nav_title: People
   <tr>
     <td>Ms Nurul Ain</td>
     <td>SH Malay Language</td>
-    <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
+  <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Ngoi Kah Teck</td>
@@ -173,7 +173,8 @@ third_nav_title: People
     <td>Teacher</td>
     <td>han_li@moe.edu.sg</td>
   </tr>
-	<td>Ms Suriyani</td>
+	 <tr>
+    <td>Ms Suriyani</td>
     <td>Teacher</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
