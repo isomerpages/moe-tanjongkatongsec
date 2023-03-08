@@ -4,6 +4,7 @@ permalink: /academic/english/
 description: ""
 ---
 # English
+![](/images/Academic/English%20Department%20Photo%201.jpg)
 
 <u>Vision</u>
 
