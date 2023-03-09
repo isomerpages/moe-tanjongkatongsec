@@ -26,7 +26,7 @@ third_nav_title: People
   <tr>
     <td>Ms Nur Izyan</td>
     <td>SH EL Literature</td>
-    <td>nur_izyan_mohamed_hashim@moe.edu.sg</td>
+  <td>nur_izyan_mohamed_hashim@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mrs Mabel Yee</td>
@@ -50,8 +50,7 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Ms Marliyana Lim</td>
-    <td>Teacher</td>
-    <td>marliyana_mustaffamarliyana_lim@moe.edu.sg</td>
+    <td>Teacher</td><td>marliyana_mustaffamarliyana_lim@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Rosalind Yeo</td>
@@ -71,7 +70,7 @@ third_nav_title: People
 	 <tr>
     <td>Ms Carolyn Lee</td>
     <td>Teacher</td>
-    <td></td>
+    <td>lee_suikuan_carolyn@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -98,7 +97,7 @@ third_nav_title: People
     <td>HOD Discipline</td>
     <td>tan_kok_leong_vincent@moe.edu.sg</td>
   </tr>
-	 <tr>
+  <tr>
     <td>Mr Alan Pang</td>
     <td>HOD ICT</td>
     <td>pang_chau_choon@moe.edu.sg</td>
@@ -129,16 +128,16 @@ third_nav_title: People
     <td>norlindah_mohd_taib@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Joanne Lim</td>
+    <td>Ms Joanne Lim</td>
     <td>Teacher</td>
     <td>yi_yan_joanne_lim@moe.edu.sg</td>
   </tr>
-  <tr>
+	 <tr>
     <td>Miss Yvonne Leow</td>
     <td>Teacher</td>
     <td>leow_sze_sze@moe.edu.sg</td>
   </tr>
-  <tr>
+	 <tr>
     <td>Mr Sin Joo Lee, Jason</td>
     <td>Teacher</td>
     <td>sin_joo_lee@moe.edu.sg</td>
@@ -146,22 +145,21 @@ third_nav_title: People
 </tbody>
 </table>
 
+
 <table>
 <thead>
   <tr>
-    <th colspan="3">MOTHER TONGUE DEPARTMENT</th>
+    <th colspan="3"> MOTHER TONGUE DEPARTMENT</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Mdm Chong Mong Leng</td>
-    <td>HOD Mother Tongue</td>
-    <td>chong_mong_leng@moe.edu.sg</td>
+    <td>HOD Mother Tongue</td> <td>chong_mong_leng@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Ms Nurul Ain</td>
+	<td>Ms Nurul Ain</td>
     <td>SH Malay Language</td>
-  <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
+    <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Ngoi Kah Teck</td>
@@ -171,59 +169,71 @@ third_nav_title: People
   <tr>
     <td>Ms Han Li</td>
     <td>Teacher</td>
-    <td>han_li@moe.edu.sg</td>
+    <td>han_li @moe.edu.sg</td>
   </tr>
-	 <tr>
+  <tr>
     <td>Ms Suriyani</td>
     <td>Teacher</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
-	<td>Ms Neo Lay Yian</td>
-    <td>Teacher</td>
-    <td>neo_lay_yian@moe.edu.sg</td>
+  <tr>
+    <td>Ms Neo Lay Yian</td>
+    <td>Teacher</td> <td>neo_lay_yian@moe.edu.sg</td>
   </tr>
-	<td>Ms Chin Sock Huay</td>
+  <tr>
+    <td>Ms Chin Sock Huay</td>
     <td>Teacher</td>
     <td>chin_sock_huay@moe.edu.sg</td>
   </tr>
-	<td>Ms Li Fei</td>
+	<tr>
+    <td>Ms Li Fei</td>
     <td>Teacher</td>
-    <td>li_fei@moe.edu.sg</td>
+    <td>li_fei @moe.edu.sg</td>
   </tr>
-	<td>Ms Yuan Pin</td>
+  <tr>
+    <td>Ms Yuan Pin</td>
     <td>Teacher</td>
     <td>yuan_pin@moe.edu.sg</td>
   </tr>
-	<td>Mr Foo Ying Xiang</td>
+  <tr>
+    <td>Mr Foo Ying Xiang</td>
     <td>Teacher</td>
     <td>foo_ying_xiang@moe.edu.sg</td>
   </tr>
-	<td>Ms Ong Lee Eng</td>
+	<tr>
+    <td>Ms Ong Lee Eng</td>
     <td>Teacher</td>
     <td>ong_lee_eng@moe.edu.sg</td>
   </tr>
-  	 <tr>
+  <tr>
     <td>Mr Ishak</td>
     <td>Teacher</td>
     <td>ishak_abdul_latiff@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Noorashikin</td>
-    <td>Teacher</td> <td>noorashikin_mohamed_ishak@moe.edu.sg</td></tr>
-  <tr>
-    <td>Miss Nur Khairiyyah</td>
+    <td>Ms Noorashikin</td>
+    <td>Teacher</td> <td>noorashikin_moohamed_ishak@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Nur Khairiyyah</td>
     <td>Teacher</td>
     <td>nur_khairiyyah_nordin@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Miss Nadiah</td>
-    <td>Teacher</td>
-    <td>nadiah_abdul_karim@moe.edu.sg</td>
-  </tr>
-	<td>Ms Sri Nabilah</td>
-    <td>Teacher</td>
-    <td>sri_nabilah_basri@moe.edu.sg</td>
-  </tr>
+<tr>
+<td>Ms Nadiah</td>
+<td>Teacher</td>
+<td>nadiah_abdul_karim@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Sri Nabilah</td>
+<td>Teacher</td>
+<td>sri_nabilah_basri@moe.edu.sg</td>
+</tr>
+<tr>
+	<td>Ms Murni</td>
+	<td>Teacher</td>
+	<td>murni_osman@moe.edu.sg</td>
+	</tr>
 </tbody>
 </table>
 
@@ -531,7 +541,7 @@ third_nav_title: People
   <tr>
     <td>Mr Kalaisselvan Poniah</td>
     <td>Full-Time School Counsellor</td>
-    <td>kalaisselvan_poniah_ponrajah@schools.gov.sg</td>
+<td>kalaisselvan_poniah_ponrajah@schools.gov.sg</td>
   </tr>
   <tr>
     <td>Mdm Beth Chew</td>
@@ -569,6 +579,10 @@ third_nav_title: People
     <td>Ms Lim Feng</td>
     <td colspan="2">Corporate Support Officer</td>
   </tr>
+	<tr>
+		<td>Ms Nazhatulshima</td>
+		<td colspan="2">Corporate Support Officer</td>
+		</tr>
   <tr>
     <td>Mdm Anjala</td>
     <td colspan="2">Librarian</td>
