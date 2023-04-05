@@ -157,7 +157,7 @@ third_nav_title: People
     <td>Mdm Chong Mong Leng</td>
     <td>HOD Mother Tongue</td> <td>chong_mong_leng@moe.edu.sg</td>
   </tr>
-	<td>Ms Nurul Ain</td>
+	<tr><td>Ms Nurul Ain</td>
     <td>SH Malay Language</td>
     <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
   </tr>
@@ -216,8 +216,7 @@ third_nav_title: People
   </tr>
 	<tr>
     <td>Ms Nur Khairiyyah</td>
-    <td>Teacher</td>
-    <td>nur_khairiyyah_nordin@moe.edu.sg</td>
+    <td>Teacher</td> <td>nur_khairiyyah_nordin@moe.edu.sg</td>
   </tr>
 <tr>
 <td>Ms Nadiah</td>
@@ -230,7 +229,7 @@ third_nav_title: People
 <td>sri_nabilah_basri@moe.edu.sg</td>
 </tr>
 <tr>
-	<td>Ms Murni</td>
+	<td>Mdm Murni Binte Osman</td>
 	<td>Teacher</td>
 	<td>murni_osman@moe.edu.sg</td>
 	</tr>
@@ -248,7 +247,7 @@ third_nav_title: People
     <td>Mr Desmond Chong</td>
     <td>HOD Science</td> <td>desmond_chong_eng_soon@moe.edu.sg</td>
   </tr>
-	<td>Miss Cherlyn Tan</td>
+	<tr><td>Miss Cherlyn Tan</td>
     <td>SH Biology/LS</td>
     <td>tan_suat_ying_cherlyn@moe.edu.sg</td>
   </tr>
