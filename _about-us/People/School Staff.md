@@ -105,7 +105,7 @@ third_nav_title: People
   <tr>
     <td>Mdm Halilah</td>
     <td>Year Head (Upper Sec)</td>
-    <td>halilah_salim_alkhatib@moe.edu.sg</td>
+   <td>halilah_salim_alkhatib@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mrs Tan Pei Shan</td>
@@ -125,7 +125,7 @@ third_nav_title: People
   <tr>
     <td>Mdm Norlindah</td>
     <td>Teacher</td>
-    <td>norlindah_mohd_taib@moe.edu.sg</td>
+   <td>norlindah_mohd_taib@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Joanne Lim</td>
@@ -158,8 +158,7 @@ third_nav_title: People
     <td>HOD Mother Tongue</td> <td>chong_mong_leng@moe.edu.sg</td>
   </tr>
 	<tr><td>Ms Nurul Ain</td>
-    <td>SH Malay Language</td>
-    <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
+    <td>SH Malay Language</td> <td>nurul_ain_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Ngoi Kah Teck</td>
@@ -176,12 +175,12 @@ third_nav_title: People
     <td>Teacher</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
-  <tr>
+	<tr></tr><tr>
     <td>Ms Neo Lay Yian</td>
     <td>Teacher</td> <td>neo_lay_yian@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Ms Chin Sock Huay</td>
+  <tr></tr><tr></tr>
+    <tr><td>Ms Chin Sock Huay</td>
     <td>Teacher</td>
     <td>chin_sock_huay@moe.edu.sg</td>
   </tr>
@@ -309,7 +308,7 @@ third_nav_title: People
     <td>Miss Nurfilya</td>
     <td>Laboratory Technician</td>
     <td>nurfilya_hamdil@moe.edu.sg</td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
@@ -383,7 +382,7 @@ third_nav_title: People
     <td>Miss Nurul Aqilah</td>
     <td>Teacher</td>
     <td>nurul_aqilah_minhaj@moe.edu.sg</td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
@@ -422,7 +421,7 @@ third_nav_title: People
     <td>Mr Chye De San</td>
     <td>Teacher</td>
     <td>chye_de_san@moe.edu.sg</td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
