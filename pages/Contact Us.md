@@ -3,12 +3,17 @@ title: Contact Us
 permalink: /contact-us-page/
 description: ""
 ---
-
 # Contact Us
 **School Address:** 130, Haig Road, Singapore 438796  
 **Tel:** 6344 3471  
 **Fax:** 6440 9624  
 **Email:** [tkss@moe.edu.sg](http://tkss.24k-designs.com/mailto:tkss@moe.edu.sg)
+
+<b><u>Operating Hours</u></b>
+
+**Mon - Fri:** 7.30am - 5.30pm
+
+**Closed on Public Holidays**
 
 <b><u>Getting to TK</u></b>
 
