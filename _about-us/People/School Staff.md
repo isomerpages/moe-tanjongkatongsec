@@ -479,7 +479,7 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Miss Shirah</td>
-    <td>ICT Associate</td>
+    <td>ICT Manager</td>
     <td>nur_shirah_rafidi@moe.edu.sg</td>
   </tr>
   <tr>
@@ -578,7 +578,11 @@ third_nav_title: People
     <td colspan="2">Corporate Support Officer</td>
   </tr>
 	<tr>
-		<td>Ms Nazhatulshima</td>
+		<td>Mdm Nazhatulshima</td>
+		<td colspan="2">Corporate Support Officer</td>
+		</tr>
+	<tr>
+		<td>Mdm Junainah</td>
 		<td colspan="2">Corporate Support Officer</td>
 		</tr>
   <tr>
