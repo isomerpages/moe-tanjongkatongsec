@@ -6,8 +6,10 @@ third_nav_title: Physical Sports
 ---
 # Floorball
 
-## **About**
 
+
+## **About**
+![](/images/tkss_floorball%20logo.png)
 
 Tanjong Katong Secondary was one of the pioneering schools to start the floorball CCA in 2011. Ever since then, we have gone from strength to strength, even clinching double champions in 2019!
 
