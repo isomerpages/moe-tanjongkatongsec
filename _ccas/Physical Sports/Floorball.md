@@ -8,7 +8,6 @@ third_nav_title: Physical Sports
 
 ## **About**
 
-![](/images/tkss_floorball%20logo.png)
 
 Tanjong Katong Secondary was one of the pioneering schools to start the floorball CCA in 2011. Ever since then, we have gone from strength to strength, even clinching double champions in 2019!
 
@@ -101,5 +100,3 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
   color:#484848;mso-bidi-language:TA">B Division Runner Up</span></p></td></tr></tbody></table>
 
 Check us out in action at [https://instagram.com/tk\_floorball?igshid=YmMyMTA2M2Y=](https://instagram.com/tk_floorball?igshid=YmMyMTA2M2Y=)
-       
-
