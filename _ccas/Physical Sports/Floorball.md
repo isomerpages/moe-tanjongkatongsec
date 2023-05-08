@@ -98,4 +98,4 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
   color:#484848">2<sup>nd</sup> in National B_Div NSG Competition</span></p></td></tr></tbody></table>
 	
 Check us out in action on our
-[instagram](https://www.instagram.com/tk_floorball/)
+[instagram page. ](https://www.instagram.com/tk_floorball/)
