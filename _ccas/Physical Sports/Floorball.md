@@ -6,8 +6,7 @@ third_nav_title: Physical Sports
 ---
 # Floorball
 
-
-![](/images/tkss_floorball%20logo_mini.png)
+![](/images/tkss_floorball%20ultra%20small%20logo.jpg)
 
 
 ## **About**
