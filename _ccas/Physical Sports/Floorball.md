@@ -7,7 +7,6 @@ third_nav_title: Physical Sports
 # Floorball
 ![](/images/group%20photo.jpg)
 
-
 ## **About**
 
 
