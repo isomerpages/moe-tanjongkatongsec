@@ -1,11 +1,11 @@
 ---
-title: 2023 TKSS Open House
-permalink: /announcements/announcements/permalink/
-date: 2023-05-10
-layout: post
+title: Open House 2023
+permalink: /sec-1-2023/openhouse2023/
 description: ""
-image: ""
 ---
+# Open House 2023
+
+<b><u>The TKSS Experience</u></b>
 ![](/images/17523floorball.jfif)
 
 ![](/images/22%20may%20netball.jfif)

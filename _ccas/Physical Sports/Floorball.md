@@ -96,3 +96,5 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
 	
 Check us out in action on our
 [instagram page. ](https://www.instagram.com/tk_floorball/)
+
+[TK Floorball FAQ](https://tinyurl.com/tkfloorballfaq)
