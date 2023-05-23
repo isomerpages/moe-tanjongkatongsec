@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # Girl Guides
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-75TxokZnVM" height="315" width="560"></iframe>
 
 ## **About**
 
@@ -20,7 +21,7 @@ third_nav_title: Uniformed Groups
 *   Basic First Aid Training
 *   Foot drills
 *   Outdoor cooking
-*   Service Learning (TK Project Serve, Run & Raisin Fun Fair, Visit to elderly homes, etc.)
+*   Service Learning (TK Project Serve, Run &amp; Raisin Fun Fair, Visit to elderly homes, etc.)
 *   Annual cookie sale
 *   Camp craft
 *   Tent-pitching

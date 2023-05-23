@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # NPCC
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nOq3F8ESY7I" height="315" width="560"></iframe>
 
-## **Mission & Beliefs**
+## **Mission &amp; Beliefs**
 
 #### Mission
 
@@ -31,11 +32,11 @@ We believe in:
 
 Our training programme includes:
 
-*   **Law enforcement courses** that include Police Knowledge Proficiency course, Police Youth Ambassador programme, Road Safety training, Crime Scene Investigation, weapons training (.22 Revolver), etc.
-*   **National education courses** such as Total Defence course, Civil Defence course, etc.
-*   **Leadership training** such as Communication skills, Facilitation skills, Leadership and Mentoring Skills Course, Cadet Leader Drill Course, etc.
-*   **Resilience training** that includes footdrills, campcraft, Adventure and Survival Training Camps, High Ropes Challenge.
-*   **Personal development programmes** that include Standard First Aid Training, 1 Star Kayaking Course
+*   **Law enforcement courses**&nbsp;that include Police Knowledge Proficiency course, Police Youth Ambassador programme, Road Safety training, Crime Scene Investigation, weapons training (.22 Revolver), etc.
+*   **National education courses**&nbsp;such as Total Defence course, Civil Defence course, etc.
+*   **Leadership training**&nbsp;such as Communication skills, Facilitation skills, Leadership and Mentoring Skills Course, Cadet Leader Drill Course, etc.
+*   **Resilience training**&nbsp;that includes footdrills, campcraft, Adventure and Survival Training Camps, High Ropes Challenge.
+*   **Personal development programmes**&nbsp;that include Standard First Aid Training, 1 Star Kayaking Course
 
 #### Activities
 
