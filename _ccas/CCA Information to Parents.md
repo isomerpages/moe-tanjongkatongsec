@@ -7,7 +7,7 @@ description: ""
 
 **CCA Training Schedule**
 
-Please click [here](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2023/01/CCA-Calendar_2023-as-of-2-Jan.pdf) to download the PDF for 2023’s CCA details.
+Please click [here](/files/cca-calendar_2023-as-of-2-jan.pdf) to download the PDF for 2023’s CCA details.
 
  **CCA Guidelines & Grading**
 
