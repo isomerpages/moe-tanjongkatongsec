@@ -7,7 +7,7 @@ description: ""
 
 **CCA Training Schedule**
 
-Please click [here](/files/cca-calendar_2023-as-of-2-jan.pdf) to download the PDF for 2023’s CCA details.
+Please click [here](/files/CCAs/cca-calendar_2023-as-of-2-jan.pdf) to download the PDF for 2023’s CCA details.
 
  **CCA Guidelines & Grading**
 
