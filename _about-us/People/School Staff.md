@@ -227,11 +227,6 @@ third_nav_title: People
 <td>Teacher</td>
 <td>sri_nabilah_basri@moe.edu.sg</td>
 </tr>
-<tr>
-	<td>Mdm Murni Binte Osman</td>
-	<td>Teacher</td>
-	<td>murni_osman@moe.edu.sg</td>
-	</tr>
 </tbody>
 </table>
 
@@ -278,11 +273,6 @@ third_nav_title: People
     <td>Mr Peh Chu Ming</td>
     <td>Teacher</td>
     <td>peh_chu_ming@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Miss Sophia Lim</td>
-    <td>Teacher</td>
-    <td>Sophia_lim_fang_hui@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Tan Si Hao Brian</td>
@@ -496,10 +486,6 @@ third_nav_title: People
     <td>Ms Thamarai Selvi Soundarajan</td>
     <td>Desktop Engineer</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>Muhammad Hazwan</td>
-    <td>AV Technician</td> <td>muhammad_hazwan_zainal@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
