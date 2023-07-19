@@ -57,10 +57,10 @@ third_nav_title: People
     <td>Teacher</td>
     <td>rosalind_yeo_wei_wei@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Mr Yusfiandi</td>
+	 <tr>
+    <td>Ms Diana Mendiola</td>
     <td>Teacher</td>
-    <td>yusfiandi_yatiman@moe.edu.sg</td>
+<td>mendiola_diana_jeane_bautista@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Miss Maureen Lian</td>
@@ -204,6 +204,11 @@ third_nav_title: People
     <td>Teacher</td>
     <td>ong_lee_eng@moe.edu.sg</td>
   </tr>
+		<tr>
+    <td>Ms Chen Chao</td>
+    <td>Teacher</td>
+    <td>chen_chao@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Mr Ishak</td>
     <td>Teacher</td>
@@ -230,7 +235,11 @@ third_nav_title: People
 </tbody>
 </table>
 
-<table>
+
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp; <table>
 <thead>
   <tr>
     <th colspan="3">SCIENCE DEPARTMENT</th>
@@ -279,11 +288,17 @@ third_nav_title: People
     <td>Teacher</td>
     <td>tan_si_hao_brian@moe.edu.sg</td>
   </tr>
+		<tr>
+    <td>Mr Yusfiandi</td>
+    <td>Teacher</td>
+    <td>yusfiandi_yatiman@moe.edu.sg</td>
+  </tr>
 	<tr>
     <td>Mr Ong Hoong Siong</td>
     <td>Teacher</td>
     <td>ong_hoong_siong@moe.edu.sg</td>
   </tr>
+	<tr><td>Ms Sriharini</td><td>Teacher</td><td>sriharini@moe.edu.sg</td></tr>
   <tr>
     <td>Ms Ng Li Juan</td>
     <td>Teacher</td>
