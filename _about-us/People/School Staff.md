@@ -235,11 +235,7 @@ third_nav_title: People
 </tbody>
 </table>
 
-
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; <table>
+<table>
 <thead>
   <tr>
     <th colspan="3">SCIENCE DEPARTMENT</th>
