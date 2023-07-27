@@ -12,7 +12,6 @@ third_nav_title: People
 | Mrs Dolly Ong            | Principal                 | dolly_ong@schools.gov.sg             |
 | Mrs Teo-Ng Siew Chin     | Vice-Principal (Acad)     | ng_siew_chin@schools.gov.sg          |
 | Mrs Karen Tay     | Vice-Principal (Acad)     | karen_tay@schools.gov.sg          |
-| Mr Sam Lee Kiat Chye     | Vice-Principal (Admin)    | lee_kiat_chye@schools.gov.sg         |
 | Mrs Yeo Woei Ling        | HOD English               | chng_woei_ling@moe.edu.sg            |
 | Mdm Hajara               | HOD Mathematics           | hajara_beevi@moe.edu.sg              |
 | Mr Desmond Chong               | HOD Science           | desmond_chong_eng_soon@moe.edu.sg              |
@@ -34,5 +33,3 @@ third_nav_title: People
 | Ms Nurul Ain             | SH Malay Language         | nurul_ain_kamarulzaman@moe.edu.sg    |
 | Mdm Nor Hazelin Idayu    | SH History                | nor_hazelin_idayu@moe.edu.sg         |
 | Mr Lawrence Siao         | SH Aesthetics             | siao_choon_keong_lawrence@moe.edu.sg |
-
-
