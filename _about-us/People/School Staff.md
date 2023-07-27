@@ -168,7 +168,7 @@ third_nav_title: People
   <tr>
     <td>Ms Han Li</td>
     <td>Teacher</td>
-    <td>han_li @moe.edu.sg</td>
+    <td>han_li@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Suriyani</td>
@@ -187,17 +187,7 @@ third_nav_title: People
 	<tr>
     <td>Ms Li Fei</td>
     <td>Teacher</td>
-    <td>li_fei @moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Yuan Pin</td>
-    <td>Teacher</td>
-    <td>yuan_pin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Foo Ying Xiang</td>
-    <td>Teacher</td>
-    <td>foo_ying_xiang@moe.edu.sg</td>
+    <td>li_fei@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Ong Lee Eng</td>
