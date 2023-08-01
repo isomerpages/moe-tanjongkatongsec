@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Overseas School Immersion Programme.md
       - Aesthetics Programme.md
       - Character & Citizenship/.keep
       - Character & Citizenship/School Counselling.md
@@ -20,5 +19,6 @@ collections:
       - EMAS & MLEP/EMAS Programme.md
       - EMAS & MLEP/MLEP Programme.md
       - EMAS & MLEP/Student Achievements.md
+      - Overseas School Immersion Programme.md
       - Student Leadership.md
       - Talent Development.md
