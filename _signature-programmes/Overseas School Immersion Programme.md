@@ -5,6 +5,10 @@ description: ""
 ---
 Overseas School Immersion Programme (OSIP)
 ====================
+![](/images/osip(2).JPG)
+![](/images/osip(1).jpeg)
+![](/images/osip(3).jpeg)
+
 Tanjong Katong Secondary School (TKSS) is an autonomous Government School in Singapore, established in 1956. We seek to develop a holistic curriculum that is aligned to national and global imperatives, promote multi-culturalism and global awareness by , has ample overseas immersion opportunities, and emphasises awareness of current and global issues. We currently have strong existing partnerships with schools from countries such as Southeast Asia, and East Asia.
 
 Developing a Global Citizen at TK is designed to provide TKsians with hands-on, real-world experiences beyond the confines of the classroom.
