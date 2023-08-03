@@ -168,7 +168,7 @@ third_nav_title: People
   <tr>
     <td>Ms Han Li</td>
     <td>Teacher</td>
-    <td>han_li @moe.edu.sg</td>
+    <td>han_li@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Suriyani</td>
@@ -187,17 +187,7 @@ third_nav_title: People
 	<tr>
     <td>Ms Li Fei</td>
     <td>Teacher</td>
-    <td>li_fei @moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Yuan Pin</td>
-    <td>Teacher</td>
-    <td>yuan_pin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Foo Ying Xiang</td>
-    <td>Teacher</td>
-    <td>foo_ying_xiang@moe.edu.sg</td>
+    <td>li_fei@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Ong Lee Eng</td>
@@ -295,10 +285,20 @@ third_nav_title: People
     <td>ong_hoong_siong@moe.edu.sg</td>
   </tr>
 	<tr><td>Ms Sriharini</td><td>Teacher</td><td>sriharini@moe.edu.sg</td></tr>
+	<tr>
+    <td>Ms Woo Yan Lin</td>
+    <td>Teacher</td>
+    <td>woo_yan_lin@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Ms Ng Li Juan</td>
     <td>Teacher</td>
     <td>ng_li_juan@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Lam Tse Sun</td>
+    <td>Teacher</td>
+    <td>lam_tse_sun_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Nuraisyah</td>
@@ -597,10 +597,6 @@ third_nav_title: People
 		<tr>
     <td>Mr Jack Kong</td>
     <td colspan="2">Admin Assistant Officer</td>
-  </tr>
-  <tr>
-    <td>Mdm Lim See Lee</td>
-    <td colspan="2">Office Attendant</td>
   </tr>
   <tr>
     <td>Mdm Asmah</td>
