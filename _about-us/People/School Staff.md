@@ -488,6 +488,11 @@ third_nav_title: People
     <td>ICT Associate</td>
     <td>nur_atiqah_zaini_a@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Mr Raden</td>
+    <td>AV Technician</td>
+   <td>mohammad_raden_ali@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Mr Adric Chan</td>
     <td>Desktop Engineer</td>
