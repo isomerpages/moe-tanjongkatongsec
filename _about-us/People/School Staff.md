@@ -175,10 +175,6 @@ third_nav_title: People
     <td>Teacher</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
-	<tr></tr><tr>
-    <td>Ms Neo Lay Yian</td>
-    <td>Teacher</td> <td>neo_lay_yian@moe.edu.sg</td>
-  </tr>
   <tr></tr><tr></tr>
     <tr><td>Ms Chin Sock Huay</td>
     <td>Teacher</td>
