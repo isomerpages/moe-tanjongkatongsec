@@ -42,20 +42,19 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-1-1.jpg"> <img src="/images/Signature%20Programmes/Sec-1-1.jpg"></a>
-
+![](/images/Signature%20Programmes/Sexuality%20Education/sec1sed.jpeg)
 
 <p style="text-align: center;"><b>Secondary 2</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-2.jpg"> <img src="/images/Signature%20Programmes/Sec-2.jpg"></a>
+![](/images/Signature%20Programmes/Sexuality%20Education/sec2sed.jpeg)
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-3-1.jpg"> <img src="/images/Signature%20Programmes/Sec-3-1.jpg"></a>
+![](/images/Signature%20Programmes/Sexuality%20Education/sec3sed.jpeg)
 
 <p style="text-align: center;"><b>Secondary 4</b></p>
 
-<a href="/images/Signature%20Programmes/Sec-4-1.jpg"> <img src="/images/Signature%20Programmes/Sec-4-1.jpg"></a>
+![](/images/Signature%20Programmes/Sexuality%20Education/sec4sed.jpeg)
 
 <u><b>*eTeens* Programme</b></u>:
 
@@ -65,7 +64,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 **At Tanjong Katong Secondary School, the&nbsp;*eTeens*&nbsp;programme will be implemented as follows in 2023:**
 
-<a href="/images/Signature%20Programmes/eteens.jpg"> <img src="/images/Signature%20Programmes/eteens.jpg"></a>
+![](/images/Signature%20Programmes/Sexuality%20Education/eteenssed.jpeg)
 
 &nbsp;**Information for Parents**
 
