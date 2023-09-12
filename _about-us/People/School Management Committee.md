@@ -12,6 +12,7 @@ third_nav_title: People
 | Mrs Dolly Ong            | Principal                 | dolly_ong@schools.gov.sg             |
 | Mrs Teo-Ng Siew Chin     | Vice-Principal (Acad)     | ng_siew_chin@schools.gov.sg          |
 | Mrs Karen Tay     | Vice-Principal (Acad)     | karen_tay@schools.gov.sg          |
+| Mr Aruumugam Samikkannu         | Vice-Principal (Admin)                 | aruumugam_samikkannu@schools.gov.sg             |
 | Mrs Yeo Woei Ling        | HOD English               | chng_woei_ling@moe.edu.sg            |
 | Mdm Hajara               | HOD Mathematics           | hajara_beevi@moe.edu.sg              |
 | Mr Desmond Chong               | HOD Science           | desmond_chong_eng_soon@moe.edu.sg              |
