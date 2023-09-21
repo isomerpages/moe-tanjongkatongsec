@@ -66,4 +66,4 @@ Develop students' self-directedness and confidence to explore and leverage educa
 * Staying relevant - How do I get there?
 Build students' adaptability and resilience to embrace the need for lifelong learning.
 
-Students can make an appointment to have a chat with her every Monday or Wednesday via this booking link: https://go.gov.sg/tkssecg
+Students can make an appointment to have a chat with her every Monday or Wednesday via this [booking link](https://go.gov.sg/tkssecg).
