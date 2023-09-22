@@ -3,7 +3,6 @@ title: Education and Career Guidance
 permalink: /signature-programmes/education-and-career-guidance/
 description: ""
 ---
-
 # Education and Career Guidance
 ### **Aim**
 
@@ -58,10 +57,13 @@ The Work Experience Programme @ TK is one of key learning experiences that leave
 
 #### 5\. ECG Counselling
 
-Our ECG Counsellor, Miss Kate Choo, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a smoother transition to further education or work.
+Our ECG Counsellor supports students (individually or in small groups) in:
 
-Students who would like to explore more about subject choices, ask about post-secondary education options, or find out more about their career interests, strengths and passions can make an appointment to have a chat with her every Thursday.
+* Discovering purpose - Who am I?
+Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.
+*	Exploring opportunities - Where do I want to go?
+Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.
+* Staying relevant - How do I get there?
+Build students' adaptability and resilience to embrace the need for lifelong learning.
 
-Parents are welcome to make an appointment to have a chat with her too!
-
-Please email her at [Kate\_Choo\_Huey\_Xuan@schools.gov.sg](mailto:Kate_Choo_Huey_Xuan@schools.gov.sg)
+Students can make an appointment to have a chat with her every Monday or Wednesday via this [booking link](https://go.gov.sg/tkssecg).
