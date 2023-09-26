@@ -560,7 +560,7 @@ third_nav_title: People
 </thead>
 <tbody>
   <tr>
-    <td>Mr Aruumugam Samikkannu</td>
+    <td></td>
     <td colspan="2">Administration Manager</td>
   </tr>
   <tr>
