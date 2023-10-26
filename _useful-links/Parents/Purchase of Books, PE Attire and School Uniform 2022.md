@@ -29,3 +29,5 @@ Please note the following:<br>**TKSS Sales of School Textbooks, School Uniform &
 | Payment Mode     | VISA, MASTERCARD, Debit Card &amp; PayNow (Scan &amp; Pay QR Code)<br>(When placing order online)                                                                                                                                    |
 | FAS Students Purchase| FAS Self-Collections will be available on **7 December 2023 and 8 December 2023** at school bookstores.<br>**- Only 1 parent is allowed to accompany the student. <u>All collections are strictly by scheduled appointed time slots.</u>**<br>- Vendor will contact directly once FAS applications are confirmed and approved by School for ordering arrangements or walk in collection on **07/12/2023 &amp; 08/12/2023**. | 
 | Note - Safety Measures| **In the event if Safe Management Measures (SMM) are implemented it will be aligned with the current national posture and may be adjusted further should the national posture change.<br><br> At all times follow and adhere to school safety instructions, signages and notices.** |
+
+[Download S2 Booklist 2024](/files/Booklist/s2%20booklist%202024.pdf)
