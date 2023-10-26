@@ -19,10 +19,10 @@ Dear Parents/Guardians,
 6. For students who have not received their uniform by 1 Jan 2024, they may report to school in primary school PE attire on 2 Jan 2024.
 
 Please note the following:<br>**TKSS Sales of School Textbooks, School Uniform &amp; PE Attires**
-|  |  |  |
-| -------- | -------- | -------- |
-| Vendor                          | Pacific Bookstores Pte Ltd            |
-| Contact number                  | <u>Pacific Bookstores Customer Service Details</u><br>Customer Service Tel : 69298012<br>Customer Service Email : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)                                                                                                                                                                            |
+| | |
+| -------- | -------- |
+| Vendor     | Pacific Bookstores Pte Ltd      |
+Contact number | <u>Pacific Bookstores Customer Service Details</u><br>Customer Service Tel : 69298012<br>Customer Service Email : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
 | Online Address                  | Pacific Bookstores online sales platform for Text Books and School Uniform &amp; PE Attires<br>Order online: [https://www.pacificbookstores.com](https://www.pacificbookstores.com)                                                                                                                          |
 | Online Purchase Details &amp; Dates of online purchases                  | <u>**Textbooks, School Uniform &amp; PE Attire - 2024 Cohort - Sec 2, 3, and 4**</u><br>The online portal for ordering of School Textbooks, School Uniform &amp; PE Attire will be launched on <u>**3 November 2023**</u>.<br>The online portal for ordering books will be closed on <u>**15 December 2023**</u>.<br><br><u>**2024 Cohort - Sec 1**</u><br>The online portal for ordering books will be launched on <u>**16 December 2023**</u>.                                                                                                                        |
 | Mode of Collections - Home Delivery<br>School Text Books and School Uniforms              | <u>**Option 1 (\*most preferred mode) - Shop online &amp; Choose ' Home Delivery'**</u><br>Home Delivery fee of <u>**$14.60**</u> applies<br>Delivery time refer to vendor’s website for available delivery dates for booking.            |
