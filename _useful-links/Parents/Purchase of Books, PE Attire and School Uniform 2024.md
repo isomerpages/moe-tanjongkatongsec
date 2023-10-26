@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 # Purchase of Books, PE Attire and School Uniform 2024
-<u>**Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2024**</u>
+**<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2024</u>**
 
 Dear Parents/Guardians, 
 1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2023, School is continuing to offer online sales and delivery services, with the option for self-collection in school with appointments. 
