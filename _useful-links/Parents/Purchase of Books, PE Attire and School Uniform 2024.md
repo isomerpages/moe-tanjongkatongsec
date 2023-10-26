@@ -19,8 +19,8 @@ Dear Parents/Guardians,
 6. For students who have not received their uniform by 1 Jan 2024, they may report to school in primary school PE attire on 2 Jan 2024.
 
 Please note the following:<br>**TKSS Sales of School Textbooks, School Uniform &amp; PE Attires**
-|                                 |                               |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |  |  |
+| -------- | -------- | -------- |
 | Vendor                          | Pacific Bookstores Pte Ltd            |
 | Contact number                  | <u>Pacific Bookstores Customer Service Details</u><br>Customer Service Tel : 69298012<br>Customer Service Email : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)                                                                                                                                                                            |
 | Online Address                  | Pacific Bookstores online sales platform for Text Books and School Uniform &amp; PE Attires<br>Order online: [https://www.pacificbookstores.com](https://www.pacificbookstores.com)                                                                                                                          |
