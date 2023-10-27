@@ -20,7 +20,6 @@ Dear Parents/Guardians,
 
 Please note the following:<br>**TKSS Sales of School Textbooks, School Uniform &amp; PE Attires**
 
-
 |  |  |
 | -------- | -------- |
 | Vendor    | Pacific Bookstores Pte Ltd    |
