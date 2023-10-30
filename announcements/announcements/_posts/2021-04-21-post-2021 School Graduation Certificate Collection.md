@@ -6,16 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-# 2021 School Graduation Certificate Collection
-Dear Class of 2020, please note that you can collect your SGC from TK General Office.
+# Application for 2024 Admission to TKSS – Sec 2
 
-The time is as follow:  
-During the June school holidays, you can collect your SGC from June 14 onwards 9am-4pm.
 
-**Additional restrictions under Phase 2 (Heightened Alert) to minimise transmission**
+Application for admission to Sec 2 (2024) is now open. Please submit the completed admission form to the General Office by **3 November 2023, 5 pm**.
 
-No walk-in collections will be allowed during this Phase 2 (heightened alert)
-
-This is to ensure our Safe Management Measures are adhered to while you are visiting TK.
-
-Thank you!
