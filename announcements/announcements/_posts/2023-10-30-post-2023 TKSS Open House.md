@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/openhouseannouncement18nov23.jpeg)
+![](/images/tkss%20open%20house%202023.jpeg)
