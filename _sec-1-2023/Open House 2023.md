@@ -5,5 +5,4 @@ description: ""
 ---
 # Open House 2023
 
-<b><u>The TKSS Experience</u></b>
-![](/images/openhouseannouncement18nov23.jpeg)
+![](/images/tkss%20open%20house%202023.jpeg)
