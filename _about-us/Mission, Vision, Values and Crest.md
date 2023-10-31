@@ -41,4 +41,4 @@ is the willingness to persevere with tenacity.
 is embracing the spirit of being innovative, taking initiative and showing resourcefulness.
 
 **Dexterity**  
-is about haveing the agility of mind to respond to changing conditions and circumstances.
+is about having the agility of mind to respond to changing conditions and circumstances.
