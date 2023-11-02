@@ -3,11 +3,11 @@ title: TK Graduate & Code Of Conduct
 permalink: /about-us/tk-graduate/
 description: ""
 ---
-# TK Graduate & Code Of Conduct
+# TK Graduate &amp; Code Of Conduct
 
 <b><u>TK Graduate</u></b>
 
-The TK Graduate is self-directed in learning and passionate in all he undertakes. Confident, resilient and flexible, he is guided by sound values to lead and contribute to school, nation and the global community.
+The TK Graduate is self-directed in learning and passionate in all he undertakes. Confident, resilient, adaptable and compassionate, he is guided by sound values to lead and contribute to school, nation and the global community.
 
 ![](/images/About%20us/1-2.jpg)
 
@@ -62,7 +62,7 @@ In the Classroom
 
 APPEARANCE AND UNIFORM
 
-The school uniform is to be worn whenever a student comes to school and at all school-related activities, including those held during the school vacation or outside the school premises. **Students are to wear the prescribed school uniform and modification to the uniform is not allowed.**
+The school uniform is to be worn whenever a student comes to school and at all school-related activities, including those held during the school vacation or outside the school premises.&nbsp;**Students are to wear the prescribed school uniform and modification to the uniform is not allowed.**
 
 Students are to dress neatly at all times, both in and out of school.
 
@@ -125,14 +125,14 @@ For Girls:
 
 School T-shirts
 
-*   Only School PE T-shirts or approved Class T-shirts are allowed during PE lessons.
+*   Only School PE T-shirts&nbsp;or approved Class T-shirts are allowed during PE lessons.
 *   No T-shirt is allowed at all times unless the school’s shirt/blouse is worn over it. ONLY school approved T-shirts are allowed in this case.
 *   **Dress down attire can only be worn on Wednesdays and Fridays.**
 
 Class T-shirts
 
 *   HOD Discipline must approve the design of the class T-shirt before it is sent for printing. The design must include the school’s name at the back of the T-shirt.
-*   The deadline for submitting the design to the HOD Discpline for approval is the **end of Week 8** in **Term 1.** Late submissions will not be entertained.
+*   The deadline for submitting the design to the HOD Discpline for approval is the&nbsp;**end of Week 8**&nbsp;in&nbsp;**Term 1.**&nbsp;Late submissions will not be entertained.
 *   T-shirt sizes must be of standard types. No mini-cuts will be allowed.
 
 ![](/images/About%20us/1-4.jpg)
@@ -177,7 +177,7 @@ During the Examination
 2.  All bags/books are to be left outside the classroom (or at the side/back of the hall). Only permitted writing material and mathematical instruments can be taken into the examination room.
 3.  Students must be seated in the classroom/hall 10 minutes before the commencement of each paper.
 4.  There should be no form of communication between students once they are in the classroom/hall.
-5.  Students should follow invigilators’ instructions to ensure that
+5.  Students should follow invigilators’&nbsp;instructions to ensure that
 
 i) they have received the correct question paper
 
@@ -201,9 +201,9 @@ iii) additional materials required (e.g. writing paper, graph paper, maps) are g
 
 13\. Students must not remove any used or unused writing paper from the examination venue.
 
-14\. Only silent, battery-operated and non-programmable calculators are allowed to be used for papers where the use of a calculator is permitted. Refer to your respective subject notes for approved list of calculators.
+14\. Only silent, battery-operated and non-programmable calculators are allowed to be used for papers where the use of a calculator is permitted.&nbsp;Refer to your respective subject notes for approved list of calculators.
 
-15\. Students are not allowed to borrow any stationery, calculator or electronic dictionary from other students during the examination.
+15\. Students are not allowed to borrow any stationery,&nbsp;calculator or electronic dictionary from other students during the examination.
 
 DISHONESTY DURING EXAMINATION
 
