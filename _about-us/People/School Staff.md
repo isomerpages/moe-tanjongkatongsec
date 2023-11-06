@@ -3,6 +3,7 @@ title: School Staff
 permalink: /about-us/People/school-staff/
 description: ""
 third_nav_title: People
+variant: markdown
 ---
 # School Staff
 
@@ -202,7 +203,7 @@ third_nav_title: People
   </tr>
   <tr>
     <td>Ms Noorashikin</td>
-    <td>Teacher</td> <td>noorashikin_moohamed_ishak@moe.edu.sg</td>
+    <td>Teacher</td> <td>noorashikin_mohamed_ishak@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Nur Khairiyyah</td>
