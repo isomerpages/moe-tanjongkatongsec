@@ -11,7 +11,7 @@ variant: markdown
 
 ![](/images/tkss%20open%20house%202023.jpeg)
 
-![tkohprog2023](/images/Sec%201%202023/2023%20tk%20open%20house%20programme.jpg)
+![tkohpotd2023](/images/Sec%201%202023/2023%20tk%20open%20house%20programme.jpg)
 
 **Open House Programme is out!**
 
