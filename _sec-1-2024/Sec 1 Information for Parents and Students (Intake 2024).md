@@ -33,7 +33,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 ### **Important Information for Sec 1 students and parents**
 
-*   <a href="/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2024/" target="_blank">Purchase of Books, PE Attire and School Uniform</a>
+* [Purchase of Books, PE Attire and School Uniform](/useful-links/parents/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2024/)
 
 *   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
