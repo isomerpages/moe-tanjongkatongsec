@@ -45,7 +45,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 | Monday    | 0720           | 0730             | 1310                                  |
 | Tuesday   | 0720           | 0730             | 1310                                 |
 | Wednesday | 0720           | 0730             | 1310 (Odd Week)*<br>1410(Even Week)*                                  |
-| Thursday  | 0820           | 0830             | 1410 |
+| Thursday  | 0720           | 0730             | 1410 |
 | Friday    | 0720           | 0730             | 1240                     |
 
 \*Please refer to the school termly letters for the days that enrichment activities are organised for the Sec 1s in the afternoon.
