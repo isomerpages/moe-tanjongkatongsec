@@ -33,7 +33,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 ### **Important Information for Sec 1 students and parents**
 
-*   <a href="/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2022/" target="_blank">Purchase of Books, PE Attire and School Uniform</a>
+*   <a href="/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2024/" target="_blank">Purchase of Books, PE Attire and School Uniform</a>
 
 *   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
@@ -42,34 +42,34 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 | Day       | Reporting Time | Morning Assembly | Dismissal Time                        |
 |-----------|----------------|------------------|---------------------------------------|
-| Monday    | 0720           | 0730             | 1415                                  |
-| Tuesday   | 0720           | 0730             | 1415*                                 |
-| Wednesday | 0720           | 0730             | 1415                                  |
-| Thursday  | 0820           | 0830             | 1415 (Odd Week)*<br>1255 (Even Week)* |
-| Friday    | 0720           | 0730             | 1245                     |
+| Monday    | 0720           | 0730             | 1310                                  |
+| Tuesday   | 0720           | 0730             | 1310                                 |
+| Wednesday | 0720           | 0730             | 1310 (Odd Week)*<br>1410(Even Week)*                                  |
+| Thursday  | 0820           | 0830             | 1410 |
+| Friday    | 0720           | 0730             | 1240                     |
 
-\*There will be Enrichment Activities for Secondary 1 on Tuesday and Thursday afternoons.
+\*Please refer to the school termly letters for the days that enrichment activities are organised for the Sec 1s in the afternoon.
 
-### **First Day of School for Secondary One 2022**
+### **First Day of School for Secondary One 2023**
 
 |                  |                                                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| **Reporting Time:**  | 7:20 a.m.                                                                                                                         |
-| **Dismissal:**       | 5:00 p.m.                                                                                                                         |
-| **Venue:**           | School Hall Level 4                                                                                                               |
+| **Reporting Time:**  | 0720                                                                                                                         |
+| **Dismissal:**       | 1310                                                                                                                          |
+| **Venue:**           | Sec 1 classrooms at Level 4                                                                                                               |
 | **Attire:**          | TK Uniform or Primary School Uniform                                                                                              |
 | **Things to bring:** | Water bottle<br>Stationery<br>Working thermometer<br>Additional mask<br>School Tie<br>Sufficient money for recess and lunch break |
 
 **Sec 1 Orientation Programme**
 
-*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**4 and 5 January 2022**. Please note that students will be dismissed at 5.00 pm on 4 Jan and 5.30pm on 5 Jan.
-*   Students are not required to bring books during orientation on 4 Jan. The class timetable will be distributed on the first day of school, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
-*   You may like to download the&nbsp;[Orientation Programme](/files/Sec1%202023/Orientation_-Investiture_Programme_2022-PG.pdf).&nbsp;A copy will be also sent via Parents’ Gateway.
+*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2nd - 4th January 2024**. Please note that students will be dismissed at 1310.
+*   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
+*   You may like to download the&nbsp;[Orientation Programme](/files/Sec1%202023/Orientation_-Investiture_Programme_2022-PG.pdf).&nbsp;A copy will be also sent via Parents Gateway.
 
 ### **Student Smart Card (SSC) for concessionary travel**
 
-*   All students entering Secondary One in January 2022 will be issued with a new Secondary level School Smart Cards (SSC)
-*   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2022.
+*   All students entering Secondary One in January 2024 will be issued with a new Secondary level School Smart Cards (SSC)
+*   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2024.
 
 ### **Transport to School**
 
