@@ -50,7 +50,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 \*Please refer to the school termly letters for the days that enrichment activities are organised for the Sec 1s in the afternoon.
 
-### **First Day of School for Secondary One 2023**
+### **First Day of School for Secondary One 2024**
 
 |                  |                                                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------|
