@@ -62,7 +62,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 **Sec 1 Orientation Programme**
 
-*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2nd - 4th January 2024**. Please note that students will be dismissed at 1310.
+*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2 - 4 January 2024**. Please note that students will be dismissed at 1310.
 *   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
 *   You may like to download the&nbsp;[Orientation Programme](/files/Sec1%202023/Orientation_-Investiture_Programme_2022-PG.pdf).&nbsp;A copy will be also sent via Parents Gateway.
 
