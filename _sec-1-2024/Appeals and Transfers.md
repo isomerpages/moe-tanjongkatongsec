@@ -2,6 +2,7 @@
 title: Appeals and Transfers
 permalink: /sec-1-2023/appeals-and-transfers/
 description: ""
+variant: markdown
 ---
 # Appeals and Transfers
 
@@ -23,11 +24,12 @@ description: ""
 
 **Application period and procedure for appeal to TKSS:**
 
-*   The application period is <b><u>from the day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1700 hours.</u></b>
+*   The application period is&nbsp;<b><u>from the&nbsp;day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1700 hours.</u></b>
 
 *   For appeal to TK, please follow the steps below:
 
-1\.  Go to [http://go.gov.sg/tkss2022s1appeal](http://go.gov.sg/tkss2022s1appeal)  
+1\.  Go to [http://go.gov.sg/tkss2023s1appeal](http://go.gov.sg/tkss2023s1appeal)
+
 2\.  Complete all fields. Supporting documents are to be uploaded via the same link.
 
 *   Incomplete form and submission of supporting documents will not be considered for the appeal.
@@ -42,9 +44,10 @@ description: ""
 
 **Request to transfer to another school**
 
-*   Students who wish to apply for a transfer to another school on **medical grounds** are to submit the request in person at the General Office with the necessary supporting documents by <b><u>23 December, 12pm.</u></b>
+*   Students who wish to apply for a transfer to another school on&nbsp;**medical grounds**&nbsp;are to submit the request in person at the General Office with the necessary supporting documents by&nbsp;<b><u>23 December, 12pm.</u></b>
 *   Application without supporting documents, incomplete form or late submission will not be processed.
 
 *   Students who wish to transfer to another school for reasons other than those above may approach the other school directly for a place.
 
-For more enquiries on appeal or transfer matters, please email to [sec1admission@tksec.edu.sg](mailto:sec1admission@tksec.edu.sg), or contact our Administration Manager Mr Aruumuguam or Administration Executive Ms Doris Goh at Tel: 63443471 during office hours.
+For more enquiries on appeal or transfer matters, please email to 
+[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg), or contact our Administration Manager Ms Siti Aishah or Admin CSO Ms Harbalbir Raj Kaur at Tel: 63443471 during office hours.
