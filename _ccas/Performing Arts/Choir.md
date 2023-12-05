@@ -3,6 +3,7 @@ title: Choir
 permalink: /ccas/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # Choir
 ## **About**
@@ -23,6 +24,6 @@ Darren Chan (3D)
 
 ## **Teachers-in-Charge**
 
-*   **Mr Ishak**
+*   **Ms Liz Sriyanty**
 *   Ms Foo Wen Hui
-*   Ms Liz Sriyanty
+*   Ms Sri Nabilah
