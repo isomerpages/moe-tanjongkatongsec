@@ -3,6 +3,7 @@ title: Athletics
 permalink: /ccas/Physical-Sports/athletics/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # Athletics
 
@@ -20,4 +21,4 @@ Ian Loke (3D)
 
 *   **Miss Pang Ling Li**
 *   Mdm Norlindah
-*   Miss Nurul Aqilah
+*   Ms Chen Chao
