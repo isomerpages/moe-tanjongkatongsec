@@ -3,6 +3,7 @@ title: Seladang Scouts
 permalink: /ccas/Uniformed-Groups/selandang-scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # Seladang Scouts
 
@@ -57,3 +58,4 @@ Anson Chan (3F)
 *   **Miss Lye Jee Lee**
 *   Mr Ngoi Kah Teck
 *   Mrs Toh Lee Lee
+*   Ms Hafizah Bee
