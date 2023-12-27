@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/People/school-management-committee/
 description: ""
 third_nav_title: People
+variant: markdown
 ---
 # School Management Committee
 
@@ -26,7 +27,7 @@ third_nav_title: People
 | Mrs Chin Wan Ee          | School Staff Developer    | chua_wan_ee@moe.edu.sg               |
 | Mdm Halilah S Alkhatib   | Year Head (Upper Sec)     | halilah_salim_alkhatib@moe.edu.sg    |
 | Mrs Tan Pei Shan         | Year Head (Lower Sec)     | teh_pei_shan@moe.edu.sg              |
-| Mr Yong Choon Hei Kelvin | Asst Year Head / Sec 3    | yong_choon_hei_kelvin@moe.edu.sg     |
+| Mr Yong Choon Hei Kelvin | Assistant Year Head / Sec 3    | yong_choon_hei_kelvin@moe.edu.sg     |
 | Miss Lye Jee Lee         | LH EL & Literature        | lye_jee_lee@moe.edu.sg               |
 | Ms Nur Izyan             | SH English Literature     | nur_izyan_mohamed_hashim@moe.edu.sg  |
 | Miss Mavis Lim           | SH Additional Mathematics | lim_hui_mei_mavis@moe.edu.sg         |
@@ -34,3 +35,5 @@ third_nav_title: People
 | Ms Nurul Ain             | SH Malay Language         | nurul_ain_kamarulzaman@moe.edu.sg    |
 | Mdm Nor Hazelin Idayu    | SH History                | nor_hazelin_idayu@moe.edu.sg         |
 | Mr Lawrence Siao         | SH Aesthetics             | siao_choon_keong_lawrence@moe.edu.sg |
+| Ms Suriyani Lim    | SH CCE                | suriyani_a@moe.edu.sg         |
+| Mr Yusoff         | Assistant Year Head            | mohammed_yusoff_abdul_latiff@moe.edu.sg |
