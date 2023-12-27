@@ -163,7 +163,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Ms Suriyani</td>
-    <td>Teacher</td>
+    <td>SH CCE</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
   <tr></tr><tr></tr>
@@ -362,7 +362,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Mr Yusoff</td>
-    <td>Teacher</td> <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
+    <td>Asst Year Head</td> <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Colin Chew</td>
