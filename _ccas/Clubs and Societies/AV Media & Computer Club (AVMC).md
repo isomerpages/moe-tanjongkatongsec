@@ -3,6 +3,7 @@ title: AV Media & Computer Club (AVMC)
 permalink: /ccas/Clubs-and-Societies/av-media-and-computer-club-avmc/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # AV Media &amp; Computer Club (AVMC)
 
@@ -55,6 +56,6 @@ Bhargav Piyushkumar Singapuri (4C, 2014)
 
 ## **Teachers-in-Charge**
 
-*   **Miss Nani Rahayu Bte Mohamed Razali**
+*   **Miss Nani Rahayu**
 *   Mrs Tey Wei Yen
 *   Mrs Hwang Lay Beng

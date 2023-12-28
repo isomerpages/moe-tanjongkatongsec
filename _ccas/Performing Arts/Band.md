@@ -3,6 +3,7 @@ title: Band
 permalink: /ccas/Performing-Arts/band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # Band
 
@@ -32,5 +33,5 @@ Mr Lawrence Siao
 
 *   **Mr Siao Choon Keong Lawrence**
 *   Mr Ong Hoong Siong
-*   Ms Nur Khairiyyah Binte Nordin
-*   Ms Lee Hui Ling
+*   Ms Leow Sze Sze
+*   Mdm Han Li

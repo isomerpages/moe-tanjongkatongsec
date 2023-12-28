@@ -53,16 +53,6 @@ variant: markdown
     <td>Ms Marliyana Lim</td>
     <td>Teacher</td><td>marliyana_mustaffamarliyana_lim@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Ms Rosalind Yeo</td>
-    <td>Teacher</td>
-    <td>rosalind_yeo_wei_wei@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Ms Diana Mendiola</td>
-    <td>Teacher</td>
-<td>mendiola_diana_jeane_bautista@moe.edu.sg</td>
-  </tr>
 	 <tr>
     <td>Miss Maureen Lian</td>
     <td>Teacher</td>
@@ -173,18 +163,13 @@ variant: markdown
   </tr>
   <tr>
     <td>Ms Suriyani</td>
-    <td>Teacher</td>
+    <td>SH CCE</td>
     <td>suriyani_a@moe.edu.sg</td>
   </tr>
   <tr></tr><tr></tr>
     <tr><td>Ms Chin Sock Huay</td>
     <td>Teacher</td>
     <td>chin_sock_huay@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Ms Li Fei</td>
-    <td>Teacher</td>
-    <td>li_fei@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Ong Lee Eng</td>
@@ -197,11 +182,6 @@ variant: markdown
     <td>chen_chao@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Ishak</td>
-    <td>Teacher</td>
-    <td>ishak_abdul_latiff@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td>Ms Noorashikin</td>
     <td>Teacher</td> <td>noorashikin_mohamed_ishak@moe.edu.sg</td>
   </tr>
@@ -209,11 +189,6 @@ variant: markdown
     <td>Ms Nur Khairiyyah</td>
     <td>Teacher</td> <td>nur_khairiyyah_nordin@moe.edu.sg</td>
   </tr>
-<tr>
-<td>Ms Nadiah</td>
-<td>Teacher</td>
-<td>nadiah_abdul_karim@moe.edu.sg</td>
-</tr>
 <tr>
 <td>Ms Sri Nabilah</td>
 <td>Teacher</td>
@@ -281,7 +256,6 @@ variant: markdown
     <td>Teacher</td>
     <td>ong_hoong_siong@moe.edu.sg</td>
   </tr>
-	<tr><td>Ms Sriharini</td><td>Teacher</td><td>sriharini@moe.edu.sg</td></tr>
 	<tr>
     <td>Ms Woo Yan Lin</td>
     <td>Teacher</td>
@@ -348,11 +322,6 @@ variant: markdown
     <td>liz_sriyanty_jamaludin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Lee Hui Ling</td>
-    <td>Teacher</td>
-    <td>lee_hui_ling_b@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td>Ms Syafeena</td>
     <td>Teacher</td>
     <td>syafeena@moe.edu.sg</td>
@@ -376,11 +345,6 @@ variant: markdown
     <td>Miss Ayshathun</td>
     <td>Teacher</td> <td>ayshathun_munavvara_shihabuddeen@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td>Miss Nurul Aqilah</td>
-    <td>Teacher</td>
-    <td>nurul_aqilah_minhaj@moe.edu.sg</td>
-	</tr>
 </tbody>
 </table>
 
@@ -398,7 +362,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Mr Yusoff</td>
-    <td>Teacher</td> <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
+    <td>Asst Year Head</td> <td>mohammed_yusoff_abdul_latiff@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr Colin Chew</td>

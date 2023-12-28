@@ -3,6 +3,7 @@ title: NCC Sea
 permalink: /ccas/Uniformed-Groups/ncc-sea/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # NCC Sea
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NVoEYRpQlqs" height="315" width="560"></iframe>
@@ -20,7 +21,7 @@ third_nav_title: Uniformed Groups
 [#ncccadetstrong](https://www.facebook.com/hashtag/ncccadetstrong?__eep__=6&amp;__cft__[0]=AZVN9D8fmXGqADTMeLKSGXIDbbHliMh7oDDn6bGcYo1fHdUMkuEsATeY5GBNJL1DTbRPFaU8hiU2DYI_352BoDQeXv_G78T9q6xHFW20_ToDvTL1wdeqz1Pb170N7Awl29rIqXH-J9hjKfdnsR0Rir8Jov7TPGMWoIzrBv1fAfP2cg-Y2Z-R_VwrIUwbqvi3HHs&amp;__tn__=*NK-R)&nbsp;[#ncccommittedheart](https://www.facebook.com/hashtag/ncccommittedheart?__eep__=6&amp;__cft__[0]=AZVN9D8fmXGqADTMeLKSGXIDbbHliMh7oDDn6bGcYo1fHdUMkuEsATeY5GBNJL1DTbRPFaU8hiU2DYI_352BoDQeXv_G78T9q6xHFW20_ToDvTL1wdeqz1Pb170N7Awl29rIqXH-J9hjKfdnsR0Rir8Jov7TPGMWoIzrBv1fAfP2cg-Y2Z-R_VwrIUwbqvi3HHs&amp;__tn__=*NK-R)&nbsp;[#nccresilientmind](https://www.facebook.com/hashtag/nccresilientmind?__eep__=6&amp;__cft__[0]=AZVN9D8fmXGqADTMeLKSGXIDbbHliMh7oDDn6bGcYo1fHdUMkuEsATeY5GBNJL1DTbRPFaU8hiU2DYI_352BoDQeXv_G78T9q6xHFW20_ToDvTL1wdeqz1Pb170N7Awl29rIqXH-J9hjKfdnsR0Rir8Jov7TPGMWoIzrBv1fAfP2cg-Y2Z-R_VwrIUwbqvi3HHs&amp;__tn__=*NK-R)&nbsp;[#sgncc](https://www.facebook.com/hashtag/sgncc?__eep__=6&amp;__cft__[0]=AZVN9D8fmXGqADTMeLKSGXIDbbHliMh7oDDn6bGcYo1fHdUMkuEsATeY5GBNJL1DTbRPFaU8hiU2DYI_352BoDQeXv_G78T9q6xHFW20_ToDvTL1wdeqz1Pb170N7Awl29rIqXH-J9hjKfdnsR0Rir8Jov7TPGMWoIzrBv1fAfP2cg-Y2Z-R_VwrIUwbqvi3HHs&amp;__tn__=*NK-R)
 
 **Teachers-in-Charge**
-*   **Mr Alan Pang**
-*   Miss Sophia Lim
+*   **Miss Mavis Lim**
 *   Mr Yusfiandi
-*   Miss Mavis Lim
+*   Mr Travis Teo
+*   Ms Shelley Chan

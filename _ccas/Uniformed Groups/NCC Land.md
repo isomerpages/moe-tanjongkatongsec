@@ -3,6 +3,7 @@ title: NCC Land
 permalink: /ccas/Uniformed-Groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # NCC Land
 
@@ -15,7 +16,7 @@ third_nav_title: Uniformed Groups
 Nicholas Tan (3C)
 
 ## **Teachers-in-Charge**
-*   **Mr Mohammed Yusoff** 
+*   **Mr Mohammed Yusoff**
 *   Miss Estee Goh
 *   Mr Khee Jun Jie
-*   Ms Li Fei
+*   Ms Charissa Lee

@@ -3,6 +3,7 @@ title: Dance Club
 permalink: /ccas/Performing-Arts/dance-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # Dance Club
 
@@ -24,5 +25,5 @@ Lim Li Xuan (3F)
 ## **Teachers-in-Charge**
 
 *   **Mrs Audrey Chen**
-*   Miss Noorashikin Binte Mohamed Ishak
-*   Miss Ayshathun Munavvara
+*   Miss Noorashikin
+*   Miss Ayshathun

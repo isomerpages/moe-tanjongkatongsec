@@ -3,6 +3,7 @@ title: Floorball
 permalink: /ccas/Physical-Sports/floorball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # Floorball
 ![](/images/group%20photo.jpg)
@@ -18,7 +19,7 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
 
 *   **Miss Ermawati**
 *   Ms Syafeena
-*   Ms Rosalind Yeo
+
 
 **Achievements**
 

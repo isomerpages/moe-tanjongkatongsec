@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /ccas/Uniformed-Groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # Girl Guides
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-75TxokZnVM" height="315" width="560"></iframe>
@@ -45,5 +46,7 @@ Ashmita Ghale (3B)
 ## **Teachers-in-Charge**
 
 *   **Miss Cherlyn Tan**
-*   Miss Nadiah Bte Abdul Karim
 *   Ms Marliyana Lim
+*   Ms Siti Sapiya
+*   Ms Ng Bi Ru
+*   Ms Nur Khairiyyah
