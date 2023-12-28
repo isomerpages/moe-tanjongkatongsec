@@ -63,6 +63,16 @@ variant: markdown
     <td>Teacher</td>
     <td>lee_suikuan_carolyn@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td>Ms Lee Soo Erng, Charissa</td>
+    <td>Teacher</td>
+    <td>lee_soo_erng_charissa@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mrs Beatrice Tay</td>
+    <td>Teacher</td>
+    <td>beatrice_tay_bee_teen@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
 
@@ -133,6 +143,11 @@ variant: markdown
     <td>Teacher</td>
     <td>sin_joo_lee@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Ms Kris Ng</td>
+    <td>Teacher</td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
 
@@ -181,6 +196,18 @@ variant: markdown
     <td>Teacher</td>
     <td>chen_chao@moe.edu.sg</td>
   </tr>
+	  
+		<tr>
+    <td>Mr Tan Leip Ming</td>
+    <td>Teacher</td>
+    <td></td>
+  </tr>
+	  
+		<tr>
+    <td>Ms Choong Kau Choo</td>
+    <td>Teacher</td>
+    <td></td>
+  </tr>
   <tr>
     <td>Ms Noorashikin</td>
     <td>Teacher</td> <td>noorashikin_mohamed_ishak@moe.edu.sg</td>
@@ -193,6 +220,16 @@ variant: markdown
 <td>Ms Sri Nabilah</td>
 <td>Teacher</td>
 <td>sri_nabilah_basri@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Murni</td>
+<td>Teacher</td>
+<td></td>
+</tr>
+<tr>
+<td>Mdm Rositah Yusof</td>
+<td>Teacher</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -227,16 +264,16 @@ variant: markdown
     <td>Teacher</td>
     <td>loo_wei_yen@moe.edu.sg</td>
   </tr>
-  <tr>
+    <tr><td>Mrs Toh Lee Lee</td>
+    <td>Teacher</td>
+    <td>chow_lee_lee@moe.edu.sg</td>
+  </tr>
+	  <tr>
     <td>Ms Nabilah Banu</td>
     <td>Teacher</td> <td>nabilah_banu_nazeer_khan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mrs Toh Lee Lee</td>
-    <td>Teacher</td>
-    <td>chow_lee_lee@moe.edu.sg</td>
-  </tr>
-	<tr>
+	</tr><tr>
     <td>Mr Peh Chu Ming</td>
     <td>Teacher</td>
     <td>peh_chu_ming@moe.edu.sg</td>
@@ -270,6 +307,15 @@ variant: markdown
     <td>Mr Lam Tse Sun</td>
     <td>Teacher</td>
     <td>lam_tse_sun_a@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Mr Teo Chee Yong Travis</td>
+    <td>Teacher</td>
+    <td>teo_chee_yong_travis@moe.edu.sg</td>
+  </tr>	<tr>
+    <td>Ms Shelley Chan Hiang Ming</td>
+    <td>Teacher</td>
+    <td>shelley_chan_hiang_ming@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Nuraisyah</td>
@@ -341,9 +387,28 @@ variant: markdown
     <td>Teacher</td>
     <td>estee_goh_pei_shan@moe.edu.sg</td>
   </tr>
+	  <tr>
+    <td>Ms Nabilah Banu</td>
+    <td>Teacher</td> <td>nabilah_banu_nazeer_khan@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Miss Ayshathun</td>
     <td>Teacher</td> <td>ayshathun_munavvara_shihabuddeen@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Noor Intan Binte Ghamaruddin</td>
+    <td>Teacher</td>
+		 <td>noor_intan@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Hafizah Bee Bte Ansari</td>
+    <td>Teacher</td>
+		 <td>hafizah_bee_ansari@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Ng Bi Ru</td>
+    <td>Teacher</td>
+		 <td>ng_bi_ru@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -436,7 +501,7 @@ variant: markdown
 <tbody>
   <tr>
     <td>Mr Alan Pang</td>
-    <td>SH ICT</td>
+    <td>HOD ICT</td>
     <td>pang_chau_choon@moe.edu.sg</td>
   </tr>
   <tr>
@@ -510,9 +575,9 @@ variant: markdown
     <td>chew_ai_mei_beth@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Kate Choo</td>
+    <td>Ms Elina Tan Ping Ping</td>
     <td>Education and Career Guidance (ECG) Counsellor</td>
-    <td>Kate_choo_huey_xuan@schools.gov.sg</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
