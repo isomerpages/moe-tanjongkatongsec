@@ -436,7 +436,7 @@ variant: markdown
 <tbody>
   <tr>
     <td>Mr Alan Pang</td>
-    <td>SH ICT</td>
+    <td>HOD ICT</td>
     <td>pang_chau_choon@moe.edu.sg</td>
   </tr>
   <tr>
