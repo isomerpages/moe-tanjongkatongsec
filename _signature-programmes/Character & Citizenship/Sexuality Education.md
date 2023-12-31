@@ -57,7 +57,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 ![](/images/Signature%20Programmes/Sexuality%20Education/sec4sed.jpeg)
 
-<u><b>*eTeens* Programme</b></u>:
+<u><b>eTeens Programme</b></u>:
 
 8\.  _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions.
 
