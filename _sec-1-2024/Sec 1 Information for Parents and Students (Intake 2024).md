@@ -37,19 +37,6 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 *   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
-### **Daily Reporting &amp; Dismissal Time**
-
-
-| Day       | Reporting Time | Morning Assembly | Dismissal Time                        |
-|-----------|----------------|------------------|---------------------------------------|
-| Monday    | 0720           | 0730             | 1310                                  |
-| Tuesday   | 0720           | 0730             | 1310                                 |
-| Wednesday | 0720           | 0730             | 1310 (Odd Week)*<br>1410(Even Week)*                                  |
-| Thursday  | 0720           | 0730             | 1410 |
-| Friday    | 0720           | 0730             | 1240                     |
-
-\*Please refer to the school termly letters for the days that enrichment activities are organised for the Sec 1s in the afternoon.
-
 ### **First Day of School for Secondary One 2024**
 
 |                  |                                                                                                                                   |
