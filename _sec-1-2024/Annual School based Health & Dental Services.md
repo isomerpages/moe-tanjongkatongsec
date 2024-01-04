@@ -1,7 +1,8 @@
 ---
 title: Annual School based Health & Dental Services
-permalink: /sec-1-2023/annual-school-based-health-dental-services/
+permalink: /sec-1-2024/annual-school-based-health-dental-services/
 description: ""
+variant: tiptap
 ---
 # Annual School-based Health & Dental Services
 

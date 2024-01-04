@@ -1,6 +1,6 @@
 ---
 title: Appeals and Transfers
-permalink: /sec-1-2023/appeals-and-transfers/
+permalink: /sec-1-2024/appeals-and-transfers/
 description: ""
 variant: markdown
 ---

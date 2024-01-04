@@ -1,7 +1,8 @@
 ---
 title: Music Elective Programme (MEP) and Art Elective Programme (AEP)
-permalink: /sec-1-2023/music-elective-programme-mep-and-art-elective-programme-aep/
+permalink: /sec-1-2024/music-elective-programme-mep-and-art-elective-programme-aep/
 description: ""
+variant: tiptap
 ---
 # Music Elective Programme (MEP) and Art Elective Programme (AEP)
 
