@@ -2,6 +2,7 @@
 title: TK Graduate & Code Of Conduct
 permalink: /about-us/tk-graduate/
 description: ""
+variant: markdown
 ---
 # TK Graduate &amp; Code Of Conduct
 
@@ -146,7 +147,6 @@ ATTENDANCE AND PUNCTUALITY
 
 *   Attendance in school is compulsory. Attendance will be taken before the morning assembly.
 *   Students, who are not with their classes when the flag-raising ceremony starts at 7.30am, are considered late.
-*   On Thursdays, students should report to their classes by 8.20 am. Students not in their classrooms when the flag-raising ceremony commences at 8.30 am, are considered late.
 *   Latecomers who come after the morning assembly are to record their names in the General Office.
 *   Absence from school must be accompanied by a medical certificate and where appropriate, a letter of explanation from parents.
 *   No student should leave the school premises during school hours without permission from the Principal/Vice-Principal/HODs/SHs/LHs after informing the teacher in the class.
