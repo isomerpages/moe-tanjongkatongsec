@@ -14,4 +14,4 @@ Please click [here](/files/CCAs/CCA_Calendar_2024__as_of_2_Jan_.pdf) to downloa
 
 *    **Level 1-3 Students**
 
-[CCA Guidelines & Grading System – LEAPS 2.0](https://tanjongkatongsec.moe.edu.sg/wp-content/uploads/2016/12/2-LEAPS-2.0.pdf)
+[CCA Guidelines & Grading System – LEAPS 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)
