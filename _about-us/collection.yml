@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Our Rich Heritage/.keep
+      - Our Rich Heritage/Our Rich Heritage.md
+      - Our Rich Heritage/TKSS 65th Anniversary 2021.md
+      - Mission, Vision, Values and Crest.md
+      - TK Graduate & Code Of Conduct.md
+      - Team TK & School Song.md
+      - People/People.md
+      - People/.keep
+      - People/School Advisory Committee.md
+      - People/School Management Committee.md
+      - People/School Staff.md
+      - Publications.md
+      - Our Partners/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Parents.md
+      - Our Partners/Alumni.md
+      - Our Partners/External Organisations.md

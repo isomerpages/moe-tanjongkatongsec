@@ -1,0 +1,14 @@
+logo: /images/tkbannerv1.jpg
+links:
+  - title: ABOUT US
+    collection: about-us
+  - title: ACADEMIC
+    collection: academic
+  - title: CCAS
+    collection: ccas
+  - title: SIGNATURE PROGRAMMES
+    collection: signature-programmes
+  - title: Sec 1 2024
+    collection: sec-1-2024
+  - title: USEFUL LINKS
+    collection: useful-links

@@ -1,0 +1,24 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Aesthetics Programme.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/School Counselling.md
+      - Character & Citizenship/Character Education.md
+      - Character & Citizenship/Cyber Wellness Education.md
+      - Character & Citizenship/Environmental Policy.md
+      - Character & Citizenship/National Education.md
+      - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/Values in Action.md
+      - Current Affairs.md
+      - Da Vinci Programme.md
+      - Einstein Programme.md
+      - Education and Career Guidance.md
+      - EMAS & MLEP/.keep
+      - EMAS & MLEP/EMAS Programme.md
+      - EMAS & MLEP/MLEP Programme.md
+      - EMAS & MLEP/Student Achievements.md
+      - Overseas School Immersion Programme.md
+      - Student Leadership.md
+      - Talent Development.md

@@ -1,0 +1,13 @@
+collections:
+  academic:
+    output: true
+    order:
+      - Aesthetics.md
+      - Design Technology & Food Consumer Education.md
+      - English.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - Physical Education.md
+      - Homework Policy.md
