@@ -48,17 +48,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Mabel Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mabel_yee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Hareesh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,17 +110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_suikuan_carolyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Soo Erng, Charissa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_soo_erng_charissa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -665,6 +643,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shelley_chan_hiang_ming@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Geok Hean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_geok_hean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

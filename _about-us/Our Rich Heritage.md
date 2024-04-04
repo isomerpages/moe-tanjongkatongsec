@@ -2,7 +2,6 @@
 title: Our Rich Heritage
 permalink: /about-us/Our-Rich-Heritage/
 description: ""
-third_nav_title: Our Rich Heritage
 ---
 # Our Rich Heritage
 Founded in 1956, Tanjong Katong Secondary School began its life as a pioneer technical school along Tanjong Katong Road, known then as Tanjong Katong Secondary Technical School. It was an institution of choice for boys in the East.
