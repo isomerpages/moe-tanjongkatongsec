@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Our Rich Heritage.md
       - Principal’s Message.md
+      - Our Rich Heritage.md
       - Our Rich Heritage/.keep
       - Mission, Vision, Values and Crest.md
       - TK Graduate & Code Of Conduct.md
       - Team TK & School Song.md
-      - People/People.md
       - People/.keep
+      - People/People.md
       - People/School Advisory Committee.md
       - People/School Management Committee.md
       - People/School Staff.md
