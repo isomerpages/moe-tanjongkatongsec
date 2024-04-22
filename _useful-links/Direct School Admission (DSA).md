@@ -32,7 +32,7 @@ who are self-motivated and have a strong sense of achievement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Category 3: Sports and Games</strong>
+<p><strong>Category 3: Sports and Games</strong> 
 <br>
 <br>Contact Person:
 <br>
