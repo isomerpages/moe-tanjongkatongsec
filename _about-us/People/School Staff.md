@@ -493,17 +493,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Choon Hei Kelvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head / Sec 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yong_choon_hei_kelvin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Quek Toh Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,14 +1215,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lilian Tan</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Admin Assistant Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jack Kong</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Admin Assistant Officer</p>
