@@ -45,8 +45,8 @@ who are self-motivated and have a strong sense of achievement.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should be proficient in the Higher Malay Language. He or she
-must posess deep passion for the Malay Language and its culture, good leadership
-and communication skills.</p>
+must possess deep passion for the Malay Language and its culture, good
+leadership and communication skills.</p>
 <p></p>
 <p>Achieved consistent and good results for Primary 5 (Overall) and Primary
 6 Weighted Assessments (ALL subjects)</p>
