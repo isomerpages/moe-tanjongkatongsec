@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p>In this Direct School Admission Exercise, we are looking for students
 who are self-motivated and have a strong sense of achievement.</p>
-<p>We welcome pupils who have talent and aptitude in the following category:</p>
+<p>We welcome pupils who have talent and aptitude in the following categories:</p>
 <table>
 <tbody>
 <tr>
@@ -29,6 +29,39 @@ who are self-motivated and have a strong sense of achievement.</p>
 <th rowspan="1" colspan="1">
 <p>Selection Process</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Category 2: Language &amp; Humanities</strong>
+</p>
+<p></p>
+<p>Contact Person:</p>
+<p></p>
+<p>Ms Nurul Ain, Subject Head Malay Language @ 6344 3471 (ext 309)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should be proficient in the Higher Malay Language. He or she
+must possess deep passion for the Malay Language and its culture, good
+leadership and communication skills.</p>
+<p></p>
+<p>Achieved consistent and good results for Primary 5 (Overall) and Primary
+6 Weighted Assessments (ALL subjects)</p>
+<p></p>
+<p>Achieved consistent and excellent results for <strong>Higher Malay Language </strong>in
+Primary 5 (Overall results) and Primary 6 (Weighted Assessment)</p>
+<p></p>
+<p><strong>*Applicants must be currently taking HML</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A. Assessment of Oral Skills (Group Interview Session)</p>
+<p></p>
+<p>B. Assessment of Literary Skills (Written Essay - 1 hour 30 minutes)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
