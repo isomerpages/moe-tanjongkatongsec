@@ -120,6 +120,7 @@ their performance at the interviews and sports trials.</p>
 <p><strong><u>SELECTION STAGE</u></strong>
 </p>
 <p>24 June - 9 September 2024</p>
+<p>Selection Stage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ONLY Shortlisted applicants will be notified via email and phone call
@@ -170,7 +171,7 @@ the School Preference Submission period.</p>
 results together with their PSLE results through their primary schools,
 by end-November 2024.</p>
 <p></p>
-<p>Students who are not studying in MOE mainstream school will receive their
+<p>Students who are not studying in MOE mainstream schools will receive their
 DSA-Sec results from PPSB via email. Secondary schools will be able to
 download the list of successful DSA-Sec students allocated to them using
 the Placement System for Secondary Schools (PSSS).</p>
