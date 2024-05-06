@@ -163,12 +163,12 @@ the School Preference Submission period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2024</p>
+<p>Late November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
 results together with their PSLE results through their primary schools,
-by end-Nov 2024.</p>
+by end-November 2024.</p>
 <p></p>
 <p>Students who are not studying in MOE mainstream school will receive their
 DSA-Sec results from PPSB via email. Secondary schools will be able to
