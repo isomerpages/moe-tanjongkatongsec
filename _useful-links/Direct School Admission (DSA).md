@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p>In this Direct School Admission Exercise, we are looking for students
 who are self-motivated and have a strong sense of achievement.</p>
-<p>We welcome pupils who have talent and aptitude in the following categories:</p>
+<p>We welcome pupils who have talent and aptitude in the following category:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -144,7 +144,7 @@ Offer (CO), put on the Waiting List (WL), or Unsuccessful.</p>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
 will receive email and SMS notification via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
-Submission around mid-Oct 2024.</p>
+Submission around mid-October 2024.</p>
 <p></p>
 <p><strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to <u>THREE</u> school preferences.</strong> If
 parent(s) are unable to submit online, they can approach their child's
