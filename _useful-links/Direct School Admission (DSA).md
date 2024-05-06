@@ -14,7 +14,13 @@ variant: tiptap
 <p>In this Direct School Admission Exercise, we are looking for students
 who are self-motivated and have a strong sense of achievement.</p>
 <p>We welcome pupils who have talent and aptitude in the following categories:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,5 +75,4 @@ the on-site trials.
 </tr>
 </tbody>
 </table>
-<p>For more information on DSA-Sec, please refer to the MOE website at
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p></p>
