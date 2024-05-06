@@ -111,7 +111,7 @@ their performance at the interviews and sports trials.</p>
 <p>The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 June 2024, 3pm</strong>
 </p>
 <p></p>
-<p>For more details, please refer to <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
+<p>For more details, please refer to MOE website - <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
