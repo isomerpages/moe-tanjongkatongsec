@@ -6,7 +6,12 @@ third_nav_title: People
 variant: tiptap
 ---
 <h1>School Staff</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -125,18 +130,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ali Faisal</p>
+<p>Ms Norrita Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_ali_faisal@moe.edu.sg</p>
+<p>norrita_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -288,7 +298,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -462,7 +477,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -669,7 +689,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -832,7 +857,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -907,7 +937,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -982,7 +1017,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1046,7 +1086,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1088,7 +1133,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1141,7 +1191,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
