@@ -5,15 +5,15 @@ date: 2022-04-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-# 2022 SGC (School Graduation Certificate) Collection
+# 2023 SGC (School Graduation Certificate) Collection
 
-<b><u>Collection of Sch Graduation Certificate 2022</u></b>
+<b><u>Collection of School Graduation Certificate 2023</u></b>
 
-2021 TK Graduates may collect your SGC from the school General Office after 01/06/2022, during office hours (Monday to Friday 9 am to 4 pm).
+2023 TK Graduates may collect your SGC from the school General Office from 5 Jun 2024, (preferably during the school holidays) during office hours 9am to 4pm (Monday to Friday)
 
 <b><u>IMPORTANT NOTE</u></b>
-
 1) Please bring along your NRIC / Student Pass for verification.
 
 2) Please prepare a letter of authorization, a photocopy of your NRIC and Proxy’s Original Identity Card if you are appointing a Proxy to collect the SGC on your behalf.
