@@ -5,12 +5,13 @@ date: 2023-05-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # 2023 SGC (School Graduation Certificate) Collection
 
 <b><u>Collection of Sch Graduation Certificate 2023</u></b>
 
-2022 TK Graduates may collect your SGC from the school General Office after 29/05/2023, during office hours (Monday to Friday 9 am to 4 pm).
+2023 TK Graduates may collect your SGC from the school General Office from 5 June 2024, (preferably during the school holidays) during office hours 9am to 4pm (Monday to Friday)
 
 <b><u>IMPORTANT NOTE</u></b>
 
