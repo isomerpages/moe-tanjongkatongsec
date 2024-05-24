@@ -3,12 +3,13 @@ title: Parents Resources
 permalink: /useful-links/pld/parents-handbook/
 description: ""
 third_nav_title: Personal Learning Device (PLD)
+variant: markdown
 ---
 # Parents Resources
 **DMA Resource Guide**
 
-[DMA Parent Guide v2.0 – Option A (Chrome OS)](/files/Useful%20Links/e-DMA-Parent-Guide-v2-Option-A-Chrome-OS.pdf)  
-[DMA Parent Guide v2.0 – Option B (Chrome OS)](/files/Useful%20Links/f-DMA-Parent-Guide-v2-Option-B-Chrome-OS.pdf)
+[DMA Parent Guide (Chrome OS)](https://go.gov.sg/dmaparentguide-mg)
+
 
 **Parent’s Handbook**
 
