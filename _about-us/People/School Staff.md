@@ -97,28 +97,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Maureen Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lian_ah_ai_maureen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Carolyn Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_suikuan_carolyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Beatrice Tay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,17 +378,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Liep Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_liep_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Choong Kau Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -462,17 +429,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>murni_osman_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rositah Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rositah_yusof@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1205,7 +1161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aishah Sulaiman</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Administration Manager</p>
@@ -1230,14 +1186,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Feng</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nazhatulshima</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Corporate Support Officer</p>
@@ -1280,7 +1228,7 @@ variant: tiptap
 <p>Mdm Asmah</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>School Attendant</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -1288,7 +1236,7 @@ variant: tiptap
 <p>Mdm Rani</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>School Attendant</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -1296,7 +1244,7 @@ variant: tiptap
 <p>Mdm Paridah</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>School Attendant</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -1304,7 +1252,7 @@ variant: tiptap
 <p>Mdm Anom</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>School Attendantd</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 </tbody>
