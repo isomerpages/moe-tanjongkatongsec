@@ -19,7 +19,7 @@ Thank you for visiting https://www.tanjongkatongsec.moe.edu.sg/. By accessing an
 
 **Privacy Policy**
 
-5\. Click [here](https://tanjongkatongsec.moe.edu.sg/privacy/) to view this Web Site Privacy Statement.
+5\. Click [here](/privacy/) to view this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
