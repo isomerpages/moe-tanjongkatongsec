@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<h3><strong>Privacy Statement</strong></h3>
+<h3><strong>Tanjong Katong Secondary School Privacy Statement</strong></h3>
 <ol>
 <li>
 <p>This is a Tanjong Katong Secondary School website. Thank you for examining
