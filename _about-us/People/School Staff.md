@@ -841,7 +841,7 @@ variant: tiptap
 <p>Mr Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head</p>
+<p>Asst Year Head Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
@@ -1032,6 +1032,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Thamarai Selvi Soundarajan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Aras Aiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
