@@ -88,7 +88,7 @@ Trail and Kampung GIam Trail.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(1) Annual MR Fortnight Programme</strong>
+<p><strong>(1) Annual MT Fortnight Programme</strong>
 <br>
 <br>The department organises the Annual MTL Fortnight in Term 2 and Term 3.
 During the MTL weeks, interesting and meaningful programmes are planned
