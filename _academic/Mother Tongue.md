@@ -117,7 +117,7 @@ to have a first-hand experience of kampung life.
 <br>
 <br><strong>(4) EMAS Programme</strong>
 <br>
-<br>(please refer to <a href="/emas-programme/" rel="noopener noreferrer nofollow" target="_blank">EMAS Programme Link</a>)</p>
+<br>(please refer to <a href="https://www.tanjongkatongsec.moe.edu.sg/signature-programmes/emas-and-mlep/emas-programme/" rel="noopener noreferrer nofollow" target="_blank">EMAS Programme Link</a>)</p>
 </td>
 </tr>
 </tbody>
