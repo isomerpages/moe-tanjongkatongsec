@@ -1226,7 +1226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Loke Pui Wai Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
