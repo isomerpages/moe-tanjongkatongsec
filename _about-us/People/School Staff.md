@@ -1086,7 +1086,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Thamarai Selvi Soundarajan</p>
+<p>Mr Mohd Aras Aiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -1097,7 +1097,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Aras Aiman</p>
+<p>Mr Prithiep Sivaprakasam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -1187,17 +1187,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chew_ai_mei_beth@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sree Suriya Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
