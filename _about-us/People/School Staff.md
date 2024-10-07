@@ -5,15 +5,8 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-<h4>School Staff</h4><table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#CCC;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Name</span></th><th style="background-color:#CCC;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Designation</span></th><th style="background-color:#CCC;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Email address</span></th></tr></thead><tbody><tr><td colspan="3" style="background-color:#065125;border-color:#cccccc;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#FFF">ENGLISH DEPARTMENT</span></td></tr><tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mrs Yeo Woei Ling</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">HOD English</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">chng_woei_ling@moe.edu.sg</span></td></tr>
-
-
-
-
-
-
-
-</tbody></table><table style="minWidth: 75px">
+<h4>School Staff</h4>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
