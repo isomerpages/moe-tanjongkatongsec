@@ -5,117 +5,19 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-<h1>School Advisory Committee</h1>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Hong Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Dolly Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Honorary Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loo Peng Siang Roger</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Liew Tiong Hwa Jeffrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Khai Theen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Benny Tay Yew Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Sim Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Patsy Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Lim Keng Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seah Chee Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yuen Wei Loon Samuel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yang Si Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h4>School Advisory Committee</h4>
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead></thead><tbody><tr><td colspan="2" style="background-color:#065125;border-color:#cccccc;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#FFF"></span></td></tr>
+
+<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Teo Hong Lim</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Chairman</span></td></tr>
+<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mrs Dolly Ong</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Honorary Secretary</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Loo Peng Siang Roger</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Vice-Chairman</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Liew Tiong Hwa Jeffrey</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Wong Khai Theen</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Benny Tay Yew Lim</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Ong Sim Ho</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Ms Patsy Ng</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Dr Lim Keng Hua</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Seah Chee Huang</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Yuen Wei Loon Samuel</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr>
+	<tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Yang Si Cheng</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Member</span></td></tr></tbody></table>
