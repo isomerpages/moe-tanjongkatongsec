@@ -8,7 +8,7 @@ variant: markdown
 
 <b><u>TK Graduate</u></b>
 
-The TK Graduate is self-directed in learning and passionate in all he undertakes. Confident, resilient, adaptable and compassionate, he is guided by sound values to lead and contribute to school, nation and the global community.
+The TK Graduate is self-directed in learning and passionate in all he undertakes. Confident, resilient and flexible, he is guided by sound values to lead and contribute to school, nation and the global community.
 
 ![](/images/About%20us/1-2.jpg)
 
