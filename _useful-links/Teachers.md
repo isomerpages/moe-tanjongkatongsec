@@ -35,6 +35,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Sports and Recreation Club</u></a>
+</p>
+</li>
+<li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </li>
