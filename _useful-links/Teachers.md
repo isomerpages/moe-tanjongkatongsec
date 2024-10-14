@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreation Club</a>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Sports and Recreation Club</u></a>
 </p>
 </li>
 <li>

@@ -6,9 +6,7 @@ third_nav_title: Personal Learning Device (PLD)
 variant: markdown
 ---
 # Parents Resources
-**DMA Resource Guide**
 
-[DMA Parent Guide (Chrome OS)](https://go.gov.sg/dmaparentguide-mg)
 
 
 **Parent’s Handbook**
