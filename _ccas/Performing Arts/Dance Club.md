@@ -7,7 +7,6 @@ variant: markdown
 ---
 # Modern Dance Club
 
-## **About**
 The TK Modern Dance Club aims to develop each dancer holistically through the art of dance. Beyond just physical movement, dancers in the club cultivate important life skills such as perseverance, collaboration, and creativity. Through the various platforms provided, the Modern Dance Club ensures that each dancer grows both as an artist and as an individual, ready to take on challenges with creativity and resilience.
 
 Over their four-year journey with the club, members will participate in a variety of enriching activities, including:
