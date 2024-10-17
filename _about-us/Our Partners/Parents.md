@@ -1,10 +1,10 @@
 ---
 title: Parents
-permalink: /about-us/Our-Partners/parents/
+permalink: /about-us/our-partners/parents/
 description: ""
 third_nav_title: Our Partners
+variant: tiptap
 ---
-
 # **Parents**
 In TK, our partnership vision is “The Power of We – Nurturing Aspirations through Partnerships” and it is with this in mind that we forge synergistic collaborations with our parents  Several platforms exist for us to harness the positive effects of such a partnership.
 

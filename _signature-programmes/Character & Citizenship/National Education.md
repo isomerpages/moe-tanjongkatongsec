@@ -1,8 +1,9 @@
 ---
 title: National Education
-permalink: /signature-programmes/Character-and-Citizenship/national-education/
+permalink: /signature-programmes/character-and-citizenship/national-education/
 description: ""
 third_nav_title: Character & Citizenship
+variant: tiptap
 ---
 # National Education
 

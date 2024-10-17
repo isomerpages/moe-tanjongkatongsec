@@ -1,7 +1,7 @@
 ---
 title: School Staff
 permalink: /about-us/people/school-staff/
-description: ""
+description: tkss staff
 third_nav_title: People
 variant: markdown
 ---

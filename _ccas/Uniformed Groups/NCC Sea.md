@@ -1,6 +1,6 @@
 ---
 title: NCC Sea
-permalink: /ccas/Uniformed-Groups/ncc-sea/
+permalink: /ccas/uniformed-groups/ncc-sea/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown

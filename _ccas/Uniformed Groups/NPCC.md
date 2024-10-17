@@ -1,8 +1,9 @@
 ---
 title: NPCC
-permalink: /ccas/Uniformed-Groups/npcc/
+permalink: /ccas/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # NPCC
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nOq3F8ESY7I" height="315" width="560"></iframe>
@@ -44,15 +45,13 @@ Our training programme includes:
 
 These activities include:
 
-*   National Heart Foundation Donation Drive
-*   NPCC Service Day
-*   Night cycling
+*   Cycling
 *   Archery
-*   Kickboxing
+*   Fencing
 *   Dragon-boating
-*   Prawning
-*   Introduction to Jumping Jacks
-*   Air revolver shooting
+*   Laser Tag
+*   Marksmanship training
+*   Unit Camp in March and October
 
 #### Visits
 
@@ -61,20 +60,16 @@ These activities include:
 Our visits include:
 
 *   Police Heritage Centre
-*   Home Team Academy Training Village
+*   Neighbourhood Police Centre
 *   Home Team Gallery
-*   Crime Scene Investigation
 
-#### Visits
+#### Overseas Education Visits
 
 <p style="text-align: justify;">NPCC organises annual educational visits for our cadets and members. NPCC cadets and members have the opportunity to network, not just locally, but into foreign lands as well. The purpose of the visit is to broaden the mental horizon of our cadets and members through first-hand knowledge of the economic, social and cultural aspects of the host country. The educational visits focus mainly on regional Asian countries that have similar set-up as the NPCC so that our cadets are further exposed to the Police-Youth partnership programme in other countries.</p>
 
 <p style="text-align: justify;">Overseas Education Visits organised by NPCC HQ include Hong Kong, Macau, Shanghai and Brunei.</p>
 
-<p style="text-align: justify;">TK NPCC also organises an annual Leadership and Adventure overseas camp for cadet leaders. The aim is to offer our cadets a different type of outdoor experience and develop their leadership skills, teamwork and resilience. Countries visited include Australia and Malaysia.</p>
-
-“With honour we serve, with pride we lead. Together, we unite.”
-
+“With honour we serve, with pride we lead. Together, we unite.”<br>
 Dian Fransiska (3A)
 
 ## **Teachers-in-Charge**

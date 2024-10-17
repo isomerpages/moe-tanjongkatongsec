@@ -1,8 +1,9 @@
 ---
 title: Parents
-permalink: /useful-links/Parents/
+permalink: /useful-links/parents/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
 # Parents
 *   <a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" target="_blank">MOE cyberwellness</a>

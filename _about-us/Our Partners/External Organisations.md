@@ -1,8 +1,9 @@
 ---
 title: External Organisations
-permalink: /about-us/Our-Partners/external-organisations/
+permalink: /about-us/our-partners/external-organisations/
 description: ""
 third_nav_title: Our Partners
+variant: tiptap
 ---
 # External Organisations
 **Touch Young** **Arrow**

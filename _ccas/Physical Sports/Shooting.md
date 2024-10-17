@@ -1,8 +1,9 @@
 ---
 title: Shooting
-permalink: /ccas/Physical-Sports/shooting/
+permalink: /ccas/physical-sports/shooting/
 description: ""
 third_nav_title: Physical Sports
+variant: tiptap
 ---
 # Shooting
 

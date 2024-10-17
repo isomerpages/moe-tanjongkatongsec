@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /signature-programmes/Character-and-Citizenship/sexuality-education/
+permalink: /signature-programmes/character-and-citizenship/sexuality-education/
 description: ""
 third_nav_title: Character & Citizenship
 variant: markdown

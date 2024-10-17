@@ -1,8 +1,9 @@
 ---
 title: Our Partners
-permalink: /about-us/Our-Partners/
+permalink: /about-us/our-partners/
 description: ""
 third_nav_title: Our Partners
+variant: tiptap
 ---
 # Our Partners
 

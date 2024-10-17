@@ -1,8 +1,9 @@
 ---
 title: Art Club
-permalink: /ccas/Clubs-and-Societies/art-club/
+permalink: /ccas/clubs-and-societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: tiptap
 ---
 # Art Club
 

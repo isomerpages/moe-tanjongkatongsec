@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /useful-links/Students/
+permalink: /useful-links/students/
 description: ""
 third_nav_title: Students
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: Character Education
-permalink: /signature-programmes/character-and-citizenship/Character-Education/
+permalink: /signature-programmes/character-and-citizenship/character-education/
 description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap

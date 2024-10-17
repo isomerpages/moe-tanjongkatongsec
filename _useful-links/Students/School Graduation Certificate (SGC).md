@@ -1,8 +1,9 @@
 ---
 title: School Graduation Certificate (SGC)
-permalink: /useful-links/Students/school-graduation-certificate-sgc/
+permalink: /useful-links/students/school-graduation-certificate-sgc/
 description: ""
 third_nav_title: Students
+variant: tiptap
 ---
 # School Graduation Certificate (SGC)
 

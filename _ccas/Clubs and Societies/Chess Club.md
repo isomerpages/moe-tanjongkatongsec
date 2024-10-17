@@ -1,8 +1,9 @@
 ---
 title: Chess Club
-permalink: /ccas/Clubs-and-Societies/chess-club/
+permalink: /ccas/clubs-and-societies/chess-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: tiptap
 ---
 # Chess Club
 ## **About**

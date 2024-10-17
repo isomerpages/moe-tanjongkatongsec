@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Education
-permalink: /signature-programmes/Character-and-Citizenship/cyber-wellness-education/
+permalink: /signature-programmes/character-and-citizenship/cyber-wellness-education/
 description: ""
 third_nav_title: Character & Citizenship
 variant: markdown

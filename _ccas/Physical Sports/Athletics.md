@@ -1,6 +1,6 @@
 ---
 title: Athletics
-permalink: /ccas/Physical-Sports/athletics/
+permalink: /ccas/physical-sports/athletics/
 description: ""
 third_nav_title: Physical Sports
 variant: markdown

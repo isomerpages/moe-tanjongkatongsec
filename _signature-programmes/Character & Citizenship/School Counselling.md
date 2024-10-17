@@ -1,6 +1,6 @@
 ---
 title: School Counselling
-permalink: /signature-programmes/Character-and-Citizenship/school-counselling/
+permalink: /signature-programmes/character-and-citizenship/school-counselling/
 description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap

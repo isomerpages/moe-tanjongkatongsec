@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /ccas/Physical-Sports/netball/
+permalink: /ccas/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 variant: markdown

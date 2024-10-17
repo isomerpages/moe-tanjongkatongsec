@@ -1,8 +1,9 @@
 ---
 title: Environmental Policy
-permalink: /signature-programmes/Character-and-Citizenship/environmental-policy/
+permalink: /signature-programmes/character-and-citizenship/environmental-policy/
 description: ""
 third_nav_title: Character & Citizenship
+variant: tiptap
 ---
 # Environmental Policy
 **TK’s Environmental Policy**

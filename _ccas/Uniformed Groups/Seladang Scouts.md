@@ -1,6 +1,6 @@
 ---
 title: Seladang Scouts
-permalink: /ccas/Uniformed-Groups/selandang-scouts/
+permalink: /ccas/uniformed-groups/seladang-scouts/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown

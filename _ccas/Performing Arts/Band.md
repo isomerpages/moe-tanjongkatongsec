@@ -1,6 +1,6 @@
 ---
 title: Band
-permalink: /ccas/Performing-Arts/band/
+permalink: /ccas/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
 variant: markdown

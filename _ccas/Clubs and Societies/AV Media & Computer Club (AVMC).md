@@ -1,6 +1,6 @@
 ---
 title: AV Media & Computer Club (AVMC)
-permalink: /ccas/Clubs-and-Societies/av-media-and-computer-club-avmc/
+permalink: /ccas/clubs-and-societies/av-media-and-computer-club-avmc/
 description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
