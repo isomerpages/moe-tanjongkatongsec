@@ -35,7 +35,7 @@ Mr Roy Soh
 *   Mr Ian Chan
 *   Mr Vincent Ng
 
-## **Training Days &amp; Timings**
+## **Training Days &amp; Times**
 * Monday &amp; Wednesday: 3.30pm - 5.30pm
 * Friday: 3.00pm - 5.00pm
 
