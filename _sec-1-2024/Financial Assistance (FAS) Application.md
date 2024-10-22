@@ -2,12 +2,13 @@
 title: Financial Assistance (FAS) Application
 permalink: /sec-1-2024/financial-assistance-fas-application/
 description: ""
+variant: markdown
 ---
 # Financial Assistance (FAS) Application
 
-The MOE Financial Assistance (FAS) Application is now open for application for 2024.
+The MOE Financial Assistance (FAS) Application is now open for application for 2025.
 
-We have attached the [FAS criteria eligibility (Pamphlet)](/files/fas%20criteria%20eligibility%20(pamphlet).pdf) and [Application Form](/files/2024%20moe%20fas%20application%20form.pdf) for submission. All required documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
+We have attached the [FAS criteria eligibility (Pamphlet)](/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf) and [Application Form](/files/MOE_FAS_Application_Form_2025.pdf) for submission. All required documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
 
 **(i) eFAS (**[**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)**)**
 <img src="/images/Sec%201%202023/eFAS.jpg" style="width:25%">
@@ -15,13 +16,13 @@ We have attached the [FAS criteria eligibility (Pamphlet)](/files/fas%20criteria
 
 Both the link for eFAS and hardcopy application form is attached in this notification, including the QR code.
 
-Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link.
+Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link, by <u>**Friday, 25 October 2024**</u>.
 
 **Application strictly via hardcopy form is required for below scenario:**
 
 a.  families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)  
-b.  family with more than 5 children in govt school  
-c.  family with more than 4 unmarried children not in govt school  
+b.  family with more than 6 children in GGAS 
+c.  family with more than 5 unmarried children not in GGAS 
 d.  family with more than 3 grandparents in the household
 
 **Note:**
@@ -32,7 +33,7 @@ iii.  Please prepare all softcopy supporting documents in advance.
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
-If you have any queries, please contact the school at Tel: 63443471 or you can email us&nbsp;[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg).
+If you have any queries, please contact the school at Tel: 63443471 or you can email us at&nbsp;[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg).
 
 Parents who want to know more about MOE FAS and the eligibility checker can visit MOE website at&nbsp;[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).
 
