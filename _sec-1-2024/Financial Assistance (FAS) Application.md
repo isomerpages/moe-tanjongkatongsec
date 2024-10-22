@@ -2,6 +2,7 @@
 title: Financial Assistance (FAS) Application
 permalink: /sec-1-2024/financial-assistance-fas-application/
 description: ""
+variant: markdown
 ---
 # Financial Assistance (FAS) Application
 
@@ -20,8 +21,8 @@ Please submit the completed hardcopy FAS forms and supporting documents at the G
 **Application strictly via hardcopy form is required for below scenario:**
 
 a.  families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)  
-b.  family with more than 5 children in govt school  
-c.  family with more than 4 unmarried children not in govt school  
+b.  family with more than 6 children in GGAS 
+c.  family with more than 5 unmarried children not in GGAS 
 d.  family with more than 3 grandparents in the household
 
 **Note:**
