@@ -8,7 +8,7 @@ variant: markdown
 
 The MOE Financial Assistance (FAS) Application is now open for application for 2025.
 
-We have attached the [FAS criteria eligibility (Pamphlet)](/files/fas%20criteria%20eligibility%20(pamphlet).pdf) and [Application Form](/files/2024%20moe%20fas%20application%20form.pdf) for submission. All required documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
+We have attached the [FAS criteria eligibility (Pamphlet)](/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf) and [Application Form](/files/MOE_FAS_Application_Form_2025.pdf) for submission. All required documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
 
 **(i) eFAS (**[**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)**)**
 <img src="/images/Sec%201%202023/eFAS.jpg" style="width:25%">
