@@ -27,9 +27,9 @@ d.  family with more than 3 grandparents in the household <br>
 
 **Note:**
 
-i.  If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.  
-ii.  School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
-iii.  Please prepare all softcopy supporting documents in advance.
+i.  If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.  <br>
+ii.  School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  <br>
+iii.  Please prepare all softcopy supporting documents in advance. <br>
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
