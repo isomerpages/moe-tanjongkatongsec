@@ -7,8 +7,11 @@ variant: markdown
 ---
 # Purchase of Books, PE Attire and School Uniform 2024
 
-[Download S1 Booklist 2024](/files/Booklist/s1%20booklist%202024.pdf)<br>
-[Download S2 Booklist 2024](/files/Booklist/s2%20booklist%202024.pdf)<br>[Download S3 Booklist 2024](/files/Booklist/s3%20booklist%202024.pdf)<br>[Download S4 Booklist 2024](/files/Booklist/s4%20booklist%202024.pdf)<br>[Download Uniform Order Form](/files/Booklist/tkss%20uniform%20order%20form%202024.pdf)<br>
+[Download S1 Booklist 2025](/files/S1_2025_BOOKLIST.pdf)<br>
+[Download S2 Booklist 2025](/files/S2_2025_BOOKLIST.pdf)<br>
+[Download S3 Booklist 2025](/files/S3_BOOKLIST_2025.pdf)<br>
+[Download S4 Booklist 2025](/files/S4_BOOKLIST_2025.pdf)<br>
+[Download Uniform Order Form](/files/TKSS___Uniform_Order_Form_2025.pdf) <br>
 
 **<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2024</u>**
 
