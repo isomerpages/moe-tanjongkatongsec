@@ -16,20 +16,20 @@ We have attached the [FAS criteria eligibility (Pamphlet)](/files/Document_4a_MO
 
 Both the link for eFAS and hardcopy application form is attached in this notification, including the QR code.
 
-Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link, by <u>**Friday, 25 October 2024**</u>.
+Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link, by **Friday, 25 October 2024**.
 
 **Application strictly via hardcopy form is required for below scenario:**
 
-a.  families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)  
-b.  family with more than 6 children in GGAS 
-c.  family with more than 5 unmarried children not in GGAS 
-d.  family with more than 3 grandparents in the household
+a.  families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
+b.  family with more than 6 children in GGAS <br>
+c.  family with more than 5 unmarried children not in GGAS <br> 
+d.  family with more than 3 grandparents in the household <br>
 
 **Note:**
 
-i.  If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.  
-ii.  School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
-iii.  Please prepare all softcopy supporting documents in advance.
+i.  If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.  <br>
+ii.  School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  <br>
+iii.  Please prepare all softcopy supporting documents in advance. <br>
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
