@@ -16,12 +16,13 @@ variant: markdown
 **<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2024</u>**
 
 Dear Parents/Guardians, 
-1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2024, School is continuing to offer online sales and delivery services, with the option for self-collection in school with appointments. 
-2. Parents/guardians of S2-S4 cohorts of the next academic year are strongly advised to place orders by end-November to ensure timely deliveries and to avoid the peak sales period in the last two weeks of December to avoid a last-minute rush to purchase books and uniforms. 
-3. To support the bookshop and uniform vendors in their sales and crowd management at their retail stores with interaction, Parents/guardians &amp; students are to adhere to the queue management set up by the school and the vendor. 
+1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2025, School will continue to offer online sales and delivery services, with the option for self-collection in school with appointments. 
+2. Parents/guardians are strongly advised to purchase school items online at [https://www.pacificbookstores.com](https://www.pacificbookstores.com) with option for home delivery (fixed delivery charge of $14.90 applies). The online ordering system is available from 4 Nov 2024 to 14 Dec 2024. Please refer to the booklist &amp; uniform list given to your child/ward and follow the steps outlines to transact online.
+3. Parents/guardians of S2-S4 cohorts of the next academic year are strongly advised to place orders by end-November to ensure timely deliveries and to avoid the peak sales period in the last two weeks of December to avoid a last-minute rush to purchase books and uniforms.
 4. School will provide book and uniform lists with relevant information to parents/guardians before the end of term to the students. 
-5. Size chart with guide on taking measurements will be given and students will need to purchase using these measurements. 
-6. For students who have not received their uniform by 1 Jan 2025, they may report to school in primary school PE attire on 2 Jan 2025.
+5. Students who are on FAS will have to come down to the General Office with their booklist to collect their Approved FAS letter.
+6. FAS Self-Collections will be available on **6 Dec 2024 and 10 Dec 2024** at school bookstore. **Only 1 parent is allowed to accompany the student.** All collections are strictly by scheduled appointed time slots. Vendor will contact directly once FAS applications are confirmed and approved by School for ordering arrangements or walk in purchase on 6 Dec 2024 and 10 Dec 2024.
+7.  For students who have not received their uniform by 1 Jan 2025, they may report to school in primary school PE attire on 2 Jan 2025.
 
 Please note the following:<br>**TKSS Sales of School Textbooks, School Uniform &amp; PE Attires**
 
