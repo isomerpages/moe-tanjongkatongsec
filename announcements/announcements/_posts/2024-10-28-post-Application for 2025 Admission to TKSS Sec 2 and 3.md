@@ -22,7 +22,7 @@ Please submit the following for your application:
 			2. Results of Sec 1 End of Year School Examinations (Overall)<br>
 			3. Results of Sec 2 End of Year School Examinations (Overall)
 
-Only shortlisted applicants will be informed by <u>**13 November 2024.**</u>
+Only shortlisted applicants will be informed by **<u>13 November 2024.</u>**
 
 You are to submit the abovementioned documents and the completed application form directly to the TKSS General Office. The office is open from <u>8.00am to 5.00pm</u> on weekdays and **is closed on weekends.**<br>
 Please note that incomplete application forms will **not** be processed.
