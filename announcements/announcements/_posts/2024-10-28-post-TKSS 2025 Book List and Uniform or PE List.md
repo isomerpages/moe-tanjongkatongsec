@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-# TKSS 2024 Book List and Uniform/PE List
-
-
-<a href="/useful-links/Parents/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2024/" target="_blank">Instructions to Purchase of Books, PE Attire and School Uniform 2024</a>
+<h1>TKSS 2024 Book List and Uniform/PE List</h1>
+<p><a href="/useful-links/Parents/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2025/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Purchase of Books, PE Attire and School Uniform 2024</a>
+</p>
