@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-# Purchase of Books, PE Attire and School Uniform 2024
+# Purchase of Books, PE Attire and School Uniform 2025
 
 [Download S1 Booklist 2025](/files/S1_2025_BOOKLIST.pdf)<br>
 [Download S2 Booklist 2025](/files/S2_2025_BOOKLIST.pdf)<br>
@@ -13,7 +13,7 @@ variant: markdown
 [Download S4 Booklist 2025](/files/S4_BOOKLIST_2025.pdf)<br>
 [Download Uniform Order Form](/files/TKSS___Uniform_Order_Form_2025.pdf) <br>
 
-**<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2024</u>**
+**<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2025</u>**
 
 Dear Parents/Guardians, 
 1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2025, School will continue to offer online sales and delivery services, with the option for self-collection in school with appointments. 
