@@ -2,9 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Personal Learning Device (PLD)/Parents Resources.md
-      - Personal Learning Device (PLD)/Personal Learning Device (PLD).md
-      - Personal Learning Device (PLD)/.keep
       - Parents/.keep
       - Parents/2024 MOE FAS Application Exercise.md
       - Parents/Direct School Admission (DSA).md
@@ -12,6 +9,9 @@ collections:
       - Parents/Leave of Absence (LOA).md
       - Parents/Parents.md
       - Parents/Purchase of Books, PE Attire and School Uniform 2025.md
+      - Personal Learning Device (PLD)/.keep
+      - Personal Learning Device (PLD)/Parents Resources.md
+      - Personal Learning Device (PLD)/Personal Learning Device (PLD).md
       - Students/.keep
       - Students/Students.md
       - School Calendar.md
