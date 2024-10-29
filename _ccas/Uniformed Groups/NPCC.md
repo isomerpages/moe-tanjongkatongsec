@@ -76,5 +76,5 @@ Dian Fransiska (3A)
 
 *   **Miss Joanne Lim**
 *   Mr Brian Tan
-*   Mr Kelvin Yong
 *   Mr Peh Chu Ming
+*   Mdm Jayne Ng
