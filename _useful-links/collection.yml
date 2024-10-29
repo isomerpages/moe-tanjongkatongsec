@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents Resources.md
       - Personal Learning Device (PLD).md
       - Parents/.keep
       - Parents/2024 MOE FAS Application Exercise.md
