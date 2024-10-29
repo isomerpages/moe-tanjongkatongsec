@@ -3,6 +3,7 @@ title: Direct School Admission (DSA)
 permalink: /useful-links/dsa/
 description: ""
 variant: tiptap
+third_nav_title: Parents
 ---
 <h1>Direct School Admission (DSA)</h1>
 <p><strong>Direct School Admission to Sec 1 2024 Intake</strong>
