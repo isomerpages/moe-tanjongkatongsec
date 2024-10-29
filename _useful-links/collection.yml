@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents/Parents Resources.md
       - Parents/Direct School Admission (DSA).md
       - Parents/.keep
       - Parents/Parents.md
