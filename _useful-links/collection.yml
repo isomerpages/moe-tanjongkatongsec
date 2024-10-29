@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents Resources/Parents Resources.md
       - Parents Resources/.keep
       - Personal Learning Device (PLD).md
       - Parents/.keep
