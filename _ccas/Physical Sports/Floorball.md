@@ -11,7 +11,7 @@ variant: markdown
 ## **About**
 
 
-Tanjong Katong Secondary was one of the pioneering schools to start the floorball CCA in 2011. Ever since then, we have gone from strength to strength, even clinching double champions          twice in 2018 and 2019!
+Tanjong Katong Secondary was one of the pioneering schools to start the floorball CCA in 2011. Ever since then, we have gone from strength to strength, even clinching double champions twice in 2018 and 2019!
 
 TK Floorball aims to develop not only the girls’ technicalities, but we also strongly believe in character building. Through the programme planned for them, we hope to develop every member to become a confident, resilient and flexible person. At the same time, they will understand the importance of respect and teamwork.
 
@@ -19,6 +19,8 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
 
 *   **Miss Ermawati**
 *   Ms Syafeena
+*   Ms Marliyana
+*   Ms Zhao Zixi
 
 
 **Achievements**
