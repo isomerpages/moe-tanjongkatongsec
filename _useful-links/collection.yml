@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Resources/.keep
-      - Parents Resources.md
       - Personal Learning Device (PLD).md
       - Parents/.keep
       - Parents/2024 MOE FAS Application Exercise.md
