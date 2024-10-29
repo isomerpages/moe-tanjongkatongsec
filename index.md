@@ -25,11 +25,4 @@ sections:
         values to lead...
       button: MORE
       url: /for-students/
-  - infobar:
-      title: TEACHERS
-      description: Dedicated and nurturing teachers who inculcate sound values and
-        inspire passion for life-long learning. As a team, we continually learn
-        and grow to achieve...
-      button: MORE
-      url: /for-teachers/
 ---
