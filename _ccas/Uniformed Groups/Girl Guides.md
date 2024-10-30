@@ -46,7 +46,6 @@ Ashmita Ghale (3B)
 ## **Teachers-in-Charge**
 
 *   **Miss Cherlyn Tan**
-*   Ms Marliyana Lim
 *   Ms Siti Sapiya
 *   Ms Ng Bi Ru
 *   Ms Nur Khairiyyah
