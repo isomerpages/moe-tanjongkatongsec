@@ -9,4 +9,4 @@ variant: markdown
 ---
 # Application for 2025 Admission to TKSS – CLOSED
 
-Application for admission to Sec 2 and Sec 3 (2025) is now CLOSED.
+Application for admission to Sec 2 and Sec 3 (2025) is now **CLOSED**.
