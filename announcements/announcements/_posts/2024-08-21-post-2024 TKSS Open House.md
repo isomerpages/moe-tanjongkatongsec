@@ -21,6 +21,3 @@ November 2024 is now out!</p>
 <br>Visitors are advised to enter the school premises via the main gate.</p>
 <p>We will not be able to accept more cars, so all drivers are advised to
 park at the nearest carpark at Haig Rd, Block 1, Singapore 429746.</p>
-<p></p>
-<p><a href="https://tksec.padlet.org/embed/epmv2ugs1c231y2y" rel="noopener nofollow" target="_blank">Padlet FAQ and Open House Programme</a>
-</p>
