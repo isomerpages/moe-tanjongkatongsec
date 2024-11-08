@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p>We are excited to announce that the programme for our Open House on 16
 November 2024 is now out!</p>
-<p><a href="https://tksec.padlet.org/embed/epmv2ugs1c231y2y" rel="noopener noreferrer nofollow" target="_blank">2024 TKSS Open House FAQ</a>
+<p><a href="https://tksec.padlet.org/embed/epmv2ugs1c231y2y" rel="noopener noreferrer nofollow" target="_blank">2024 TKSS Open House Details &amp; FAQ</a>
 </p>
 <p>Please note:
 <br>Visitors are advised to enter the school premises via the main gate.</p>
