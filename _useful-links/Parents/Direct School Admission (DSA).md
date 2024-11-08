@@ -237,8 +237,7 @@ on DSA for admission to Secondary Schools:</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -247,8 +246,7 @@ on DSA for admission to Secondary Schools:</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
