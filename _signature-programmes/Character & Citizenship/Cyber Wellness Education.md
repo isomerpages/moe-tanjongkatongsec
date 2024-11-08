@@ -42,7 +42,7 @@ Parents may refer to&nbsp;the following resources for a list of guides and tips,
 
 |                                   |                                                                                            |
 |-----------------------------------|--------------------------------------------------------------------------------------------|
-| **Ministry of Education**            | [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)                                           |
+| **Ministry of Education**            |  [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)                                         |
 | **Cyber Security Agency**             | [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)                                                        |
 | **Media Literacy Council**            | [https://www.mlc.sg/](https://www.mlc.sg/) |
 | **National Crime Prevention Council** | [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)            |
