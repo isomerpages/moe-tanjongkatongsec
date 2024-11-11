@@ -18,7 +18,8 @@ variant: tiptap
 <p><strong>Open House Programme is out!</strong>
 </p>
 <p>We are excited to announce that the programme for our Open House on 16
-November 2024 is now <a href="https://tksec.padlet.org/pang_chau_choon/2024-tkss-open-house-faq-epmv2ugs1c231y2y" rel="noopener nofollow" target="_blank">out here!</a>
+November 2024 is now out!</p>
+<p>You may find the FAQs and programme details <a href="https://tksec.padlet.org/pang_chau_choon/2024-tkss-open-house-faq-epmv2ugs1c231y2y" rel="noopener nofollow" target="_blank">here!</a>
 </p>
 <p>Please note:
 <br>Visitors are advised to enter the school premises via the main gate.</p>
