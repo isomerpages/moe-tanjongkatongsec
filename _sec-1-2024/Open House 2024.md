@@ -18,7 +18,8 @@ variant: tiptap
 <p><strong>Open House Programme is out!</strong>
 </p>
 <p>We are excited to announce that the programme for our Open House on 16
-November 2024 is now out!</p>
+November 2024 is now <a href="go.gov.sg/tkssopenhouse2024" rel="noopener nofollow" target="_blank">out here!</a>
+</p>
 <p>Please note:
 <br>Visitors are advised to enter the school premises via the main gate.</p>
 <p>We will not be able to accept more cars, so all drivers are advised to
