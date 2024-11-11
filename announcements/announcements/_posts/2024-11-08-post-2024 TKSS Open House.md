@@ -15,8 +15,9 @@ variant: markdown
 </p>
 <p>We are excited to announce that the programme for our Open House on 16
 November 2024 is now out!</p>
-<p><a href="https://go.gov.sg/tkssopenhouse2024" rel="noopener nofollow" target="_blank">TKSS Open House details &amp; FAQ</a>
-</p>
+
+[TKSS Open House details &amp; FAQ](https://tksec.padlet.org/pang_chau_choon/2024-tkss-open-house-faq-epmv2ugs1c231y2y)
+
 <p>Please note:
 <br>Visitors are advised to enter the school premises via the main gate.</p>
 <p>We will not be able to accept more cars, so all drivers are advised to
