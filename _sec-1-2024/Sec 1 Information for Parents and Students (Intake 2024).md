@@ -4,23 +4,23 @@ permalink: /sec-1-2024/registration-for-newly-posted-secondary-one-students/
 description: ""
 variant: markdown
 ---
-# Sec 1 Information for Parents and Students (Intake 2024)
+# Sec 1 Information for Parents and Students (Intake 2025)
 
 [![](/images/Sec%201%202023/Academic-year-2022.png)](/images/Sec%201%202023/Academic-year-2022.png)
 
-### **Academic Year 2024**
+### **Academic Year 2025**
 
 **Welcome Note from Principal to Sec 1 Parents and Students**
 
 My staff and I warmly welcome you and your child to be part of the TK family!
 
-The next four years of Secondary School education will mark another significant milestone for your child. This journey will be both exciting and fulfilling as TK provides a safe and nurturing environment and holistic learning experiences that aim to inculcate values, socio-emotional competencies and their intrinsic motivation to learn and grow. Our team of dedicated and caring staff will be alongside with your child to provide the necessary support and guidance to equip them with the skills and mindset to thrive in the new environment. I will be elaborating more on the school programmes, curriculum and learning support structures during the Parent Engagement cum CCA briefing Session on&nbsp;**13 January, 8.30 am**. More details will be made available at a later date via Parents Gateway.
+The next four years of Secondary School education will mark another significant milestone for your child. This journey will be both exciting and fulfilling as TK provides a safe and nurturing environment and holistic learning experiences that aim to inculcate values, socio-emotional competencies and their intrinsic motivation to learn and grow. Our team of dedicated and caring staff will be alongside with your child to provide the necessary support and guidance to equip them with the skills and mindset to thrive in the new environment. I will be elaborating more on the school programmes, curriculum and learning support structures during the Sec 1 Investiture Parent Engagement Session on&nbsp;**18 January, 8.30 am**. More details will be made available at a later date via Parents Gateway.
 
 Please do approach our staff members should you need any form of support with regard to the registration administrative matters. We look forward to working in partnership with you to develop your child to his or her fullest potential.
 
 _Mrs Dolly Ong, Principal, TKSS_
 
-### **Secondary One Registration Exercise 2023**
+### **Secondary One Registration Exercise 2025**
 
 **No Registration is required for newly posted Secondary One students**
 
@@ -28,7 +28,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 **Steps**
 1. Open the Parents Gateway app
 2. There are 4 icons at the bottom of the app; 'Home', 'Contacts', 'Services' and 'Profile'. Click on 'Contacts'.
-3. Your child's school and class will be reflected by 30th December 2023.
+3. Your child's school and class will be reflected by 30th December 2025.
 4. You can also get the contact of your child's form teachers and CCA teachers when you proceed to select 'School Contact details' for your child.
 
 ### **Important Information for Sec 1 students and parents**
@@ -37,7 +37,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 *   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
 
-### **First Day of School for Secondary One 2024**
+### **First Day of School for Secondary One 2025**
 
 |                  |                                                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -49,14 +49,14 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 **Sec 1 Orientation Programme**
 
-*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2 - 4 January 2024**. Please note that students will be dismissed at 1310.
+*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2 - 6 January 2025**. Please note that students will be dismissed at 1310.
 *   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
 *   You may like to download the[Orientation Programme](/files/Sec1%202023/sec%201%20orientation%202024%20for%20students.pdf). A copy will be also sent via Parents Gateway.
 
 ### **Student Smart Card (SSC) for concessionary travel**
 
-*   All students entering Secondary One in January 2024 will be issued with a new Secondary level School Smart Cards (SSC)
-*   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2024.
+*   All students entering Secondary One in January 2025 will be issued with a new Secondary level School Smart Cards (SSC)
+*   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2025.
 
 ### **Transport to School**
 
