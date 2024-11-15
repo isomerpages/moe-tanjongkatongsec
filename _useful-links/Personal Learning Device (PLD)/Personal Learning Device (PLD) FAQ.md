@@ -61,12 +61,9 @@ Tai Seng Centre will still remain operational as a drop off location, but custom
 (a) Parents/students to  
 &nbsp; &nbsp; &nbsp; i. make a police report,  
 &nbsp; &nbsp; &nbsp;ii. contact Lenovo helpdesk for device issues at 800 852 8100 or whatsapp 67036821 and  
-&nbsp; &nbsp; iii. inform the school.
-
-Register as a new user (Student ICON email) in order to access the portal. To access the portal, click&nbsp;[here](https://www.asiapac.com.sg/pld-lenovo/account/login).
-
-(b) The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.  
-(c) If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.
+&nbsp; &nbsp; iii. inform the school.<br>
+(b) The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.<br>
+(c) If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.<br>
 
 **5\. Can my child bring his/her own device?**  
 The school strongly encourages parents to purchase the recommended PLD. Different OS could lead to compatibility issues and disruptions to the classroom learning experience. Device Management Application compatibility issues could make it challenging for the school to monitor, manage and secure the PLDs. (Please also note that the data in your own device will be wiped out before the installation of DMA.)
