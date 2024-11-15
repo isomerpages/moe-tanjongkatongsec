@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Information for Parents and Students (Intake 2024)
-permalink: /sec-1-2024/registration-for-newly-posted-secondary-one-students/
+title: Sec 1 Information for Parents and Students (Intake 2025)
+permalink: /sec-1-2025/registration-for-newly-posted-secondary-one-students/
 description: ""
 variant: markdown
 ---
@@ -28,7 +28,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 **Steps**
 1. Open the Parents Gateway app
 2. There are 4 icons at the bottom of the app; 'Home', 'Contacts', 'Services' and 'Profile'. Click on 'Contacts'.
-3. Your child's school and class will be reflected by 30th December 2025.
+3. Your child's school and class will be reflected by 30th December 2024.
 4. You can also get the contact of your child's form teachers and CCA teachers when you proceed to select 'School Contact details' for your child.
 
 ### **Important Information for Sec 1 students and parents**
