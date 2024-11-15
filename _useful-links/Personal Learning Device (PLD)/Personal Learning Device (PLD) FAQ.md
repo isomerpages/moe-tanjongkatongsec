@@ -26,7 +26,7 @@ Lenovo will be transitioning to a new service centre provider, **Servlink**, to 
 Please refer to the information below:
 
 **New Service Centre Location:**<br>
-Servlink Technologies – Lenovo Authorised Service Centre 
+Servlink Technologies – Lenovo Authorised Service Centre<br>
 Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
 
 **How do students get to the new service centre?**<br>
