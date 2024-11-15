@@ -44,10 +44,9 @@ variant: markdown
 
 **Request to transfer to another school**
 
-*   Students who wish to apply for a transfer to another school on&nbsp;**medical grounds**&nbsp;are to submit the request in person at the General Office with the necessary supporting documents by&nbsp;<b><u>23 December, 12pm.</u></b>
 *   Application without supporting documents, incomplete form or late submission will not be processed.
 
 *   Students who wish to transfer to another school for reasons other than those above may approach the other school directly for a place.
 
 For more enquiries on appeal or transfer matters, please email to 
-[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg), or contact our Administration Manager Ms Siti Aishah or Admin CSO Ms Harbalbir Raj Kaur at Tel: 63443471 during office hours.
+[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg), or contact our Administration Manager Ms Cynthia Loke or Admin CSO Ms Harbalbir Raj Kaur at Tel: 63443471 during office hours.
