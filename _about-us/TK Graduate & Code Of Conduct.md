@@ -8,8 +8,9 @@ variant: tiptap
 <p><strong><u>TK Graduate</u></strong>
 </p>
 <p>The TK Graduate is self-directed in learning and passionate in all he
-undertakes. Confident, resilient and flexible, he is guided by sound values
-to lead and contribute to school, nation and the global community.</p>
+undertakes. Confident, resilient, adaptable and compassionate, he is guided
+by sound values to lead and contribute to school, nation and the global
+community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20us/1-2.jpg">
 </div>
