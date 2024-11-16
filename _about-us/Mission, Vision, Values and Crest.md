@@ -7,7 +7,7 @@ variant: markdown
 # Mission, Vision, Values and Crest
 
 #### Mission
-To inspire and empower TKsians to be confident, resilient and future-ready leaders who are anchored by sound values to actively contribute to the betterment of the society.
+To inspire and empower TKsians to be confident, resilient and future-ready leaders who are anchored by sound values to actively contribute to the betterment of society.
 
 #### Vision
 TKsians are confident, resilient, future-ready leaders, innovative, adaptive thinkers and compassionate citizens who strive for excellence to impact and contribute to society.
