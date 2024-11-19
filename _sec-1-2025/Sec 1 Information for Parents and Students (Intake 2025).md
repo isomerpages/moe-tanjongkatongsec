@@ -43,15 +43,14 @@ _Mrs Dolly Ong, Principal, TKSS_
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | **Reporting Time:**  | 0720                                                                                                                         |
 | **Dismissal:**       | 1310                                                                                                                          |
-| **Venue:**           | Sec 1 classrooms at Level 4                                                                                                               |
+| **Venue:**           | Sec 1 classrooms at Level 4 (Blocks B &amp; C)                                                                                                              |
 | **Attire:**          | TK Uniform or Primary School Uniform                                                                                              |
 | **Things to bring:** | Water bottle<br>Stationery<br>Working thermometer<br>Additional mask<br>School Tie<br>Sufficient money for recess and lunch break |
 
 **Sec 1 Orientation Programme**
-
-*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 Orientation programme will be held on&nbsp;**2 - 6 January 2025**. Please note that students will be dismissed at 1310.
+*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 3-day Orientation programme will be held on&nbsp;**2nd, 3rd &amp; 6th January 2025**. Please note that students will be dismissed at 1310.
 *   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
-*   You may like to download the[Orientation Programme](/files/Sec1%202023/sec%201%20orientation%202024%20for%20students.pdf). A copy will be also sent via Parents Gateway.
+*   You may like to download the [Orientation Programme](/files/S1OP.pdf). A copy will be also sent via Parents Gateway.
 
 ### **Student Smart Card (SSC) for concessionary travel**
 
@@ -67,10 +66,6 @@ _Mrs Dolly Ong, Principal, TKSS_
 
 **Nearest MRT Station:**&nbsp;Paya Lebar &amp; Dakota Station
 
-**Bus Services:**&nbsp;16, 33 (Dunman Road beside/opposite TK side&nbsp;gate) 10, 31 , 32&nbsp;, 40 , 76 , 135 , 197 (Tanjong Katong Road)
-
-### **Appearance and School Attire Requirements**
-
-Please refer to the following link:
-
-[/about-us/tk-graduate/](/about-us/tk-graduate/)
+**Bus Services:**<br>
+16, 33 (Dunman Road beside/opposite TK side&nbsp;gate)<br>
+10, 31, 32, 40, 76, 135, 197 (Tanjong Katong Road)
