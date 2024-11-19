@@ -50,7 +50,7 @@ _Mrs Dolly Ong, Principal, TKSS_
 **Sec 1 Orientation Programme**
 *   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 3-day Orientation programme will be held on&nbsp;**2nd, 3rd &amp; 6th January 2025**. Please note that students will be dismissed at 1310.
 *   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
-*   You may like to download the [Orientation Programme](/files/S1OP.pdf). A copy will be also sent via Parents Gateway.
+*   You may like to download the [Orientation Programme](/files/s1op2025.pdf). A copy will be also sent via Parents Gateway.
 
 ### **Student Smart Card (SSC) for concessionary travel**
 
