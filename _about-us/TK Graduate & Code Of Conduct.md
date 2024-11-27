@@ -64,7 +64,8 @@ before the end of recess to prepare for the next lesson.</p>
 </ol>
 <p><strong>2) Classroom and Study Routines</strong>
 </p>
-<p>2.1) General classroom routines</p>
+<p><strong>2.1) General classroom routines</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Help the subject teacher to begin and end lessons on time.</p>
@@ -96,7 +97,8 @@ lessons.</p>
 especially when no one else is in the classroom.</p>
 </li>
 </ol>
-<p>2.2) Start of Lesson</p>
+<p><strong>2.2) Start of Lesson</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Greet teacher/guest after the command signal by the class Chairmen.</p>
@@ -105,10 +107,10 @@ especially when no one else is in the classroom.</p>
 <p>Have all the learning materials for the subject ready on your table. There
 should be no sharing of learning materials. Bags should not be placed on
 the tables.</p>
-<p></p>
 </li>
 </ol>
-<p>2.3) During lesson</p>
+<p><strong>2.3) During lesson</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Quieten down quickly and pay attention when your teacher signals for attention.</p>
@@ -136,7 +138,8 @@ and for further review after lessons.</p>
 <p>Be on your best behaviour at all times.</p>
 </li>
 </ol>
-<p>2.4) During lesson (Group work)</p>
+<p><strong>2.4) During lesson (Group work)</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Help arrange the class to get into group work seating arrangement upon
@@ -151,7 +154,8 @@ rules set.</p>
 out responsibilities well.</p>
 </li>
 </ol>
-<p>2.5) End of Lesson (last 5 minutes of period)</p>
+<p><strong>2.5) End of Lesson (last 5 minutes of period)</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Seek to understand the key points of lesson.</p>
@@ -172,7 +176,8 @@ out responsibilities well.</p>
 <p>Proceed to prepare for the next lesson promptly.</p>
 </li>
 </ol>
-<p>2.6) Homework/Study Routines</p>
+<p><strong>2.6) Homework/Study Routines</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>All work given must be completed on time. Copying of work and allowing
