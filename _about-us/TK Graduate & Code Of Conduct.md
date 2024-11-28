@@ -29,7 +29,7 @@ in TK.</p>
 <p>Exercise self-respect by being properly attired at all times.</p>
 </li>
 <li>
-<p>Keep school clean.</p>
+<p>Keep the school clean.</p>
 </li>
 <li>
 <p>No food or drinks, except plain water, is to be consumed outside the canteen.</p>
@@ -101,7 +101,7 @@ especially when no one else is in the classroom.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Greet teacher/guest after the command signal by the class Chairmen.</p>
+<p>Greet teacher/guest after the command signal by the class Chairman.</p>
 </li>
 <li>
 <p>Have all the learning materials for the subject ready on your table. There
@@ -143,7 +143,7 @@ and for further review after lessons.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Help arrange the class to get into group work seating arrangement upon
-teacher’s instructions.</p>
+the teacher’s instructions.</p>
 </li>
 <li>
 <p>Understand the objective and nature of group activity as well as ground
@@ -184,7 +184,7 @@ out responsibilities well.</p>
 others to copy work is considered as cheating.</p>
 </li>
 <li>
-<p>All notes, assignments and assessments are to be filled neatly by subjects
+<p>All notes, assignments and assessments are to be filed neatly by subjects
 to facilitate review and revision.</p>
 </li>
 <li>
