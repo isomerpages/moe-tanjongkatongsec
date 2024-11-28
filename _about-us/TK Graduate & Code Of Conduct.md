@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>TK Graduate &amp; Code Of Conduct</h1>
-<p><strong><u>TK Graduate</u></strong>
-</p>
+<h4><strong><u>TK Graduate</u></strong></h4>
 <p>The TK Graduate is self-directed in learning and passionate in all he
 undertakes. Confident, resilient, adaptable and compassionate, he is guided
 by sound values to lead and contribute to school, nation and the global
