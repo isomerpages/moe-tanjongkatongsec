@@ -2,13 +2,45 @@
 title: Teachers
 permalink: /for-teachers/
 description: ""
+variant: markdown
 ---
-# Links for MOE intranet, digital resource, ICONnect, asknlearn broken
-# Teachers
+Teachers
+========
 
-*   <a href="http://intranet.moe.gov.sg/" target="_blank">MOE Intranet</a>
-*   <a href="http://www.academyofsingaporeteachers.moe.gov.sg/" target="_blank">Digital Resource</a>
-*   <a href="https://icon.moe.edu.sg/saas/usercenter/index.do/" target="_blank">ICONnect</a>
-*   <a href="http://www.straitstimes.com/" target="_blank">Straits Times Interactive</a>
-*   <a href="http://lms.asknlearn.com/tkss" target="_blank">ASKNLearn LMS</a>
-*   <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a>
+*   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
+    
+*   [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+    
+*   [HRMS](https://www.hrp.gov.sg/hrp/#/)
+    
+*   [Icon 2.0](https://icon.moe.edu.sg/)
+    
+*   [iExams](https://iexams.seab.gov.sg/)
+    
+*   [Ministry of Education](https://www.moe.gov.sg/)
+    
+*   [MOE Intranet](https://intranet.moe.gov.sg/)
+    
+*   [MOE Sports and Recreation Club](https://www.mesrc.net/)
+    
+*   [MySkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+    
+*   [One Portal All Learners (OPAL 2.0)](https://idm.opal2.moe.edu.sg/)
+    
+*   [Parents Gateway](https://pg.moe.edu.sg/)
+    
+*   [Resource Booking System](https://rbs.avero-tech.com/)
+    
+*   [READ@Academy](https://readacademy.moe.edu.sg/)
+    
+*   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
+    
+*   [SchoolBag](https://www.schoolbag.sg/)
+    
+*   [SC Mobile](https://scmobile.moe.edu.sg/)
+    
+*   [Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)
+    
+*   [Straits Times Interactive](http://www.straitstimes.com/)
+    
+*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
