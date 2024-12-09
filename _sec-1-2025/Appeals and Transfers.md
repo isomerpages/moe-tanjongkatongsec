@@ -24,11 +24,11 @@ variant: markdown
 
 **Application period and procedure for appeal to TKSS:**
 
-*   The application period is&nbsp;<b><u>from the&nbsp;day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1700 hours.</u></b>
+*   The application period is&nbsp;<b><u>from the&nbsp;day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1200 hours.</u></b>
 
 *   For appeal to TK, please follow the steps below:
 
-1\.  Go to [http://go.gov.sg/tkss2023s1appeal](http://go.gov.sg/tkss2023s1appeal)
+1\.  Go to [http://go.gov.sg/tkss-sec1-appeal](http://go.gov.sg/tkss-sec1-appeal)
 
 2\.  Complete all fields. Supporting documents are to be uploaded via the same link.
 
