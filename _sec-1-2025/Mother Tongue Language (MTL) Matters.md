@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language (MTL) Matters
-permalink: /sec-1-2024/mother-tongue-language-mtl-matters/
+permalink: /sec-1-2025/mother-tongue-language-mtl-matters/
 description: ""
 variant: markdown
 ---

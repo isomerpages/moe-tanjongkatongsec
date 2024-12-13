@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance (FAS) Application
-permalink: /sec-1-2024/financial-assistance-fas-application/
+permalink: /sec-1-2025/financial-assistance-fas-application/
 description: ""
 variant: markdown
 ---

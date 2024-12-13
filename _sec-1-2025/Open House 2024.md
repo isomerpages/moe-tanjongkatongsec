@@ -1,6 +1,6 @@
 ---
 title: Open House 2024
-permalink: /sec-1-2024/openhouse2024/
+permalink: /sec-1-2025/openhouse2024/
 description: ""
 variant: tiptap
 ---

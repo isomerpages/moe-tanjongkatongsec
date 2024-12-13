@@ -1,6 +1,6 @@
 ---
 title: Appeals and Transfers
-permalink: /sec-1-2024/appeals-and-transfers/
+permalink: /sec-1-2025/appeals-and-transfers/
 description: ""
 variant: markdown
 ---
@@ -24,7 +24,7 @@ variant: markdown
 
 **Application period and procedure for appeal to TKSS:**
 
-*   The application period is&nbsp;<b><u>from the&nbsp;day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1200 hours.</u></b>
+*   The application period is&nbsp;<b><u>from the&nbsp;day of release of Secondary 1 Posting results (0900 hours) to 23 December, 1700 hours.</u></b>
 
 *   For appeal to TK, please follow the steps below:
 
