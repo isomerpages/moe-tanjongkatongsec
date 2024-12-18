@@ -13,7 +13,7 @@ variant: markdown
 *   School admissions are based on merit in the Secondary 1 Posting Exercise. Posting decisions are based on objective and transparent measures of academic merit i.e. PSLE scores. Appeals that take place after the S1 Posting Exercise must be aligned to these principles, in order to be fair to other admitted students.  
       
     
-*   Primary 6 students who have applied to TKSS during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to TKSS. These students appealing for admission to TK after the release of the Secondary 1 Posting result have to meet the school’s cut-off point (COP). The cut-off points for Tanjong Katong Secondary School this year are as follows : PG 3 : 12 and PG 2 : 22 (\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)  
+*   Primary 6 students who have applied to TKSS during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to TKSS. These students appealing for admission to TK after the release of the Secondary 1 Posting result have to meet the school’s cut-off point (COP). The cut-off points for Tanjong Katong Secondary School this year are as follows: <br> PG 3 : 12 and PG 2 : 22 <br>(\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)  
       
     
 
