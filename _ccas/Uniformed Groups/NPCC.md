@@ -74,7 +74,6 @@ Dian Fransiska (3A)
 
 ## **Teachers-in-Charge**
 
-*   **Miss Joanne Lim**
-*   Mr Brian Tan
-*   Mr Peh Chu Ming
+*   **Mr Brian Tan**
 *   Ms Ng Shi Ming
+*   Mr Kenneth Lim
