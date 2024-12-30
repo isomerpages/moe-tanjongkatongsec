@@ -18,9 +18,8 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
 **Teachers-in-Charge**
 
 *   **Miss Ermawati**
+*   Ms Marliyana Lim
 *   Ms Syafeena
-*   Ms Marliyana
-*   Ms Zhao Zixi
 
 
 **Achievements**
