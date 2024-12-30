@@ -24,6 +24,6 @@ Darren Chan (3D)
 
 ## **Teachers-in-Charge**
 
-*   **Ms Liz Sriyanty**
+*   **Ms Anisah Hassan**
 *   Ms Foo Wen Hui
 *   Ms Sri Nabilah
