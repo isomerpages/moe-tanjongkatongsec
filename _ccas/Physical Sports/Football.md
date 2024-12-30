@@ -33,7 +33,7 @@ Mr Roy Soh
 *   **Mr Colin Chew**
 *   Mr Roy Soh
 *   Mr Ian Chan
-*   Mr Vincent Ng
+
 
 ## **Training Days &amp; Times**
 * Monday &amp; Wednesday: 3.30pm - 5.30pm
