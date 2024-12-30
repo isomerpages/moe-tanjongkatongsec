@@ -18,6 +18,6 @@ Siti Nur Sabrina Bte Yusri (3C)
 
 ## **Teachers-in-Charge**
 
-*   **Ms Nur Izyan**&nbsp;
-*   Mr Hareesh
-*   Ms Suriyani
+*   **Mr Hareesh s/o Methil Bhaskaran**
+*   Ms Tan Mui Mui
+*   Ms Arista Pang
