@@ -15,5 +15,5 @@ TK NCC (Land) consistently upholds its status as a quality Gold Unit, having ear
 
 ## **Teachers-in-Charge**
 *   **Mr Mohammed Yusoff**
-*   Miss Estee Goh
+*   Ms Estee Goh
 *   Mr Khee Jun Jie
