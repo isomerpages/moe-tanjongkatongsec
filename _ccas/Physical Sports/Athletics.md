@@ -20,5 +20,5 @@ Ian Loke (3D)
 ## **Teachers-in-Charge**
 
 *   **Miss Pang Ling Li**
-*   Mdm Norlindah
-*   Ms Chen Chao
+*   Mr Bennett Lim
+*   Ms Han Li
