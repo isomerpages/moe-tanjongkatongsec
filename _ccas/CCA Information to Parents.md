@@ -8,7 +8,7 @@ variant: markdown
 
 **CCA Training Schedule**
 
-Please click [here](/files/CCAs/CCA_Calendar_2024__as_of_2_Jan_.pdf) to download the PDF for 2024’s CCA details.
+Please click [here](/files/TK_CCA_Calendar_2025.pdf) to download the PDF for 2025’s CCA details.
 
  **CCA Guidelines & Grading**
 
