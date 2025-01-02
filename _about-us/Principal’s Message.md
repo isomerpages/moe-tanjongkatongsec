@@ -2,10 +2,10 @@
 title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 # Principal’s Message
 
-![](/images/principal.jpg)
 
 In Tanjong Katong Secondary School (TK), we believe in developing a culture of care, trust and openness with a strong school ethos.  The clarity of our purpose, coupled with the strong focus on students, staff professional development and well-being, are all pivotal in the many strategic decisions made in student development, curriculum leadership, human resource and partnerships. Our TK Curriculum Framework guides the student-centric curriculum and co-curriculum to provide a diverse holistic learning and experiential opportunities within and beyond the classroom.
 
@@ -26,7 +26,5 @@ Finally, I applaud our students for your conscientiousness, your respect for one
 We will continue to leverage on our strengths to ensure a unique and holistic school experience for all our students in the coming years.
 
 Diligentia, Ingenium, Dexteritas
-
-Mrs Dolly Ong
 
 Principal
