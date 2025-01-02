@@ -63,14 +63,6 @@ counselling, and psychological first aid.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Pei Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_pei_shan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Halilah</p>
 </td>
 <td rowspan="1" colspan="1">
