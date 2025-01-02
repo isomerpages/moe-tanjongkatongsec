@@ -24,4 +24,4 @@ Muhd Naqib Bin Borhan (3G)
 
 ## **Teachers-in-Charge**
 *   **Mr Cheng Xinjin**
-*   Ms Nurul’Ain
+*   Ms Chen Chao

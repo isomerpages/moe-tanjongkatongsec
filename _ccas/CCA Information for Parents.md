@@ -1,14 +1,14 @@
 ---
-title: CCA Information to Parents
-permalink: /ccas/cca-information-to-parents/
+title: CCA Information for Parents
+permalink: /ccas/cca-information-for-parents/
 description: ""
 variant: markdown
 ---
-# CCA Information to Parents
+# CCA Information for Parents
 
 **CCA Training Schedule**
 
-Please click [here](/files/CCAs/CCA_Calendar_2024__as_of_2_Jan_.pdf) to download the PDF for 2024’s CCA details.
+Please click [here](/files/TK_CCA_Calendar_2025.pdf) to download the PDF for 2025’s CCA details.
 
  **CCA Guidelines & Grading**
 
