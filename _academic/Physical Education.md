@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /academic/physical-education/
 description: ""
+variant: markdown
 ---
 # Physical Education
 **Vision**
@@ -85,7 +86,7 @@ For the practical component, based on the school’s resources and capabilities,
 
 |                                                              |                                        |
 |--------------------------------------------------------------|----------------------------------------|
-| Categories Practical Activities (Individual/Dual Individual) | Categories Practical Activities (Team) |
+| ***Categories Practical Activities (Individual/Dual Individual)*** | **Categories Practical Activities (Team)** |
 | Swimming                                                     | Basketball                             |
 | Track and Field                                              | Floorball                              |
 | Badminton                                                    | Football                               |
