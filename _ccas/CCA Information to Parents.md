@@ -4,7 +4,7 @@ permalink: /ccas/cca-information-to-parents/
 description: ""
 variant: markdown
 ---
-# CCA Information to Parents
+# CCA Information for Parents
 
 **CCA Training Schedule**
 
