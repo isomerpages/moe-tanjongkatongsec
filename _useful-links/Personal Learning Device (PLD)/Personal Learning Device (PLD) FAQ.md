@@ -38,8 +38,8 @@ Bus services 13, 23, 67, 125, and 133 stop near CTHub <br>
 CTHub offers parking facilities. Enter via Kallang Avenue, and parking is available at an hourly rate. 
 
 **What are the operating hours of the new service centre?** <br>
-•	Monday to Friday: 9:00 AM – 6:00 PM <br>
-•	Saturday: 9:00 AM – 1:00 PM <br>
+•	Monday to Friday: 9:00am – 6:00pm <br>
+•	Saturday: 9:00am – 1:00pm <br>
 •	Closed on Sundays and Public Holidays<br>
 
 **Do I need to book an appointment to visit the new service centre?**<br>
