@@ -12,9 +12,9 @@ variant: markdown
 
 2\.  The **Goals** of Sexuality Education are to:
 
-(a)  Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
-(b)  Guide students to make wise, informed and responsible decisions on sexuality matters.  
-(c)  Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
+(a)  Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.<br>
+(b)  Guide students to make wise, informed and responsible decisions on sexuality matters. <br>
+(c)  Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.<br>
 
 3\.  The **Key Messages** of Sexuality Education are:
 
@@ -29,9 +29,9 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
-5\.  The subjects that incorporate topics on sexuality include:
-(a) Science
-(b) Character and Citizenship Education (CCE)
+5\.  The subjects that incorporate topics on sexuality include:<br>
+(a) Science<br>
+(b) Character and Citizenship Education (CCE)<br>
 
 <b><u>Sexuality Education Lessons</u></b>:
 
@@ -71,7 +71,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 10\.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable &nbsp;[here](https://go.gov.sg/tksed24-opt-out)&nbsp;. The completed form is to be submitted by 15/01/2024.
+11\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](https://go.gov.sg/tksed24-opt-out). The completed form is to be submitted by 15/01/2024.
 
 12\.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/tksed24-opt-out). The completed form is to be submitted by 15/01/2024.
 

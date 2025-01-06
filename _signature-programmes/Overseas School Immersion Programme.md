@@ -2,6 +2,7 @@
 title: Overseas School Immersion Programme
 permalink: /signature-programmes/permalink/
 description: ""
+variant: markdown
 ---
 Overseas School Immersion Programme (OSIP)
 ====================
@@ -22,4 +23,4 @@ The goals of the programme would be to enable students to:
 
 The international immersive and exchange experiences enable our students to develop confidence, empathy and independence: as they experience new situations outside their comfort zones. Students can establish valuable friendships and deepen networks with their peers from overseas, potentially leading to lifelong friendships and opportunities. They also develop a deeper appreciation for diversity and  intercultural understanding, as they become more  exposed to diverse cultures and communities.
 
-AT TK, we welcome partnerships with schools from ASEAN and East Asia countries/regions. If you are keen to partner us, do write to Mrs Tan Pei Shan at [teh\_pei\_shan@schools.gov.sg](mailto:teh_pei_shan@schools.gov.sg).
+AT TK, we welcome partnerships with schools from ASEAN and East Asia countries/regions. If you are keen to partner us, do write to Mdm Rozanah at [rozanah\_basrun@schools.gov.sg](mailto:rozanah_basrun@schools.gov.sg).
