@@ -49,9 +49,6 @@ No, there is no need to book an appointment. The new service centre operates on 
 •	Hotline: +65 6817 1435 <br>
 •	Email: Svcctr@servlink.com.sg <br>
 
-**Will the Tai Seng service centre remain open during the transition?**<br>
-Tai Seng Centre will still remain operational as a drop off location, but customers are strongly encouraged to proceed to CTHub for faster service.<br>
-
 **How will this change benefit customers?**<br>
 •Improved repair quality: Servlink has a proven track record of delivering excellent service and repairs.<br>
 •Convenient location: The new service centre at CTHub is centrally located and easily accessible by public transport and car.<br>
