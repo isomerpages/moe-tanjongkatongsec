@@ -21,7 +21,7 @@ o Trouble-shooting of device issues
 o Solve connectivity issues  
 • For repair of devices (hardware issues) – the device will be collected from the school to be sent for repairs. There is a 2 week turn-around time.<br>
 
-Lenovo will be transitioning to a new service centre provider, **Servlink**, to enhance repair quality and customer experience. Servlink, our current Onsite Authorised Service Provider, has consistently delivered excellent service, and we expect this change to bring operational efficiencies and greater convenience for you.
+Lenovo has transitioned to a new service centre provider, **Servlink**, to enhance repair quality and customer experience. Servlink, our current Onsite Authorised Service Provider, has consistently delivered excellent service, and we expect this change to bring operational efficiencies and greater convenience for you.
 
 Please refer to the information below:
 
