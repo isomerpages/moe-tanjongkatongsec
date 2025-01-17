@@ -48,7 +48,7 @@ No, there is no need to book an appointment. The service centre operates on a se
 **4\. What happens if my child loses the device?**  
 (a) Parents/students to  
 &nbsp; &nbsp; &nbsp; i. make a police report,  
-&nbsp; &nbsp; &nbsp;ii. contact Lenovo helpdesk for device issues at 800 852 8100 or whatsapp 67036821 and  
+&nbsp; &nbsp; &nbsp;ii. contact Lenovo helpdesk for device issues at 6871 4838 or whatsapp 6703 6821 and  
 &nbsp; &nbsp; iii. inform the school.<br>
 (b) The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.<br>
 (c) If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.<br>
