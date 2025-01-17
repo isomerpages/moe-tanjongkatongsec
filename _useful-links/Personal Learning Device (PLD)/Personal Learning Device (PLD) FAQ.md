@@ -43,7 +43,7 @@ No, there is no need to book an appointment. The service centre operates on a se
 
 **What are the contact details for the service centre?**<br>
 •	Hotline: +65 6817 1435 <br>
-•	Email: Svcctr@servlink.com.sg <br>
+•	Email: svcctr@servlink.com.sg <br>
 
 **4\. What happens if my child loses the device?**  
 (a) Parents/students to  
