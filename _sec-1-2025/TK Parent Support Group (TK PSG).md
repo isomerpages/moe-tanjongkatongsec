@@ -11,9 +11,8 @@ in TK PSG.</p>
 <p>Parents who are interested to join TK PSG, can do so by completing the
 form&nbsp;<a href="https://tinyurl.com/TKSPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/TKSPSG</a>&nbsp;or
 scan the QR code below.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_S1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TK_PSG_family_2025.jpg">
 </div>
 <p>For enquiries on matters related to PSG, you may contact our staff IC
 of PSG Liaison,&nbsp; Mr Vincent Tan or&nbsp;Mdm Jasma or via email at
