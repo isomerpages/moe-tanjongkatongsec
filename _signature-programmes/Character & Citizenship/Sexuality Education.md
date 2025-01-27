@@ -51,11 +51,11 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec3sed.jpeg)
+![](/images/s3sed.jpg)
 
 <p style="text-align: center;"><b>Secondary 4</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec4sed.jpeg)
+
 
 <u><b>eTeens Programme</b></u>:
 
