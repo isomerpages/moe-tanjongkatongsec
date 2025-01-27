@@ -25,7 +25,7 @@ variant: markdown
 
 You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Tanjong Katong Secondary**&nbsp;**School’s**&nbsp;**Sexuality Education Programme for 2024**
+**Overview of Tanjong Katong Secondary**&nbsp;**School’s**&nbsp;**Sexuality Education Programme for 2025**
 
 4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -39,23 +39,23 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 7\.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Tanjong Katong Secondary Secondary School, the following Sexuality Education lessons will be taught in**&nbsp;<u><b>2024</b></u>:
+**At Tanjong Katong Secondary Secondary School, the following Sexuality Education lessons will be taught in**&nbsp;<u><b>2025</b></u>:
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
+![](/images/s1sed.jpg)
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec1sed.jpeg)
 
 <p style="text-align: center;"><b>Secondary 2</b></p>
+![](/images/s2sed.jpg)
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec2sed.jpeg)
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec3sed.jpeg)
+![](/images/s3sed.jpg)
 
 <p style="text-align: center;"><b>Secondary 4</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec4sed.jpeg)
+![](/images/s4sed.jpg)
 
 <u><b>eTeens Programme</b></u>:
 
@@ -63,16 +63,16 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 9\.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Tanjong Katong Secondary School, the&nbsp;*eTeens*&nbsp;programme will be implemented as follows in 2024:**
+**At Tanjong Katong Secondary School, the&nbsp;*eTeens*&nbsp;programme will be implemented as follows in 2025:**
 
-![](/images/Signature%20Programmes/Sexuality%20Education/eteenssed.jpeg)
+![](/images/eteenssed.jpg)
 
 &nbsp;**Information for Parents**
 
 10\.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](https://go.gov.sg/tksed24-opt-out). The completed form is to be submitted by 15/01/2024.
+11\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](https://form.gov.sg/67935da65bbd2288c0c146bd). The completed form is to be submitted by 17/02/2025.
 
-12\.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/tksed24-opt-out). The completed form is to be submitted by 15/01/2024.
+12\.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/67935da65bbd2288c0c146bd). The completed form is to be submitted by 17/02/2025.
 
 13\. Parents can contact the school at&nbsp;**tkss@moe.edu.sg**&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
