@@ -43,11 +43,11 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec1sed.jpeg)
+
 
 <p style="text-align: center;"><b>Secondary 2</b></p>
 
-![](/images/Signature%20Programmes/Sexuality%20Education/sec2sed.jpeg)
+
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
 
