@@ -42,11 +42,11 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 **At Tanjong Katong Secondary Secondary School, the following Sexuality Education lessons will be taught in**&nbsp;<u><b>2025</b></u>:
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
-
+![](/images/s1sed.jpg)
 
 
 <p style="text-align: center;"><b>Secondary 2</b></p>
-
+![](/images/s2sed.jpg)
 
 
 <p style="text-align: center;"><b>Secondary 3</b></p>
@@ -55,7 +55,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 <p style="text-align: center;"><b>Secondary 4</b></p>
 
-
+![](/images/s4sed.jpg)
 
 <u><b>eTeens Programme</b></u>:
 
