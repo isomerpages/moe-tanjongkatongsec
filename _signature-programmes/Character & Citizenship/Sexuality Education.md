@@ -65,7 +65,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 **At Tanjong Katong Secondary School, the&nbsp;*eTeens*&nbsp;programme will be implemented as follows in 2025:**
 
-![](/images/Signature%20Programmes/Sexuality%20Education/eteenssed.jpeg)
+![](/images/eteenssed.jpg)
 
 &nbsp;**Information for Parents**
 
