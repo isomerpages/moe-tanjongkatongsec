@@ -177,6 +177,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anjala</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>MATHEMATICS DEPARTMENT</strong>
 </p>
@@ -829,70 +840,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>PE &amp; CCA DEPARTMENT</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vincent Ng</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_ghim_hong_vincent@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Colin Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>colin_chew_kim_heng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheng Xin Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheng_xin_jin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chye De San</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chye_de_san@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p><strong>DESIGN TECHNOLOGY &amp; FOOD CONSUMER EDUCATION DEPARTMENT</strong>
 </p>
 </td>
@@ -961,6 +908,109 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_borhan_mohd_salleh@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>PE DEPARTMENT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Ng</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_ghim_hong_vincent@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Colin Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>colin_chew_kim_heng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cheng Xin Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheng_xin_jin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chye De San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chye_de_san@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>AESTHETICS DEPARTMENT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lawrence Siao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siao_choon_keong_lawrence@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Mui Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_mui_mui_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Sok Tiow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sok_tiow@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1037,45 +1087,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>AESTHETICS DEPARTMENT</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lawrence Siao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siao_choon_keong_lawrence@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Mui Mui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_mui_mui_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Sok Tiow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_sok_tiow@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p><strong>COUNSELLORS</strong>
 </p>
 </td>
@@ -1115,7 +1126,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>ADMINISTRATION DEPARTMENT</strong>
+<p><strong>SCHOOL ADMIN TEAM (ADMINISTATION)</strong>
 </p>
 </td>
 </tr>
@@ -1125,17 +1136,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Leslie Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1176,17 +1176,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anjala</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Connie Song</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1208,11 +1197,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>SCHOOL ADMIN TEAM (OPERATIONS)</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmah</p>
+<p>Mr Leslie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1242,10 +1237,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Asmah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Anom</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Guan Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
