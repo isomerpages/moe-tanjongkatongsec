@@ -1179,7 +1179,7 @@ variant: tiptap
 <p>Mdm Connie Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Assistant Officer</p>
+<p>Admin Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1190,7 +1190,7 @@ variant: tiptap
 <p>Mdm Jessie Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Assistant Officer</p>
+<p>Admin Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
