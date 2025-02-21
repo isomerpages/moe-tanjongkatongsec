@@ -1126,7 +1126,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>SCHOOL ADMIN TEAM (ADMINISTATION)</strong>
+<p><strong>SCHOOL ADMIN TEAM (ADMINISTRATION)</strong>
 </p>
 </td>
 </tr>
