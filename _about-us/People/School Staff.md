@@ -38,7 +38,7 @@ variant: tiptap
 <p>Miss Lye Jee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Eng &amp; Lit</p>
+<p>LH Eng &amp; Lit (Sec 2 &amp; 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lye_jee_lee@moe.edu.sg</p>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH EL Literature</p>
+<p>LH Eng &amp; Lit (Sec 1 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
