@@ -49,7 +49,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Eng &amp; Lit (Sec 1 &amp; 3)</p>
+<p>LH Eng &amp; Lit (Sec 1 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
@@ -1254,7 +1254,7 @@ variant: tiptap
 <p>Mr Goh Guan Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>L</p>
 </td>
 </tr>
 </tbody>
