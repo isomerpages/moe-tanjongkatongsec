@@ -1254,7 +1254,7 @@ variant: tiptap
 <p>Mr Goh Guan Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>L</p>
+<p></p>
 </td>
 </tr>
 </tbody>
