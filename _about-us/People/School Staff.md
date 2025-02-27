@@ -49,7 +49,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Eng &amp; Lit (Sec 1 &amp; 3)</p>
+<p>SH Eng &amp; Lit (Sec 1 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
@@ -163,17 +163,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lian_ah_ai_maureen_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Malini D/O Gopal Krishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>malini_gopal_krishnan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
