@@ -38,7 +38,7 @@ variant: tiptap
 <p>Miss Lye Jee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Eng &amp; Lit</p>
+<p>LH Eng &amp; Lit (Sec 2 &amp; 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lye_jee_lee@moe.edu.sg</p>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH EL Literature</p>
+<p>LH Eng &amp; Lit (Sec 1 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
@@ -163,17 +163,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lian_ah_ai_maureen_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Malini D/O Gopal Krishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>malini_gopal_krishnan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1126,7 +1115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>SCHOOL ADMIN TEAM (ADMINISTATION)</strong>
+<p><strong>SCHOOL ADMIN TEAM (ADMINISTRATION)</strong>
 </p>
 </td>
 </tr>
@@ -1179,7 +1168,7 @@ variant: tiptap
 <p>Mdm Connie Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Assistant Officer</p>
+<p>Admin Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1190,7 +1179,7 @@ variant: tiptap
 <p>Mdm Jessie Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Assistant Officer</p>
+<p>Admin Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
