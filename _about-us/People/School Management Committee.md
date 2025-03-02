@@ -28,11 +28,6 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Ruby Khoo</p>
 </td>
@@ -224,7 +219,7 @@ variant: tiptap
 <p>Ms Nor Hazelin Idayu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH History</p>
+<p>LH History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_hazelin_idayu@moe.edu.sg</p>
@@ -268,7 +263,7 @@ variant: tiptap
 <p>Ms Suriyani Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>LH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suriyani_a@moe.edu.sg</p>
