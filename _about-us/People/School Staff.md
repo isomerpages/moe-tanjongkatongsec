@@ -347,7 +347,7 @@ variant: tiptap
 <p>Ms Suriyani Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>LH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suriyani_a@moe.edu.sg</p>
@@ -711,7 +711,7 @@ variant: tiptap
 <p>Ms Hazelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH History</p>
+<p>LH History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_hazelin_idayu@moe.edu.sg</p>
