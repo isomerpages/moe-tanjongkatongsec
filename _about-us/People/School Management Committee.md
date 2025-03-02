@@ -227,6 +227,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Suriyani Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suriyani_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lawrence Siao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,17 +267,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_suat_ying_cherlyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suriyani Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suriyani_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
