@@ -333,17 +333,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul'Ain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurul_ain_kamarulzaman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Suriyani Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -351,6 +340,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>suriyani_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul'Ain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_ain_kamarulzaman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
