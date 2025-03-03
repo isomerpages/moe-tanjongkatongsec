@@ -711,7 +711,7 @@ variant: tiptap
 <p>Ms Hazelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH History</p>
+<p>LH Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_hazelin_idayu@moe.edu.sg</p>
