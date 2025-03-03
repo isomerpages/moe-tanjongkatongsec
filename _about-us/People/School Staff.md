@@ -333,6 +333,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Suriyani Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suriyani_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nurul'Ain</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -340,17 +351,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_ain_kamarulzaman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suriyani Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suriyani_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -711,7 +711,7 @@ variant: tiptap
 <p>Ms Hazelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH History</p>
+<p>LH History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_hazelin_idayu@moe.edu.sg</p>
