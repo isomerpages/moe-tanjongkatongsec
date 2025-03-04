@@ -1248,10 +1248,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Executive</p>
+<p>Mr Goh Guan Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Guan Kheng</p>
+<p>Operations Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
