@@ -25,16 +25,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetarian Food Stall (Mixed Rice/Noodles), (Halal or non-Halal)</p>
-<p>or</p>
 <p>Chicken Rice (Halal or non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7<sup>th</sup> Mar 2025 before</p>
+<p>28<sup>th</sup> Mar 2025 before</p>
 <p>5 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 2025</p>
+<p>7<sup>th </sup>April onwards</p>
 </td>
 </tr>
 </tbody>
