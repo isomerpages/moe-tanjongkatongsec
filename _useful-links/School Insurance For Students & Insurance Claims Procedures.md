@@ -86,8 +86,6 @@ a result of an accident.</p>
 treatment ((e.g. chiropractor, herbalist, podiatrist, naturopathy, Ayurveda).</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-prescribed medication or mobility
 aids (such as crutches, wheelchair, etc).</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>CONTACT DETAILS</strong>
 </p>
 <p><strong>CLICK</strong>&nbsp;on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
@@ -95,11 +93,81 @@ aids (such as crutches, wheelchair, etc).</p>
 <p><strong>CALL</strong>&nbsp;our hotline at 6788 1777
 <br>Mon – Fri 9.00am to 6.00pm
 <br>Sat, Sun &amp; Public Holiday – Closed</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
 <p><strong>ZONE REPRESENTATIVES</strong>
 </p>
-<p>NORTH | Alvin Tan | 91172222 |&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">alvin.tankc@income.com.sg</a>
-<br>SOUTH | Edmund Tan |96673188 |<a rel="noopener noreferrer nofollow" target="_blank">edmund.tankh@income.com.sg</a>
-<br>EAST | Su Yixi | 90220777 |&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yixi.su@income.com.sg</a>
-<br>WEST | Cary Pang | 96390136 |&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">cary.pang@income.com.sg</a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NORTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alvin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91172222</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">alvin.tankc@income.com.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOUTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edmund Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96673188</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">edmund.tankh@income.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EAST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Su Yixi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>90220777</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yixi.su@income.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WEST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cary Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96390136</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">cary.pang@income.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
