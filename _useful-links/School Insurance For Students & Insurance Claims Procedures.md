@@ -24,7 +24,6 @@ expenses or expenses in excess of the limits will be borne by the students/paren
 hospitals will typically cost higher, and parents/guardian may need to
 pay more out-of-pocket expenses if treatment costs exceed the policy’s
 coverage limits.</p>
-<p>&nbsp;</p>
 <p><strong><u>STUDENT INSURANCE</u></strong>
 </p>
 <p>Parents/students are to submit their claims online and check the claims
@@ -75,7 +74,7 @@ letter if there is any payment by Medisave-approved Integrated Shield Plan.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that the list of documents
 above is not exhaustive. Other documents may be requested if necessary.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more details on the GPA Plan,
-please refer to:&nbsp;<a href="https://www.tksss.moe.edu.sg/files/Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA Insurance Fact Sheet</a>
+please refer to:&nbsp;<a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Student GPA Insurance Fact Sheet</a>
 </p>
 <p><strong>What is not covered?</strong>
 </p>
