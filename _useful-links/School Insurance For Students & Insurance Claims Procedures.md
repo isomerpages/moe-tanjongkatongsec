@@ -39,7 +39,7 @@ MOE GPA insurance claims submission are to be submitted online</p>
 <p></p>
 <p>Online Submission</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to Income’s GPA portal at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>or <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>or <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on “New/Follow up Accident
 Claim”</p>
@@ -50,13 +50,13 @@ Claim”</p>
 to parents or students, and school administrator</p>
 <p>Follow Up Claim Submission</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to Income’s GPA portal at
-<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on “New/Follow Up Accident
 Claim”</p>
 <p>Enquiry on Status of Claims</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to Income’s GPA portal at
-<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on “Check Claims Status”</p>
 <p>Required Documents</p>
@@ -88,7 +88,7 @@ treatment ((e.g. chiropractor, herbalist, podiatrist, naturopathy, Ayurveda).</p
 aids (such as crutches, wheelchair, etc).</p>
 <p><strong>CONTACT DETAILS</strong>
 </p>
-<p><strong>CLICK</strong>&nbsp;on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
+<p><strong>CLICK</strong>&nbsp;on&nbsp;<a href="www.income.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
 </p>
 <p><strong>CALL</strong>&nbsp;our hotline at 6788 1777
 <br>Mon – Fri 9.00am to 6.00pm
