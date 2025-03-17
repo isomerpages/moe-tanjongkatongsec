@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Insurance For Students & Insurance Claims Procedures.md
       - Parents/.keep
       - Parents/2024 MOE FAS Application Exercise.md
       - Parents/Direct School Admission (DSA).md
@@ -17,4 +16,5 @@ collections:
       - Students/Students.md
       - School Calendar.md
       - School Canteen Advertisement.md
+      - School Insurance For Students & Insurance Claims Procedures.md
       - Teachers.md
