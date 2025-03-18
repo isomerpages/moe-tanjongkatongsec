@@ -28,8 +28,7 @@ description: ""
 <p>Chicken Rice (Halal or non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28<sup>th</sup> Mar 2025 before</p>
-<p>5 pm</p>
+<p>28<sup>th</sup> Mar 2025 before 5 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7<sup>th </sup>April onwards</p>
@@ -85,8 +84,7 @@ the Tanjong Katong Secondary School Canteen Committee.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
-<p><a href="/files/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall</a>
+hardcopy from the School’s General Office. <a href="/files/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall</a>
 </p>
 </li>
 <li>
