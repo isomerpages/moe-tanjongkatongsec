@@ -28,10 +28,21 @@ description: ""
 <p>Chicken Rice (Halal or non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28<sup>th</sup> Mar 2025 before 5 pm</p>
+<p>11 April 2025 before 5 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7<sup>th </sup>April onwards</p>
+<p>1 May 2025 onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hot Drinks and Hot Snacks and hot Dessert (Halal or non-Halal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 April 2025 before 5 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 May 2025 onwards</p>
 </td>
 </tr>
 </tbody>
