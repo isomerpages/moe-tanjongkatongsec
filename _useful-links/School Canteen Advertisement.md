@@ -5,37 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>School Canteen Advertisement</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Operational Date</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chicken Rice (Halal or non-Halal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 April 2025 before 5 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 May 2025 onwards</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">
