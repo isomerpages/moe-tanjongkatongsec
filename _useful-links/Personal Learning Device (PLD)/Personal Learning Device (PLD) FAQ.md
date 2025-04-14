@@ -52,6 +52,7 @@ No, there is no need to book an appointment. The service centre operates on a se
 &nbsp; &nbsp; iii. inform the school.<br>
 (b) The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.<br>
 (c) If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.<br>
+(d) Accidental loss due to negligence in not covered by insurance.<br>
 
 **5\. Can my child bring his/her own device?**  
 The school strongly encourages parents to purchase the recommended PLD. Different OS could lead to compatibility issues and disruptions to the classroom learning experience. Device Management Application compatibility issues could make it challenging for the school to monitor, manage and secure the PLDs.
