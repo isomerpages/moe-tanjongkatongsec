@@ -7,26 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>2024 SGC (School Graduation Certificate) Collection</h3>
-<h4><u>Collection of School Graduation Certificate 2024</u></h4>
-<p>2024 TK Graduates may collect your SGC from the school General Office
-from 2 June 2025 to 27 June 2025, during office hours 8.00 am to 4.00 pm
-(Monday to Friday) excluding public holidays.</p>
-<h4><u>IMPORTANT NOTE</u></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Please bring along your NRIC / Student Pass for verification.</p>
-</li>
-<li>
-<p>Please prepare a letter of authorisation, a photocopy of your NRIC and
-Proxy’s Original Identity Card if you are appointing a Proxy to collect
-the SGC on your behalf.</p>
-</li>
-<li>
-<p>Students will need to be dressed appropriately before being allowed access
-to Tanjong Katong Secondary School.</p>
-</li>
-</ol>
-<p><strong>Important Reminder: Uncollected certificates will be disposed of after the retention period. We encourage you to collect your certificate within the specified timeframe.</strong>
+<h4><u>Notification for Collection of School Graduation Certificate (SGC) 2024</u></h4>
+<p>Dear Ex-TKsians (O-Level Class of 2024),</p>
+<p>Your School Graduation Certificate (SGC) is ready for collection from
+2 June 2025 to 27 June 2025, and can be collected at our General Office
+from 8.00 am to 4.00 pm (Monday to Friday) excluding public holidays.</p>
+<p><strong><u>Collection Details:</u></strong>
 </p>
-<p></p>
+<p>1) Please bring along your NRIC/student’s pass for our verification purpose.</p>
+<p>2) If you're unable to collect it in person, you can authorize a proxy
+to collect it on your behalf. To do so, please prepare the following documents:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Letter of Authorization</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of your NRIC/Student Pass</p>
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the proxy's original NRIC</p>
+<p><strong>Important Reminder: Uncollected certificates will be disposed of after the retention period. We encourage you to collect your certificate within the specified timeframe.</strong> 
+</p>
