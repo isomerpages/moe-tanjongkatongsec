@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>2024 SGC (School Graduation Certificate) Collection</h3>
-<h4><u>Collection of Sch Graduation Certificate 2024</u></h4>
+<h4><u>Collection of School Graduation Certificate 2024</u></h4>
 <p>2024 TK Graduates may collect your SGC from the school General Office
 from 2 June 2025 to 27 June 2025, during office hours 8.00 am to 4.00 pm
 (Monday to Friday) excluding public holidays.</p>
