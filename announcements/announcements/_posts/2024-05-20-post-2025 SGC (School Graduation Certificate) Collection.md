@@ -15,7 +15,7 @@ from 8.00 am to 4.00 pm (Monday to Friday) excluding public holidays.</p>
 <p><strong><u>Collection Details:</u></strong>
 </p>
 <p>1) Please bring along your NRIC/student’s pass for our verification purpose.</p>
-<p>2) If you're unable to collect it in person, you can authorize a proxy
+<p>2) If you're unable to collect it in person, you can authorise a proxy
 to collect it on your behalf. To do so, please prepare the following documents:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Letter of Authorisation</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of your NRIC/Student Pass</p>
