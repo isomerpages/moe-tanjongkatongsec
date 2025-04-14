@@ -18,7 +18,7 @@ from 2 June 2025 to 27 June 2025, during office hours 8.00 am to 4.00 pm
 <p>Please bring along your NRIC / Student Pass for verification.</p>
 </li>
 <li>
-<p>Please prepare a letter of authorization, a photocopy of your NRIC and
+<p>Please prepare a letter of authorisation, a photocopy of your NRIC and
 Proxy’s Original Identity Card if you are appointing a Proxy to collect
 the SGC on your behalf.</p>
 </li>
