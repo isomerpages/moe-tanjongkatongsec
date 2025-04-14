@@ -27,5 +27,6 @@ the SGC on your behalf.</p>
 to Tanjong Katong Secondary School.</p>
 </li>
 </ol>
-<h4>Please be informed that certificates and awards that remain uncollected will be disposed of after the designated retention period. We strongly encourage all graduates to collect their certificates within the specified timeframe to avoid any inconvenience.</h4>
+<p><strong>Important Reminder: Uncollected certificates will be disposed of after the retention period. We encourage you to collect your certificate within the specified timeframe.</strong>
+</p>
 <p></p>
