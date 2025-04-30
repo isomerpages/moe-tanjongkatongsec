@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Parents
 ---
 <h1>Direct School Admission (DSA)</h1>
-<p><strong>Direct School Admission to Sec 1 2025 Intake</strong>
+<p><strong>Direct School Admission to Sec 1 2026 Intake</strong>
 </p>
 <p>Primary Six students may seek direct admission into TK before the Secondary
 1 Posting in Dec 2025 for year of study in the Academic Year 2026.</p>
@@ -14,6 +14,9 @@ third_nav_title: Parents
 </p>
 <p>In this Direct School Admission Exercise, we are looking for students
 who are self-motivated and have a strong sense of achievement.</p>
+<p>Students who do not have prior experience in the DSA areas may also apply.
+The school will assess applicants based on the selection criteria, which
+may include assessing the potential of your child.</p>
 <p>We welcome pupils who have talent and aptitude in the following category:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -113,9 +116,10 @@ the on-site trials.
 </p>
 <p>Applicants who meet all the criteria are not guaranteed a shortlist or
 offer.</p>
-<p>TK reserves the right to the final decision on the acceptance of students
-based on the above admission criteria and other considerations such as
-their performance at the interviews and sports trials.</p>
+<p>The school reserves the right to the final decision on the acceptance
+of students based on the above admission criteria and other considerations
+such as their performance at the assessments or sports trials. The teachers
+may also conduct interviews with the applicants.</p>
 <p></p>
 <p><strong>Schedule</strong>
 </p>
@@ -142,7 +146,7 @@ their performance at the interviews and sports trials.</p>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
 <p></p>
-<p>The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2024, 3.00pm</strong>
+<p>The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2025, 3.00pm</strong>
 </p>
 <p></p>
 <p>For more details, please refer to MOE website - <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -153,12 +157,13 @@ their performance at the interviews and sports trials.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>SELECTION STAGE</u></strong>
 </p>
-<p>30 June - 4 September 2025</p>
+<p>30 June - 22 August 2025</p>
 <p>Selection Stage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ONLY Shortlisted applicants will be notified via email and phone call
-from TKSS on the arrangements for the interview and trials.</p>
+from Tanjong Katong Secondary School by 18 August 2025 on the arrangements
+for the assessments or sports trials and interviews.</p>
 </td>
 </tr>
 <tr>
@@ -272,7 +277,8 @@ on DSA for admission to Secondary Schools:</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +288,8 @@ on DSA for admission to Secondary Schools:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
 </td>
 </tr>
 <tr>
