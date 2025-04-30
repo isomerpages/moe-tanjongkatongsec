@@ -168,7 +168,7 @@ for the assessments or sports trials and interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August - 4 September 2024</p>
+<p>25 August - 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Letters will be sent out to all applicants on the outcome, namely Confirmed
