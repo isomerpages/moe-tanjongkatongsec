@@ -267,7 +267,8 @@ on DSA for admission to Secondary Schools:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11.00am</p>
+<p><strong>*go live on 7 May 2025, 11.00am</strong>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +279,8 @@ on DSA for admission to Secondary Schools:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Non Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11.00am&nbsp;</p>
+<p><strong>*go live on 7 May 2025, 11.00am&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
