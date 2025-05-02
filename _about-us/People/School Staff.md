@@ -1168,7 +1168,7 @@ variant: tiptap
 <p>Ms Harbalbir Raj Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1199,6 +1199,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Jessie Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ivy Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Assistant</p>
