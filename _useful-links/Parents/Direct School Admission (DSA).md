@@ -59,10 +59,6 @@ requirements, and</p>
 </ul>
 <p><strong>DSA-Sec Selection Criteria and Process</strong>
 </p>
-<p>Primary Six students may seek direct admission into TK before the Secondary
-1 Posting in Dec 2025 for year of study in the Academic Year 2026.</p>
-<p><strong>Admission Criteria</strong>
-</p>
 <p>Students who do not have prior experience in the DSA talent area(s) may
 also apply. All applicants will be assessed based on the selection criteria,
 which may include assessing the potential of your child, as detailed in
@@ -173,23 +169,14 @@ or National level.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>APPLICATION STAGE</u></strong>
 </p>
 <p>7 May 2025 - 3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
-<p></p>
-<p>The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2025, 3.00pm</strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2025, 3.00pm</strong>
 </p>
 <p></p>
 <p>For more details, please refer to MOE website - <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -206,7 +193,7 @@ or National level.</p>
 <td rowspan="1" colspan="1">
 <p>Only shortlisted applicants will be notified via email and phone call
 from TK by 30 June on the details of the relevant assessment, sports trial
-and/ or interview.</p>
+and/or interview.</p>
 <p>&nbsp;</p>
 <p>Notification of outcome to be sent to all applicants by 4 September 2025.</p>
 </td>
