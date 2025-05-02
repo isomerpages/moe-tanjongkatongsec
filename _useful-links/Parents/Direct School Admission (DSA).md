@@ -108,10 +108,8 @@ related to the talent they are selected for from year 1-4.</p>
 <td rowspan="1" colspan="1">
 <p>Deep passion for the Malay Language and culture, and strong communication
 skills.</p>
-<p>&nbsp;</p>
 <p>Consistently excellent academic results in Malay Language or Higher Malay
 Language.</p>
-<p>&nbsp;</p>
 <p>Participation and achievements at Malay Language competitions at Zonal
 or National level.</p>
 </td>
@@ -142,7 +140,6 @@ or National level.</p>
 <p>Passion and sporting background in the relevant game.</p>
 <p>Strong team leader and/or player.</p>
 <p>Achievements in National School Games or equivalent.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants must attend</p>
