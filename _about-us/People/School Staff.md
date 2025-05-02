@@ -145,6 +145,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Marlinder Roy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marlinder_roy_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Endang Ingriani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>endang_ingriani_shakni_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_chien_yien_kelvin_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Anjala</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1082,6 +1115,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sarah Yew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sarah_yew@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Beth Chew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1124,7 +1168,7 @@ variant: tiptap
 <p>Ms Harbalbir Raj Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1155,6 +1199,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Jessie Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ivy Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Assistant</p>

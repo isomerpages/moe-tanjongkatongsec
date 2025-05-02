@@ -5,16 +5,71 @@ description: ""
 variant: tiptap
 third_nav_title: Parents
 ---
-<h1>Direct School Admission (DSA)</h1>
-<p><strong>Direct School Admission to Sec 1 2024 Intake</strong>
+<h1>Direct School Admission-Secondary (DSA-Sec) 2025</h1>
+<p>Introduced in 2004, DSA-Sec is a pathway for students to gain admission
+to secondary schools based on their interests, aptitude, and potential,
+beyond their performance at Primary School Leaving Examination (PSLE).
+For the 2025 DSA-Sec exercise to gain admission to Secondary 1 in TK in
+2026, TK offers five talent areas under two domain areas.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DSA Domain Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Talent Area</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Language &amp; Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball (Girls)</p>
+<p>Football (Boys)</p>
+<p>Floorball (Girls)</p>
+<p>Basketball (Boys)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents and students are encouraged to choose schools wisely based on
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>aptitudes and strengths, bearing in mind the schools’ academic and non-academic
+requirements, and</p>
+</li>
+<li>
+<p>programmes available to develop the area(s) of talent.</p>
+</li>
+</ul>
+<p><strong>DSA-Sec Selection Criteria and Process</strong>
 </p>
-<p>Primary Six students may seek direct admission into TK before the Secondary
-1 Posting in Dec 2024 for year of study in the Academic Year 2025.</p>
-<p><strong>Admission Criteria</strong>
+<p>Students who do not have prior experience in the DSA talent area(s) may
+also apply. All applicants will be assessed based on the selection criteria,
+which may include assessing the potential of your child, as detailed in
+the table below.</p>
+<p>Meeting all the criteria does not guarantee that the student will be shortlisted
+or given an offer.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+<p><strong>Table: DSA-Sec Selection Criteria and Process</strong>
 </p>
-<p>In this Direct School Admission Exercise, we are looking for students
-who are self-motivated and have a strong sense of achievement.</p>
-<p>We welcome pupils who have talent and aptitude in the following category:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -39,52 +94,70 @@ who are self-motivated and have a strong sense of achievement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Category 3: Sports and Games</strong> 
+<p><strong>Language &amp; Humanities</strong>
+</p>
+<p></p>
+<p>Contact Person:</p>
+<p></p>
+<p>Mdm Sri Nabilah, Malay Language Teacher @ 6344 3471 (ext 293)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deep passion for the Malay Language and culture, and strong communication
+skills.</p>
+<p>Consistently excellent academic results in Malay Language or Higher Malay
+Language.</p>
+<p>Participation and achievements at Malay Language competitions at Zonal
+or National level.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All shortlisted applicants must</p>
+<p>1) sit for an individual written test.</p>
+<p>2) attend an interview.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports &amp; Games</strong> 
 <br>
 <br>Contact Person:
 <br>
-<br>Mr Clarence Tng, HOD/PE &amp; CCA @ 6344 3471 (ext 216)</p>
+<br>Mr Lawrence Siao, SH / Aesthetics @ 6344 3471 (ext 308)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball Girls
+<p>Netball (Girls)
 <br>
-<br>Football Boys
+<br>Football (Boys)
 <br>
-<br>Floorball Girls
+<br>Floorball (Girls)
 <br>
-<br>Basketball Boys</p>
+<br>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented their primary school in National School Games Championships
-or played competitively for local clubs.
-<br>
-<br>Preferably being selected to be part of MOE's Junior Sports Academy (JSA)
-Programme
-<br>
-<br>Preferably won medals (Zonal or National Top 4) at National School Games.
-<br>
-<br>Preferably held leadership position in related CCA at their primary school.</p>
+<p>Passion and sporting background in the relevant game.</p>
+<p>Strong team leader and/or player.</p>
+<p>Achievements in National School Games or equivalent.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Performance Task:</strong> 
-<br>
-<br>Applicants will be asked to perform selected sports-specific skills during
-the on-site trials.
-<br>
-<br>Individual/Group Interview session</p>
+<p>All shortlisted applicants must attend</p>
+<p>1) a sports trial covering</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>physical ability</p>
+</li>
+<li>
+<p>sports-specific technical skills</p>
+</li>
+</ul>
+<p>2) an individual / group interview, where relevant</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Important Information to Parents/Applicants:</u></strong>
-</p>
-<p>Applicants who meet all the criteria are not guaranteed a shortlist or
-offer.</p>
-<p>TK reserves the right to the final decision on the acceptance of students
-based on the above admission criteria and other considerations such as
-their performance at the interviews and sports trials.</p>
-<p></p>
-<p><strong>Schedule</strong>
+<p><strong>Overview of DSA-Sec 2025 Schedule</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -93,23 +166,14 @@ their performance at the interviews and sports trials.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>APPLICATION STAGE</u></strong>
 </p>
-<p>From 7 May 2024 to 3 June 2024</p>
+<p>7 May 2025 - 3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
-<p></p>
-<p>The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 June 2024, 3pm</strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2025, 3.00pm</strong>
 </p>
 <p></p>
 <p>For more details, please refer to MOE website - <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -120,81 +184,50 @@ their performance at the interviews and sports trials.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>SELECTION STAGE</u></strong>
 </p>
-<p>24 June - 9 September 2024</p>
+<p>30 June - 4 September 2025</p>
 <p>Selection Stage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONLY Shortlisted applicants will be notified via email and phone call
-from TKSS on the arrangements for the interview and trials.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>By 9 September 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Letters will be sent out to all applicants on the outcome, namely Confirmed
-Offer (CO), put on the Waiting List (WL), or Unsuccessful.</p>
+<p>Only shortlisted applicants will be notified via email and phone call
+from TK by 30 June on the details of the relevant assessment, sports trial
+and/or interview.</p>
+<p>&nbsp;</p>
+<p>Notification of outcome to be sent to all applicants by 4 September 2025.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>SCHOOL PREFERENCE SUBMISSION</u></strong>
 </p>
-<p>21 - 25 October 2024</p>
+<p>27 - 31 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive email and SMS notification via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
-Submission around mid-October 2024.</p>
-<p></p>
-<p><strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to <u>THREE</u> school preferences.</strong> If
-parent(s) are unable to submit online, they can approach their child's
-primary school for assistance to submit the school preferences on their
-behalf.</p>
-<p></p>
-<p>Some students may receive offers from DSA-Sec schools and SSP. Students
-who wish to accept the SSP offer should not submit their DSA-Sec school
-preferences. If they do so, their earlier SSP offer <u>will be voided</u>.
-Students who wish to accept the SSP offer will need to take part in the
-S1 Posting.</p>
-<p></p>
-<p>DSA-Sec offers not taken up will be considered as lapsed at the end of
-the School Preference Submission period.</p>
+will receive an email and SMS notification via Postman.gov.sg on the School
+Preference Submission between 27 – 31 October 2025.</p>
+<p>&nbsp;</p>
+<p>DSA-Sec offers that are not taken up will be considered as lapsed at the
+end of the School Preference Submission period.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late November 2024</p>
+<p><strong><u>RESULTS RELEASE</u></strong>
+</p>
+<p>Late November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
-results together with their PSLE results through their primary schools,
-by end-November 2024.</p>
-<p></p>
+results together with their PSLE results through their primary school.</p>
+<p>&nbsp;</p>
 <p>Students who are not studying in MOE mainstream schools will receive their
-DSA-Sec results from PPSB via email. Secondary schools will be able to
-download the list of successful DSA-Sec students allocated to them using
-the Placement System for Secondary Schools (PSSS).</p>
+DSA-Sec results from PPSB via email.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Please note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
-</p>
-</li>
-<li>
-<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong>
-</p>
-</li>
-</ul>
-<p></p>
-<p>You may wish to access the following MOE weblinks for more information
-on DSA for admission to Secondary Schools:</p>
+<p>For more information on DSA for admission to Secondary Schools, access
+the following MOE weblinks:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -234,19 +267,24 @@ on DSA for admission to Secondary Schools:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p><strong>*Will only go live on 7 May 2025, 11.00am</strong>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Non Mainstream Students)</p>
-<p>&nbsp;</p>
+<p><strong>*Will only go live on 7 May 2025, 11.00am&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
 </td>
 </tr>
 <tr>
