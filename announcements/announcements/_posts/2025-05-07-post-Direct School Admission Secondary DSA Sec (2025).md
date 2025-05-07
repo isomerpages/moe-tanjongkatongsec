@@ -60,9 +60,7 @@ the following:</p>
 in mind the schools’ academic and non-academic requirements, and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; programmes available to develop
 the area(s) of talent.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>DSA-Sec Selection Criteria and Process</strong>
+<p><strong>&nbsp;DSA-Sec Selection Criteria and Process</strong>
 </p>
 <p>Students who do not have prior experience in the DSA talent area(s) may
 also apply. All applicants will be assessed based on the selection criteria,
@@ -124,7 +122,6 @@ Language.</p>
 <p>&nbsp;</p>
 <p>Participation and achievements at Malay Language competitions at Zonal
 or National level.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants must</p>
@@ -167,7 +164,6 @@ Aesthetics @&nbsp;&nbsp;&nbsp; 6344 3471 (ext 308)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; sports-specific technical skills.</p>
 <p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an individual/ group interview, where
 relevant</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -296,7 +292,6 @@ access the following MOE weblinks:</p>
 <p>(Non-Mainstream Students)</p>
 <p>* <em>Will only go live on 7 May 2025, 11am</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
@@ -305,8 +300,7 @@ access the following MOE weblinks:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>DSA-Sec iFAQs</p>
+<p>&nbsp;DSA-Sec iFAQs</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,8 +310,7 @@ access the following MOE weblinks:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>DSA-Sec School Finder</p>
+<p>&nbsp;DSA-Sec School Finder</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
