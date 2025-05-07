@@ -173,11 +173,7 @@ relevant</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong>Overview of DSA-Sec 2025 Schedule</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -195,7 +191,7 @@ relevant</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11am </strong>to <strong>3 June 2025, 3pm</strong>.</p>
 <p>&nbsp;</p>
-<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> &nbsp;&nbsp;</p>
+<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +207,6 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11am
 <p>Only shortlisted applicants will be notified via email and phone call
 from TK by 30 June on the details of the relevant assessment, sports trial
 and/ or interview.</p>
-<p>&nbsp;</p>
 <p>Notification of outcome to be sent to all applicants by 4 September 2025.</p>
 </td>
 </tr>
