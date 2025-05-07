@@ -9,12 +9,11 @@ variant: tiptap
 ---
 <p><strong>Direct School Admission-Secondary (DSA-Sec) 2025</strong>
 </p>
-<p>&nbsp;Introduced in 2004, DSA-Sec is a pathway for students to gain admission
+<p>Introduced in 2004, DSA-Sec is a pathway for students to gain admission
 to secondary schools based on their interests, aptitude, and potential,
 beyond their performance at Primary School Leaving Examination (PSLE).
 For the 2025 DSA-Sec exercise to gain admission to Secondary 1 in TK in
 2026, TK offers five talent areas under two domain areas.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
