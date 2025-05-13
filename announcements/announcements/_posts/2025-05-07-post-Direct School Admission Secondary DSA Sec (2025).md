@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Direct School Admission-Secondary (DSA-Sec) 2025</strong>
+<p><strong>Application for Direct School Admission-Secondary (DSA-Sec) 2025</strong>
 </p>
 <p>Introduced in 2004, DSA-Sec is a pathway for students to gain admission
 to secondary schools based on their interests, aptitude, and potential,
