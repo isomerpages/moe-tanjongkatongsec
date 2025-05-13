@@ -290,8 +290,6 @@ access the following MOE weblinks:</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Direct to DSA-Sec Portal</p>
 <p>(Non-Mainstream Students)</p>
-<p>* <em>Will only go live on 7 May 2025, 11am</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
