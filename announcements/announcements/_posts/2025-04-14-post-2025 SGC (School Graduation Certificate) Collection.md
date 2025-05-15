@@ -22,3 +22,7 @@ to collect it on your behalf. To do so, please prepare the following documents:<
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the proxy's original NRIC</p>
 <p><strong>Important Reminder: Uncollected certificates will be disposed of after the retention period. We encourage you to collect your certificate within the specified timeframe.</strong>
 </p>
+<p>3) Students will need to be dressed appropriately before being allowed
+entry to Tanjong Katong Secondary School.</p>
+<p>Thank you so much and all the best!</p>
+<p>Mdm Halilah</p>
