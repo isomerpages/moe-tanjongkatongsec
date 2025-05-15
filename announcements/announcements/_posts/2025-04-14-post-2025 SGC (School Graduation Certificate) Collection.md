@@ -9,9 +9,9 @@ variant: tiptap
 ---
 <h4><u>Notification for Collection of School Graduation Certificate (SGC) 2024</u></h4>
 <p>Dear Ex-TKsians (O-Level Class of 2024),</p>
-<p>Your School Graduation Certificate (SGC) is ready for collection from
-2 June 2025 to 27 June 2025, and can be collected at our General Office
-from 8.00 am to 4.00 pm (Monday to Friday) excluding public holidays.</p>
+<p>Your School Graduation Certificate (SGC) is ready for collection from <strong>2 June 2025 to 27 June 2025</strong>,
+and can be collected at our General Office from 8.00 am to 4.00 pm, every
+Monday to Friday, excluding public holidays.</p>
 <p><strong><u>Collection Details:</u></strong>
 </p>
 <p>1) Please bring along your NRIC/student’s pass for our verification purpose.</p>
