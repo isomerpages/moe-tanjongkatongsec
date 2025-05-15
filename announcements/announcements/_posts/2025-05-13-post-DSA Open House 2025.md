@@ -20,4 +20,4 @@ DSA experience at TK!</p>
 </p>
 <p>We seek your understanding that there are limited parking facilities in
 the school premises, and to park your vehicle in public car parks around
-the school vincinity should you plan to drive to TK.</p>
+the school vicinity should you plan to drive to TK.</p>
