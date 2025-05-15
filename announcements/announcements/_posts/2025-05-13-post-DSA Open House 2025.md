@@ -18,3 +18,6 @@ variant: tiptap
 DSA experience at TK!</p>
 <p>👉 <strong>Register now:</strong>  <a href="https://go.gov.sg/tkdsa2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/tkdsa2025</a>
 </p>
+<p>We seek your understanding that there are limited parking facilities in
+the school premises, and to park your vehicle in public car parks around
+the school vincinity should you plan to drive to TK.</p>
