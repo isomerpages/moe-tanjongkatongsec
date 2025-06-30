@@ -199,9 +199,8 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11am
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Only shortlisted applicants will be notified via email and phone call
-from TK on the details of the relevant assessment, sports trial and/ or
-interview.</p>
+<p>Only shortlisted applicants will be notified via email on the details
+of the relevant assessment, sports trial and/ or interview.</p>
 <p>Notification of outcome to be sent to all applicants by 4 September 2025.</p>
 </td>
 </tr>
