@@ -106,6 +106,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Catherine Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_mui_keow@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Shahera Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
