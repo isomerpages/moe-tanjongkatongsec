@@ -5,6 +5,60 @@ variant: tiptap
 description: ""
 ---
 <h2>School Canteen Advertisement</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Operational Date</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Rice (Halal or non-Halal)</p>
+<p>or</p>
+<p>Korean Cuisine (Halal or non-Halal)</p>
+<p>or</p>
+<p>Japanese Cuisine (Halal or non-Halal)</p>
+<p>or</p>
+<p>Indian Cuisine (Halal or non-Halal)</p>
+<p>or</p>
+<p>Vegetarian Cuisine (Halal or non-Halal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 August 2025 before 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 September 2025 onwards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -87,7 +141,8 @@ to the school General Office by closing date either by hand or post.</p>
 <p>Contact No: 6344 3471</p>
 </li>
 <li>
-<p>Contact Person: &nbsp;Ms Cynthia Loke / Ms Harbalbir Raj Kaur</p>
+<p>Contact Person: &nbsp;Ms Cynthia Loke / Ms Harbalbir Raj Kaur / Ms Junainah
+Jonied</p>
 <p></p>
 </li>
 </ul>
