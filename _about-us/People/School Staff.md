@@ -769,7 +769,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_siew_kang_audrey@moe.edu.sg</p>
+<p>lau_siew_kiang_audrey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
