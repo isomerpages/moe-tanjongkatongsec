@@ -129,7 +129,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yeo_tye_shi_jerome@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chow_pei_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +515,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurain_tajudeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +675,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurul_aliah_mohd_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -686,7 +686,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>isnarti_mohamed_noordin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
