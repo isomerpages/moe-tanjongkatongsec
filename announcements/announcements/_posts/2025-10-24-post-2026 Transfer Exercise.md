@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Dear Parents,</strong>
+<br>Thank you for your interest in Tanjong Katong Secondary School.
+<br>We regret to inform that there are currently <strong><u>no vacancies</u></strong> available
+at all levels as of 24 October 2025.
+<br>Should there be any changes, updates will be provided on the school website
+every Friday.</p>
