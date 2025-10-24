@@ -15,7 +15,7 @@ With reference to the Parents Gateway message sent by MOE on 17 October 2025 reg
 
 If you have any queries, please contact the school at Tel: 6344 3471 or you can email us at [tkss@moe.edu.sg](mailto:tkss@moe.edu.sg).
 
-Alternatively, you can download the MOE FAS application form or collect a copy at the General Office and submit the completed form directly to the school.
+Alternatively, you can download the [MOE FAS application form](/files/MOE_FAS_Application_Form_2026_final.pdf)  or collect a copy at the General Office and submit the completed form directly to the school.
 
 Tip: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
 
