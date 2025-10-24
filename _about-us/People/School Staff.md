@@ -156,13 +156,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Endang Ingriani</p>
+<p>Mr Wira Ciptadi Pitoyo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>endang_ingriani_shakni_b@moe.edu.sg</p>
+<p>wira_ciptadi_pitoyo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -421,17 +421,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bee Lay Belle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_bee_lay_belle_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhang Gui Hua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -494,17 +483,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>murni_osman_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rasidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rasidah_bahrom_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1165,6 +1143,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ping_ping_elina@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loysius Kanrui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loysius_kan_rui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
