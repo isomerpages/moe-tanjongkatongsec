@@ -12,11 +12,12 @@ variant: markdown
 [Download S3 Booklist 2026](/files/2026_S3_BOOKLIST.pdf)<br>
 [Download S4 Booklist 2026](/files/2026_S4__EXP__BOOKLIST.pdf)<br>
 [Download Uniform Order Form](/files/TKSS___Uniform_Order_Form___Final_Version_for_Year_2026__1_.pdf)<br>
+[Proposed selling dates for Textbooks, Stationery and Uniform 2026](/files/TKSS_Proposed_Selling_Dates_for_2026.pdf)<br>
 
 **<u>Instructions to Parents &amp; Students on Purchase of Text and Workbooks, PE Attire and School Uniform 2026</u>**
 
 Dear Parents/Guardians,
-1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2026, School will continue to offer online sales and delivery services, with the option for self-collection in school. 
+1. In view of the end of the year the sales of textbooks, materials, school uniform and the PE attire for academic year 2026, School will continue to offer online sales and delivery services, with the option for self-collection in school.
 2. Parents/guardians are strongly advised to purchase school items online at [https://www.pacificbookstores.com](https://www.pacificbookstores.com) with option for home delivery (fixed delivery charge of $14.90 applies). The online ordering system is available from 6 Nov 2025 to 13 Dec 2025.
 3. Parents/guardians of S2-S4 cohorts of the next academic year are strongly advised to place orders by end-November to ensure timely deliveries and to avoid the peak sales period in the last two weeks of December to avoid a last-minute rush to purchase books and uniforms.
 4. Students who are on FAS, General Office will issue the approved FAS letter separately.
