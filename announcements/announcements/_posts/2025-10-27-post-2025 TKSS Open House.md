@@ -8,16 +8,18 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saturday__November_16th.jpg">
-</div>
 <p><strong>Open House Programme is out!</strong>
 </p>
-<p>We are excited to announce that the programme for our Open House on 16
-November 2024 is now out!</p>
-<p>You may find the FAQs and programme details <a href="https://tksec.padlet.org/pang_chau_choon/2024-tkss-open-house-faq-epmv2ugs1c231y2y" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<p>Please note:
-<br>Visitors are advised to enter the school premises via the main gate.</p>
-<p>We will not be able to accept more cars, so all drivers are advised to
-park at the nearest carpark at Haig Rd, Block 1, Singapore 429746.</p>
+<p>Dear Parents and Prospective Sec 1 Students,</p>
+<p>You are warmly invited to join us at Tanjong Katong Secondary School’s
+Open House on Saturday, 15 November 2025, from 9.00 a.m. to 12.00 p.m.
+Come and experience the TK spirit — explore our vibrant learning environment,
+meet our dedicated teachers and students, and discover how our signature
+programmes, including the Da Vinci and Einstein Programmes, nurture curious,
+confident and compassionate learners.</p>
+<p>We look forward to welcoming you and sharing how TK continues to shape
+the future of our young men and women in an inclusive and inspiring environment
+where every student matters. Let us embark on this exciting educational
+journey together!</p>
+<p>Warm regards,</p>
+<p>TK Publicity Team</p>
