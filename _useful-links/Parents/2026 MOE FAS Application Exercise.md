@@ -17,8 +17,6 @@ If you have any queries, please contact the school at Tel: 6344 3471 or you can 
 
 Alternatively, you can download the [MOE FAS application form](/files/MOE_FAS_Application_Form_2026_final.pdf)  or collect a copy at the General Office and submit the completed form directly to the school.
 
-Tip: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
-
 Thank you.
 
 Yours faithfully<br>
