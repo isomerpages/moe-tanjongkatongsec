@@ -46,6 +46,3 @@ variant: markdown
 *   Application without supporting documents, incomplete form or late submission will not be processed.
 
 *   Students who wish to transfer to another school for reasons other than those above may approach the other school directly for a place.
-
-For more enquiries on appeal or transfer matters, please email to 
-[tkss@moe.edu.sg](mailto:tkss@moe.edu.sg), or contact our Administration Manager Ms Cynthia Loke or Admin Executive Ms Harbalbir Raj Kaur at Tel: 63443471 during office hours.
