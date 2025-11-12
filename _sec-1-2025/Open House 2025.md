@@ -10,6 +10,8 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KCCyS8Xo2tw?si=oXaXU9Pz1n7ciUIk"></iframe>
 </div>
+<p><a href="/files/TK_Open_House_25.pdf" rel="noopener nofollow" target="_blank">TK Open House 2025</a>
+</p>
 <p>Dear Parents and Prospective Sec 1 Students,</p>
 <p>You are warmly invited to join us at Tanjong Katong Secondary School’s
 Open House on Saturday, 15 November 2025, from 9.00 a.m. to 12.00 p.m.
