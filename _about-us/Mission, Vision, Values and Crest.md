@@ -6,20 +6,30 @@ variant: markdown
 ---
 # Mission, Vision, Values and Crest
 
-#### Mission
+#### Our Mission
 **Enriching Minds, Nurturing Hearts; with and for the Community**
 
 In TK, we are committed to provide an inclusive learning environment for our students, by designing purposeful and engaging learning experiences for them, helping them foster meaningful relationships, and collaborating with partners to enable them to make a positive difference to the school and community, guided by our core values of Diligence, Ingenuity and Dexterity.
 
-#### Vision
-TKsians are confident, resilient, future-ready leaders, innovative, adaptive thinkers and compassionate citizens who strive for excellence to impact and contribute to society.
+#### Our Vision
+**Inquisitive Learner l Discerning Leader l Empathetic Communicator**
 
-#### Values
-Respect<br>
-Responsibility<br>
-Resilience<br>
-Integrity<br>
-Compassion<br>
+Our TK student is
+
+•an Inquisitive Learner who is curious and driven in their approach to learning.
+
+•an Empathetic Communicator who is respectful and sincere when connecting with others.
+
+•a Discerning Leader who acts with integrity and makes sound judgement in leading self and others.
+
+#### Our Core Values
+In their pursuit of learning and all undertakings, our TK student is guided by our core values of
+
+•Diligence&nbsp; : Grit and conscientious
+
+•Ingenuity&nbsp; : Inventive and innovative
+
+•Dexterity&nbsp; :&nbsp; Agile and skilful
 
 #### Crest
 <div>
@@ -30,13 +40,3 @@ On the school badge is a picture of Leonardo da Vinci, one of the most versatile
 </div></div>
 The school motto in Latin: Diligentia, Ingenium and Dexteritas.
 
-It highlights the importance of the meaning of these words:&nbsp;**Diligence**,&nbsp;**Ingenuity**&nbsp;and&nbsp;**Dexterity**
-
-**Diligence**    
-is the willingness to persevere with tenacity.
-
-**Ingenuity**  
-is embracing the spirit of being innovative, taking initiative and showing resourcefulness.
-
-**Dexterity**  
-is about having the agility of mind to respond to changing conditions and circumstances.
