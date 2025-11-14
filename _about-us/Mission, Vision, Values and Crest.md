@@ -7,7 +7,9 @@ variant: markdown
 # Mission, Vision, Values and Crest
 
 #### Mission
-To inspire and empower TKsians to be confident, resilient and future-ready leaders who are anchored by sound values to actively contribute to the betterment of society.
+**Enriching Minds, Nurturing Hearts; with and for the Community**
+
+In TK, we are committed to provide an inclusive learning environment for our students, by designing purposeful and engaging learning experiences for them, helping them foster meaningful relationships, and collaborating with partners to enable them to make a positive difference to the school and community, guided by our core values of Diligence, Ingenuity and Dexterity.
 
 #### Vision
 TKsians are confident, resilient, future-ready leaders, innovative, adaptive thinkers and compassionate citizens who strive for excellence to impact and contribute to society.
