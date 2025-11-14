@@ -23,8 +23,7 @@ confident and compassionate learners.</p>
 the future of our young men and women in an inclusive and inspiring environment
 where every student matters. Let us embark on this exciting educational
 journey together!</p>
-<p>*We seek your understanding that there are limited parking facilities
-in the school premises, and to park your vehicle in public car parks around
-the school vicinity should you plan to drive to TK.</p>
+<p>*<strong>We seek your understanding that there are limited parking facilities in the school premises, and to park your vehicle in public car parks around the school vicinity should you plan to drive to TK.</strong>
+</p>
 <p>Warm regards,</p>
 <p>TK Publicity Team</p>
