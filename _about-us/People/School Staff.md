@@ -294,17 +294,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sin Joo Lee, Jason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sin_joo_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kris Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,6 +301,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_tjin_hwai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -410,13 +410,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choong Kau Choo</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choong_kau_choo@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -581,13 +581,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Tse Sun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lam_tse_sun_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -636,13 +636,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Isnarti</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>isnarti_mohamed_noordin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1128,7 +1128,7 @@ variant: tiptap
 <p>Mr Loysius Kanrui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loysius_kan_rui@moe.edu.sg</p>
@@ -1176,6 +1176,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Siok Eng Claire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azuliana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>

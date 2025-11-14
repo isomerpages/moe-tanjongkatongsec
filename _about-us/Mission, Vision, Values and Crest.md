@@ -26,9 +26,9 @@ in leading self and others.</p>
 <h4>Our Core Values</h4>
 <p>In their pursuit of learning and all undertakings, our TK student is guided
 by our core values of</p>
-<p>•Diligence&nbsp; : Grit and conscientious</p>
-<p>•Ingenuity&nbsp; : Inventive and innovative</p>
-<p>•Dexterity&nbsp; :&nbsp; Agile and skilful</p>
+<p>•Diligence&nbsp; : Grit and conscientiousness</p>
+<p>•Ingenuity&nbsp; : Inventiveness and innovativeness</p>
+<p>•Dexterity&nbsp; :&nbsp; Agile and skilfulness</p>
 <h4>Crest</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/1-1.jpg">
