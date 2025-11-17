@@ -50,8 +50,7 @@ with your child and involve in school events and activities.</p>
 in the year 2004. This award was given in recognition of the TK PSG’s active
 and committed involvement in the School and is valid for five years.</p>
 <p>Some of activities we have participated in are shown here.</p>
-<p><a href="https://www.facebook.com/share/1CtoL9FjsG/" rel="noopener nofollow" target="_blank">FB page</a>
+<p>Tanjong Katong Sec PSG:<strong> </strong><a href="https://www.facebook.com/share/1CtoL9FjsG/" rel="noopener nofollow" target="_blank">FB page</a>
 </p>
-<p><a href="psgtkss@gmail.com" rel="noopener nofollow" target="_blank">Email</a>
+<p>Email: <a href="mailto:psgtkss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgtkss@gmail.com</a>
 </p>
-<p></p>
