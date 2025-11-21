@@ -2,37 +2,16 @@
 title: Talent Development
 permalink: /signature-programmes/talent-management/
 description: ""
+variant: markdown
 ---
 # Talent Development
-**TD@TK (TK Talent Development Programme)**
 
-**Aim**
+TK offers a comprehensive Talent Development Programme that nurtures students' strengths and supports them in realising their fullest potential. Built on a clear and progressive framework, the programme adopts a school-wide approach with three tiers of development, ensuring that all students - regardless of their starting point - can discover, develop, and extend their talents in meaningful ways to become innovative and engaged learners.
 
-The TD@TK (TK Talent Development Programme) aims to develop students who are academically strong into self-directed TK graduates who are passionate, confident and guided by sound values to lead and contribute in this VUCA (Volatile, Uncertain, Complex and Ambiguous) work environment.
+**Tier 1: Experience** offers all students authentic and hands-on experience in the learning of different subjects to cultivate essential skills, such as innovative and adaptive thinking, while fostering creativity and collaboration, all of which are required for our rapidly evolving world.
 
-**TD@TK Framework**
+**Tier 2: Enrich** extends opportunities to interested students through programmes such as the Einstein, DaVinci, and Tagore Programmes, which they may join by signing up or through teacher nomination.
 
-The TD@TK aims to develop academically high students to be critical thinkers and active learners who are significant contributors to transform their world for a better future.
+**Tier 3: Extend** supports high-ability and talented students through specialised programmes, including the Core Programme for Scholars, Einstein Plus, DaVinci Plus, and Tagore Plus. All students on the Principal’s Honours List will participate in at least one of these programmes. School-based scholars are identified from the top 2% to 5% of students in each talent area, such as Mathematics and Science. In addition, they undergo a rigorous selection process, which includes an interview conducted by a school panel comprising school leaders and members of the School Advisory Committee.
 
-The TD@TK framework has three key components as follows:
-
-[![](/images/Signature%20Programmes/TK-TD-Framework.png)](/images/Signature%20Programmes/TK-TD-Framework.png)
-
-The TD@TK programme has various platforms for talent development (see below). The framework will be applied in the various platforms.
-
-<p style="text-align: center;"><a href="/department-based/">Department-Based</a></p>
-
-<p style="text-align: center;"><a href="/principals-honours-list/" >Principal’s Honours List (PHL) : Da Vinci & Einstein Plus</a></p>
-
-<p style="text-align: center;"><a href="/stem/">Direct School Admission (DSA) : STEM@TK (Einstein Plus)</a></p>
-
-<p style="text-align: center;"><a href="/malay-language/">Direct School Admission (DSA) : Malay Language</a></p>
-
-<p style="text-align: center;"><a href="/mlep/">Malay Language Elective Programme (MLEP)</a></p>
-
-
-**TD@TK Programme** 
-
-TD@TK Programme aims to develop students to be innovative and critical thinkers who will use their knowledge and skills for the betterment of their communities.
-
-TD@TK Programme delivers an appealing curriculum that polishes the high aptitude of its participating students with the aim that the knowledge and skills honed into them are put to excellent use for their individual ambitions.
+![](/images/TK_TDP_Framework.jpg)
