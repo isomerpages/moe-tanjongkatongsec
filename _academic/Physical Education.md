@@ -35,18 +35,13 @@ Our PE syllabus is organised to achieve the goals of PE based on the framework b
 
 **TK PE Syllabus**
 
-TK PE Syllabus focuses on the dispositions, movement skilis, and knowledge components of physical education. It targets the three different domains (psychomotor, cognitive, affective) through three different approaches: Games and Sports, Outdoor Education (OE) and Physical Health and Fitness (PHF).TK’s unique Sports Science curriculum,  which will cover most of the components  from OE and PHF, will leverage on the IT knowledge of this new generation of students to gain further insights on the meaning and purpose of physical education.
+TK PE Syllabus focuses on the dispositions, movement skilis, and knowledge components of physical education. It targets the three different domains (psychomotor, cognitive, affective) through three different approaches: Games and Sports, Outdoor Education (OE) and Physical Health and Fitness (PHF).TK’s unique Sports Science curriculum,  which will cover most of the components from OE and PHF, will leverage on the IT knowledge of this new generation of students to gain further insights on the meaning and purpose of physical education.
 
 **Games & Sports**
 
 Games and sports promote the students’ playful tendency to control objects and the body during the early stages of learning. Early movement experiences, practised individually and in cooperative relationships with others, help develop competency and confidence in critical elements of discrete motor skills that progressively lead toward mature patterns. Skills practised in combination and incorporating movement concepts are essential before application across a broad range of formalised but simplified game-like activities. Games­ related concepts such as the use of space, maintaining possession, creating attack, organising defence, and defending space and running to bases are consciously weaved into appropriate teacher-structured game situations, together with an emphasis on the learning and demonstration of values like integrity, respect and sportsmanship. A range of game play experiences from territorial-invasion, net-barrier, striking-fielding, and other games encourages students’ safe and maximal participation, with modification to game rules to match and enhance their developing skills and understanding.
 
-TK PE syllabus builds on the foundation for quality movement laid at the primary level to enhance students’ mature performance across different specialised situations and physical activities, so that students become competent and enthusiastic athletes. Various physical activities have been offered (of which at least one from each game category, i.e., territorial-invasion, net-barrier and striking-fielding). Students from each level will have an opportunity to choose from the following game options
-
-*   Sec 1s: Basketball, Football, Frisbee,
-*   Sec 2s: Badminton, Netball, Softball
-*   Sec 3s: Floorball, Touch Rugby, Volleyball
-*   Sec 4s: Badminton, Softball, Volleyball
+TK PE syllabus builds on the foundation for quality movement laid at the primary level to enhance students’ mature performance across different specialised situations and physical activities, so that students become competent and enthusiastic athletes. Various physical activities have been offered (of which at least one from each game category, i.e., territorial-invasion, net-barrier and striking-fielding).
 
 **Assessment**  
 All students will be assessed in the game that they have opted for in each Semester. Students will be involved in the assessment process which includes self and peer assessment. Our objectives of assessment serves both as a formative tool for learning as well as provide a summative assessment of students’ skill attainment level at the end of each sports module.
@@ -89,8 +84,10 @@ For the practical component, based on the school’s resources and capabilities,
 | ***Categories Practical Activities (Individual/Dual Individual)*** | **Categories Practical Activities (Team)** |
 | Swimming                                                     | Basketball                             |
 | Track and Field                                              | Floorball                              |
-| Badminton                                                    | Football                               |
-| Table Tennis                                                 | Netball                                |
+| Cross Country                                                  | Football                               |
+|                                                | Netball                                |
+|                                                |                            |
+
 
 **Theoretical component** **(40%):**
 
@@ -99,3 +96,4 @@ For the practical component, based on the school’s resources and capabilities,
 *   Topic 3: Biomechanics
 *   Topic 4: Motor Learning and Development
 *   Topic 5: Sports Sociology
+*   Topic 6: Performance Analysis
