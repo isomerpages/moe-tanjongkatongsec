@@ -1,11 +1,11 @@
 ---
-title: Athletics
-permalink: /ccas/physical-sports/athletics/
+title: Track & Field
+permalink: /ccas/physical-sports/trackandfield/
 description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# Athletics
+# Track & Field
 
 ## **About**
 
