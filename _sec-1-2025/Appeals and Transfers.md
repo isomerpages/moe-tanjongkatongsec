@@ -14,9 +14,9 @@ variant: markdown
 *  Should your child have a serious medical condition and is posted to TKSS, and following our conversation with you, we are unfortunately unable to accommodate your child’s physical health needs, do file your appeal at TKSS by 12pm on the following working day after the release of the S1 posting results.
 *   If you are seeking a school transfer to TKSS due to other reasons, we seek your understanding that <br>
 		a) academic merit remains the first criterion and your child’s PSLE score must meet TKSS’ cut-off point for this year (i.e., PG3: XX and PG2:XX),<br>
-		b)	students admitted to TKSS through the DSA-Sec Exercise will not be allowed to transfer to another school; they are required to honour their commitment to TKSS for the entire duration of their secondary school education.<br>
-		c)	all school transfers will be subject to available vacancies and meeting of our admission criteria, and we may not be able to accept all appeals due to limited or no vacancies after the S1 Posting, and <br>
-		d)	the outcome may be available only from mid-January as we may need time to process all appeals. <br>
+		b) students admitted to TKSS through the DSA-Sec Exercise will not be allowed to transfer to another school; they are required to honour their commitment to TKSS for the entire duration of their secondary school education.<br>
+		c) all school transfers will be subject to available vacancies and meeting of our admission criteria, and we may not be able to accept all appeals due to limited or no vacancies after the S1 Posting, and <br>
+		d) the outcome may be available only from mid-January as we may need time to process all appeals. <br>
 *  Do also consider the potential disruption to your child’s learning when considering an appeal, as allowing your child to settle into his/ her posted school early can help him/ her adjust better to secondary school life. 
 
 2. For more information on appeal for a school transfer after S1 Posting, please refer to the MOE website at https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer
