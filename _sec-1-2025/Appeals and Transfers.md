@@ -23,7 +23,7 @@ variant: markdown
 
 
 **Timeline for appeal and transfer to TKSS:**
-* The application period for the appeal is <u>**from the day of release of Secondary 1 Posting results (0900 hours) to 26 December 2025, 12pm.**</u> <br>
+* The application period for the appeal is **<u>from the day of release of Secondary 1 Posting results (0900 hours) to 26 December 2025, 12pm.</u>** <br>
 * To submit an appeal,<br>
 			1. Access https://go.gov.sg/tkss-sec1-appeal-2026-cohort<br>
 			2. Complete all fields and upload relevant supporting documents via the same link.<br>
