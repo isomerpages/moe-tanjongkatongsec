@@ -2,72 +2,187 @@
 title: Sec 1 Information for Parents and Students (Intake 2025)
 permalink: /sec-1-2025/registration-for-newly-posted-secondary-one-students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Sec 1 Information for Parents and Students (Intake 2025)
-
-[![](/images/Sec%201%202023/Academic-year-2022.png)](/images/Sec%201%202023/Academic-year-2022.png)
-
-### **Academic Year 2025**
-
-**Welcome Note from Principal to Sec 1 Parents and Students**
-
-My staff and I warmly welcome you and your child to be part of the TK family!
-
-The next four years of Secondary School education will mark another significant milestone for your child. This journey will be both exciting and fulfilling as TK provides a safe and nurturing environment and holistic learning experiences that aim to inculcate values, socio-emotional competencies and their intrinsic motivation to learn and grow. Our team of dedicated and caring staff will be alongside with your child to provide the necessary support and guidance to equip them with the skills and mindset to thrive in the new environment. I will be elaborating more on the school programmes, curriculum and learning support structures during the Sec 1 Investiture Parent Engagement Session on&nbsp;**18 January, 8.30 am**. More details will be made available at a later date via Parents Gateway.
-
-Please do approach our staff members should you need any form of support with regard to the registration administrative matters. We look forward to working in partnership with you to develop your child to his or her fullest potential.
-
-_Mrs Dolly Ong, Principal, TKSS_
-
-### **Secondary One Registration Exercise 2025**
-
-**No Registration is required for newly posted Secondary One students**
-
-### **How to check your child's class on Parents Gateway**
-**Steps**
-1. Open the Parents Gateway app
-2. There are 4 icons at the bottom of the app; 'Home', 'Contacts', 'Services' and 'Profile'. Click on 'Contacts'.
-3. Your child's school and class will be reflected by 30th December 2024.
-4. You can also get the contact of your child's form teachers and CCA teachers when you proceed to select 'School Contact details' for your child.
-
-### **Important Information for Sec 1 students and parents**
-
-* <a href="https://www.tanjongkatongsec.moe.edu.sg/useful-links/parents/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2025/" target="_blank">Purchase of Books, PE Attire and School Uniform</a>
-
-*   <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" target="_blank">Supporting your child in transition to Sec 1</a>
-
-### **First Day of School for Secondary One 2025**
-
-|                  |                                                                                                                                   |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| **Reporting Time:**  | 0720                                                                                                                         |
-| **Dismissal:**       | 1310                                                                                                                          |
-| **Venue:**           | Sec 1 classrooms at Level 4 (Blocks B &amp; C)                                                                                                              |
-| **Attire:**          | TK Uniform or Primary School Uniform                                                                                              |
-| **Things to bring:** | Water bottle<br>Stationery<br>Working thermometer<br>Additional mask<br>School Tie<br>Sufficient money for recess and lunch break |
-
-**Sec 1 Orientation Programme**
-*   To familiarise our new Sec 1 students to the school learning environment and routines, the Sec 1 3-day Orientation programme will be held on&nbsp;**2nd, 3rd &amp; 6th January 2025**. Please note that students will be dismissed at 1310.
-*   Students are not required to bring books during orientation. The class timetable will be distributed during Orientation, and you will only be required to bring your learning materials for lessons from 5 Jan onwards.
-*   You may like to download the [Orientation Programme](/files/s1op2025.pdf). A copy will be also sent via Parents Gateway.
-
-### **Student Smart Card (SSC) for concessionary travel**
-
-*   All students entering Secondary One in January 2025 will be issued with a new Secondary level School Smart Cards (SSC)
-*   While waiting for the new SSC, students can use their Primary level SSCs for concessionary travel until end April 2025.
-
-### **Transport to School**
-
-1\.  There is no School Bus Service provided by the school.  
-2\.  Due to the heavy traffic during the morning hours, students are strongly discouraged from cycling to school.
-
-
-
-<b><u>Getting to TK</u></b>
-<br>**Nearest MRT Station:**<br>
-* Dakota (CCL), Paya Lebar (EWL) &amp; Tanjong Katong (TEL)<br>
-
-**Bus Services:**
-* 16, 33 &amp; 135 (along Dunman Road, beside &amp; opposite TK side gate)<br>
-*	30, 40, 43, 134, 135 &amp; 197 (along Tanjong Katong Road, 6-8 minutes walk from TK side gate)<br>
+<h1>Information for Parents and Students (2026 Cohort)</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_year_2022.png">
+</div>
+<h3><strong>Welcome Note to 2026 Sec 1 Parents and Students</strong></h3>
+<p>On behalf of all of us in TK, a very warm welcome to our TK family!
+<br>
+</p>
+<p>Transition from Primary to Secondary School is a key milestone in the
+educational journey of all students, and guided by our belief that a successful
+transition will bring about long lasting effects, in particular, in enabling
+our students to feel belonged and valued, and excited and motivated to
+continue to learn and grow in TK, we have lined up a series of transition
+programmes for our new S1 students throughout the year.
+<br>
+</p>
+<p>The 2026 S1 Orientation programme kick-starts our transition support for
+all our S1 students, and information on the programme and some administrative
+information that we thought might be useful to you before the start of
+the 2026 School Year can be found further on this webpage below.
+<br>
+</p>
+<p>Please do not hesitate to contact me or my team at tkss@moe.edu.sg or
+6344 3471 should you have clarifications. We are most happy to help ease
+the transition to TK for all of you.
+<br>
+</p>
+<p>To all our S1 students, we are excited to have you with us and look forward
+to welcoming you to our TK family on 2 January 2026.
+<br>Happy holidays to all!</p>
+<p>Warm regards,
+<br><em>Mrs Ruby Khoo, Principal, TKSS</em>
+</p>
+<h3><strong>2026 S1 Orientation Programme</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To support our 2026 S1 students in their transition to TK, a 3-day S1
+Orientation programme is planned to familiarise them with the school and
+school routines, and more importantly, to get to know their peers in TK.
+The brief overview of the details of the S1 Orientation programme is as
+follows:</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am - 12.40pm</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>• On 2 January,</p>
+<p>a) Report to TK by 7.30am; seniors will be present to direct all S1 students
+to their classroom.</p>
+<p>b) Come attired in half-uniform (i.e., TK polo-T-shirt, skirt/ pants and
+white shoes).</p>
+<p>c) Bring along a set of stationery, a water bottle and sufficient cash
+for recess break, i.e., no need to bring learning materials to school.</p>
+<p>• Formal lessons will commence from 7 January 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am - 1.10pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am - 1.10pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>The detailed S1 Orientation Programme, together with all S1 related matters,
+will be sent to all parents via Parents Gateway (PG). For parents who are
+not onboard PG, the above information will be sent to you via email, through
+the contact details that was previously shared with MOE.</p>
+</li>
+<li>
+<p>Do note that you will also be able to access information on class allocation
+via PG from 31 December 2025, the steps of which are as follows:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Open the Parents Gateway application, where you will see 4 icons at the
+bottom of the application, i.e., ‘Home’, ‘Contacts’, ‘Services’ and ‘Profile’.</p>
+</li>
+<li>
+<p>Click on ‘Contacts’ and you will be able to view the class allocated to
+your child.</p>
+</li>
+</ol>
+</li>
+</ul>
+<h3><strong>Purchase of School Uniform, PE Attire and S1 Textbooks</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>School uniform, PE Attire and S1 textbooks can be purchased at the school
+bookstore located in the school canteen area from the day of release of
+the S1 posting results.</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Operating Hours (in December 2025)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22, 23 &amp; 26 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am - 3.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 &amp; 27 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am - 12.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The guidelines and price list for our school uniform, and the S1 booklist
+can be found via this <a href="https://www.tanjongkatongsec.moe.edu.sg/useful-links/parents/purchase-of-text-and-workbooks-pe-attire-and-school-uniform-2026/" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p>You may choose to place an advance order for the textbooks via this
+<a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">link</a>and opt for home delivery or walk-in to collect or purchase the
+S1 textbooks during the operating hours indicated above.</p>
+<h3><strong>Getting to TK</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>The school does not provide School Bus Service and to if coming by public
+transport,</p>
+<p><strong>Nearest MRT Station</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dakota (CCL), Paya Lebar (EWL) &amp; Tanjong Katong (TEL)</p>
+</li>
+</ul>
+<p><strong>Bus Services</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>16, 33 &amp; 135 (along Dunman Road, beside &amp; opposite TK side gate)</p>
+</li>
+<li>
+<p>30, 40, 43, 134, 135 &amp; 197 (along Tanjong Katong Road, 6-8 minutes’
+walk from TK side gate)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>All S1 students entering TK in January 2026 will be issued with a new
+Secondary level School Smart Cards (SSC) by April 2026. Till then, students
+will continue to use their Primary level SSCs for concessionary travel.</p>
+</li>
+</ol>
+<p></p>
