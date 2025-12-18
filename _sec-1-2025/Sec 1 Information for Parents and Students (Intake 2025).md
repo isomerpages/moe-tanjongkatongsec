@@ -62,10 +62,12 @@ _Mrs Dolly Ong, Principal, TKSS_
 1\.  There is no School Bus Service provided by the school.  
 2\.  Due to the heavy traffic during the morning hours, students are strongly discouraged from cycling to school.
 
+
+
 <b><u>Getting to TK</u></b>
+<br>**Nearest MRT Station:**<br>
+* Dakota (CCL), Paya Lebar (EWL) &amp; Tanjong Katong (TEL)<br>
 
-**Nearest MRT Station:**&nbsp;Paya Lebar &amp; Dakota Station
-
-**Bus Services:**<br>
-16, 33 (Dunman Road beside/opposite TK side&nbsp;gate)<br>
-10, 31, 32, 40, 76, 135, 197 (Tanjong Katong Road)
+**Bus Services:**
+* 16, 33 &amp; 135 (along Dunman Road, beside &amp; opposite TK side gate)<br>
+*	30, 40, 43, 134, 135 &amp; 197 (along Tanjong Katong Road, 6-8 minutes walk from TK side gate)<br>
