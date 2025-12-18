@@ -158,7 +158,7 @@ S1 textbooks during the operating hours indicated above.</p>
 <h3><strong>Getting to TK</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>The school does not provide School Bus Service and to if coming by public
+<p>The school does not provide School Bus Service and if coming by public
 transport,</p>
 <p><strong>Nearest MRT Station</strong>
 </p>
