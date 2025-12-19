@@ -4,7 +4,6 @@ permalink: /sec-1-2026/registration-for-newly-posted-secondary-one-students/
 description: ""
 variant: tiptap
 ---
-<h1>Information for Parents and Students (2026 Cohort)</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_year_2022.png">
 </div>
