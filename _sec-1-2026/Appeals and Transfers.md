@@ -25,7 +25,7 @@ results.</p>
 <p>If you are seeking a school transfer to TKSS due to other reasons, we
 seek your understanding that
 <br>a) academic merit remains the first criterion and your child’s PSLE score
-must meet TKSS’ cut-off point for this year <strong>(i.e., PG3: XX and PG2:XX),</strong>
+must meet TKSS’ cut-off point for this year <strong>(i.e., PG3: 13 and PG2: 23),</strong>
 <br>b) students admitted to TKSS through the DSA-Sec Exercise will not be
 allowed to transfer to another school; they are required to honour their
 commitment to TKSS for the entire duration of their secondary school education.
