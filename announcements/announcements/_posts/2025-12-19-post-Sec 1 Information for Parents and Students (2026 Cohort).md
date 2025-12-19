@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_year_2022.png">
+</div>
 <h3><strong>Welcome Note to 2026 Sec 1 Parents and Students</strong></h3>
 <p>On behalf of all of us in TK, a very warm welcome to our TK family!</p>
 <p>Transition from Primary to Secondary School is a key milestone in the
