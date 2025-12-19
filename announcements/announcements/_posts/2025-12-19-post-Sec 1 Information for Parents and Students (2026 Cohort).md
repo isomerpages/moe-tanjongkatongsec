@@ -1,35 +1,30 @@
 ---
 title: Sec 1 Information for Parents and Students (2026 Cohort)
-permalink: /sec-1-2026/registration-for-newly-posted-secondary-one-students/
+permalink: /sec-1-information-for-parents-and-students-2026-cohort/
+date: 2025-12-19
+layout: post
 description: ""
+image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_year_2022.png">
 </div>
 <h3><strong>Welcome Note to 2026 Sec 1 Parents and Students</strong></h3>
-<p>On behalf of all of us in TK, a very warm welcome to our TK family!
-<br>
-</p>
+<p>On behalf of all of us in TK, a very warm welcome to our TK family!</p>
 <p>Transition from Primary to Secondary School is a key milestone in the
 educational journey of all students, and guided by our belief that a successful
 transition will bring about long lasting effects, in particular, in enabling
 our students to feel belonged and valued, and excited and motivated to
 continue to learn and grow in TK, we have lined up a series of transition
-programmes for our new S1 students throughout the year.
-<br>
-</p>
+programmes for our new S1 students throughout the year.</p>
 <p>The 2026 S1 Orientation programme kick-starts our transition support for
 all our S1 students, and information on the programme and some administrative
 information that we thought might be useful to you before the start of
-the 2026 School Year can be found further on this webpage below.
-<br>
-</p>
+the 2026 School Year can be found further on this webpage below.</p>
 <p>Please do not hesitate to contact me or my team at tkss@moe.edu.sg or
 6344 3471 should you have clarifications. We are most happy to help ease
-the transition to TK for all of you.
-<br>
-</p>
+the transition to TK for all of you.</p>
 <p>To all our S1 students, we are excited to have you with us and look forward
 to welcoming you to our TK family on 2 January 2026.
 <br>Happy holidays to all!</p>

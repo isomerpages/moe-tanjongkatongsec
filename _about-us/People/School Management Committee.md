@@ -40,17 +40,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo-Ng Siew Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Acad)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_siew_chin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Aruumugam Samikkannu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,17 +256,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_ain_kamarulzaman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Cherlyn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Biology / LS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_suat_ying_cherlyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

@@ -1,7 +1,10 @@
 ---
-title: Appeals and Transfers
+title: Appeals and Request for Transfer for Admission to S1 at TKSS
 permalink: /sec-1-2026/appeals-and-transfers/
+date: 2025-12-19
+layout: post
 description: ""
+image: ""
 variant: tiptap
 ---
 <h4><strong><u>Appeals and Request for Transfer for Admission to S1 at TKSS</u></strong></h4>
@@ -33,9 +36,7 @@ commitment to TKSS for the entire duration of their secondary school education.
 of our admission criteria, and we may not be able to accept all appeals
 due to limited or no vacancies after the S1 Posting, and
 <br>d) the outcome may be available only from mid-January as we may need time
-to process all appeals.
-<br>
-</p>
+to process all appeals.</p>
 </li>
 <li>
 <p>Do also consider the potential disruption to your child’s learning when
@@ -55,16 +56,13 @@ please refer to the MOE website at <a href="https://www.moe.gov.sg/secondary/s1-
 <ul data-tight="true" class="tight">
 <li>
 <p>The application period for the appeal is <strong><u>from the day of release of Secondary 1 Posting results (0900 hours) to 26 December 2025, 12pm.</u></strong> 
-<br>
 </p>
 </li>
 <li>
 <p>To submit an appeal,
 <br>1. Access <a href="https://go.gov.sg/tkss-sec1-appeal-2026-cohort" rel="noopener nofollow" target="_blank">https://go.gov.sg/tkss-sec1-appeal-2026-cohort</a>
 <br>2. Complete all fields and upload relevant supporting documents via the
-same link.
-<br>
-</p>
+same link.</p>
 </li>
 <li>
 <p>We seek your understanding that incomplete and late submissions will not

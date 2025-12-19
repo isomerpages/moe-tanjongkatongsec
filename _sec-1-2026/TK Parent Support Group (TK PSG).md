@@ -1,6 +1,6 @@
 ---
 title: TK Parent Support Group (TK PSG)
-permalink: /sec-1-2025/parent-support-group-psg-tkss/
+permalink: /sec-1-2026/parent-support-group-psg-tkss/
 description: ""
 variant: tiptap
 ---
