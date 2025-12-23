@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahera Mohd</p>
+<p>Mdm Shahera Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Craft &amp; Tech</p>
@@ -205,10 +205,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Yong Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yong_xin_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohammed Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
@@ -216,13 +227,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Izyan</p>
+<p>Mr Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH EL &amp; Literature (Sec 1 &amp; 3)</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
+<p>azlan_azri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_yu_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -234,6 +256,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_hazelin_idayu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Izyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH EL &amp; Literature (Sec 1 &amp; 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -267,6 +300,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_ain_kamarulzaman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessica Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_fenyu_jessica@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
