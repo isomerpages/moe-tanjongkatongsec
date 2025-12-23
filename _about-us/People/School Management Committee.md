@@ -194,17 +194,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lye Jee Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH EL &amp; Literature (Sec 2 &amp; 4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lye_jee_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
