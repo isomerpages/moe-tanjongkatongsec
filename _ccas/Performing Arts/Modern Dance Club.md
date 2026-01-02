@@ -25,6 +25,5 @@ Through dance, members engage in VIA projects, using their talents to inspire an
 
 ## **Teachers-in-Charge**
 
-*   **Mrs Audrey Chen**
-*   Miss Noorashikin
+*   **Miss Noorashikin**
 *   Miss Ayshathun
