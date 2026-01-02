@@ -21,14 +21,14 @@ respect, selflessness and teamwork in the shooters.</p>
 <h2><strong>Teachers-in-Charge</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mrs Quek Toh Peng</strong>
+<p><strong>Ms Shobah</strong>
 </p>
 </li>
 <li>
-<p>Miss Tan Sze Eng</p>
+<p>Mr Chye De San</p>
 </li>
 <li>
-<p>Mdm Chin Sock Huay</p>
+<p>Mr Ong Victor</p>
 </li>
 </ul>
 <p></p>
