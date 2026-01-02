@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hasha Iman Binte Khamilnullah</p>
+<p>Ms Hasha Iman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -198,7 +198,7 @@ variant: tiptap
 <p>Mdm Goh Fenyu Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_fenyu_jessica@moe.edu.sg</p>
