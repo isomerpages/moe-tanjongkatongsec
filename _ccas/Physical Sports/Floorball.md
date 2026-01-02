@@ -19,7 +19,7 @@ TK Floorball aims to develop not only the girls’ technicalities, but we also s
 
 *   **Miss Ermawati**
 *   Ms Marliyana Lim
-*   Ms Syafeena
+*   Mrs Hwang Lay Beng
 
 
 **Achievements**
