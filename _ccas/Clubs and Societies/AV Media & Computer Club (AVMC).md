@@ -56,5 +56,5 @@ Bhargav Piyushkumar Singapuri (4C, 2014)
 
 ## **Teachers-in-Charge**
 
-*   **Miss Nani Rahayu**
-*   Mrs Hwang Lay Beng
+*   **Mrs Quek Toh Peng**
+*   Miss Nani Rahayu
