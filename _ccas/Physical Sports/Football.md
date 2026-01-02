@@ -31,8 +31,8 @@ Mr Roy Soh
 ## **Teachers-in-Charge**
 
 *   **Mr Colin Chew**
-*   Mr Roy Soh
 *   Mr Ian Chan
+*   Ms Yvonne Leow
 
 
 ## **Training Days &amp; Times**
