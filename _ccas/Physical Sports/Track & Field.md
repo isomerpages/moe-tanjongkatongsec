@@ -19,6 +19,6 @@ Ian Loke (3D)
 
 ## **Teachers-in-Charge**
 
-*   **Miss Pang Ling Li**
-*   Mr Bennett Lim
-*   Ms Han Li
+*   **Mr Bennett Lim**
+*   Miss Pang Ling Li
+*   Ms Arista Pang
