@@ -23,4 +23,4 @@ variant: markdown
 **Teachers-in-Charge**
 *   **Mr Vincent Ng**
 *   Ms Shelley Chan
-*   Mr Ong Hoong Siong
+*   Mr Roy Soh
