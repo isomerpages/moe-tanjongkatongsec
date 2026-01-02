@@ -57,6 +57,5 @@ Anson Chan (3F)
 
 ## **Teachers-in-Charge**
 
-*   **Mdm Chow Lee Lee**
-*   Ms Siti Sapiya
-*   Mr Yusfiandi Yatiman
+*   **Mr Yusfiandi Yatiman**
+*   Miss Tan Sze Eng
