@@ -134,6 +134,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tan Siew Ee Jocelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wira Ciptadi Pitoyo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,6 +152,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wira_ciptadi_pitoyo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hasha Iman Binte Khamilnullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
