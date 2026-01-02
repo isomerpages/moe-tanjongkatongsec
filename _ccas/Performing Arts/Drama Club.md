@@ -20,4 +20,3 @@ Siti Nur Sabrina Bte Yusri (3C)
 
 *   **Mr Hareesh s/o Methil Bhaskaran**
 *   Ms Tan Mui Mui
-*   Ms Arista Pang
