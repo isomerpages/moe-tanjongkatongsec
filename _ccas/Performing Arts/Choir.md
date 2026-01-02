@@ -26,4 +26,3 @@ Darren Chan (3D)
 
 *   **Ms Anisah Hassan**
 *   Ms Foo Wen Hui
-*   Ms Sri Nabilah
