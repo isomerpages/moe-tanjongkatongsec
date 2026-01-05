@@ -32,6 +32,6 @@ Mr Lawrence Siao
 ## **Teachers-in-Charge**
 
 *   **Mr Siao Choon Keong Lawrence**
-*   Ms Leow Sze Sze
-*   Ms Shobah d/o Tamilchelvan
+*   Ms Audra Amir Liow
+*   Ms Han Li
 *   Mrs Tey Wei Yen
