@@ -28,7 +28,7 @@ respect, selflessness and teamwork in the shooters.</p>
 <p>Mr Chye De San</p>
 </li>
 <li>
-<p>Mr Ong Victor</p>
+<p>Mr Victor Ong</p>
 </li>
 </ul>
 <p></p>
