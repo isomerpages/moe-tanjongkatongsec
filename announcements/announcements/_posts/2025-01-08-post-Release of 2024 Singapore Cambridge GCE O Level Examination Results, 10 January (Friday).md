@@ -8,11 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>RELEASE OF 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS, 10 JANUARY (FRIDAY)</strong>
-</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Students will return to school on 10 Jan 2025 (Friday) to receive your
+<p>Students will return to school on 14 Jan 2026 (Wednesday) to receive your
 GCE-O results in the hall at 2.30pm. You must report in full school uniform
 (this will be the last chance for you to dress up with a common identity
 - Team TK), proper hairstyles (short and neat and no coloured hair) and
@@ -43,8 +41,8 @@ may contact their schools for assistance if they are unable to appoint
 a proxy.</p>
 </li>
 <li>
-<p>Please also inform Mdm Halilah if you cannot come to school on 10 Jan
-(Friday) to collect your results slip due to any other reason(s).</p>
+<p>Please also inform Mdm Halilah if you cannot come to school on 14 Jan
+(Wednesday) to collect your results slip due to any other reason(s).</p>
 <p>&nbsp;</p>
 <p>Thank you.</p>
 </li>
