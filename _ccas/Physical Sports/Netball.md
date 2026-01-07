@@ -17,5 +17,5 @@ Visit our TK Netball instagram page!
 
 ##  **Teachers-in-Charge**
 *   **Ms Noor Intan**
-*   Mdm Nabilah Banu
+*   Ms Nabilah Banu
 *   Ms Zhao Zixi
