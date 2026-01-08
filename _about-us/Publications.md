@@ -2,8 +2,9 @@
 title: Publications
 permalink: /about-us/publications/
 description: ""
+variant: markdown
 ---
-# **Publications**
+
 
 |                          |                          |
 |--------------------------|--------------------------|
