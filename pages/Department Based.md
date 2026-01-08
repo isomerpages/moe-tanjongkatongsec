@@ -2,9 +2,8 @@
 title: Department Based
 permalink: /department-based/
 description: ""
+variant: markdown
 ---
-# Department-Based
-
 **TD@TK Application: Department-Based**
 
 All departments in TK have their respective talent development programme for their high-progress students. These programmes are aligned to the TD@TK framework.
@@ -25,9 +24,9 @@ All departments in TK have their respective talent development programme for the
 
 <p style="text-align: justify;">At the Lower Secondary levels, students are equipped with skills to carry out scientific research and engage in the ways of thinking and doing Science through Investigative Research (IR). Selected Sec 2 students will embark on different programmes, such as Forensic Science workshop and collaboration project with Urban Insect Farm. Students will have the opportunity to develop research questions and design experiments to test their hypotheses. Research will cut across all three Science disciplines and beyond. Students will also have opportunities to hone their communication and oracy skills through presentations with the school community.</p>
 
-<p style="text-align: justify;">Selection criteria for Lower Secondary students will be based on their WA results, recommendations from teachers on students’ Science learning dispositions as well as volunteers from highly-interested students. </p>
+<p style="text-align: justify;">Selection criteria for Lower Secondary students will be based on their WA results, recommendations from teachers on students’ Science learning dispositions as well as volunteers from highly-interested students.&nbsp;</p>
 
-<p style="text-align: justify;">Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge. </p>
+<p style="text-align: justify;">Upper Secondary students talented in Science will be selected to participate in the Applied Elective Module (AEM) at Polytechnics and Science Olympiad trainings. They will then participate in the Olympiad competitions as well as other Science-related competitions such as the C.B. Paul Science Quiz and International Biomedical Quiz. Selected students will also have the opportunity to participate in the National Science Challenge.&nbsp;</p>
 
 [![Arrow 2](/images/Arrow-2.png)](/images/Arrow-2.png)
 
@@ -51,7 +50,7 @@ All departments in TK have their respective talent development programme for the
 
 **TD@TK Humanities**
 
-<p style="text-align: justify;">TD@TK Humanities is a mentoring-competition programme that enriches Sec 2 to Sec 4 students. These students are selected based on their excellent performances in Humanities in their respective End-of-Year examinations. They are mentored by the department teachers to plan and implement student-initiated activities for the annual Humanities Enrichment Week scheduled in Term 3 as well as take part in competitions.  </p>
+<p style="text-align: justify;">TD@TK Humanities is a mentoring-competition programme that enriches Sec 2 to Sec 4 students. These students are selected based on their excellent performances in Humanities in their respective End-of-Year examinations. They are mentored by the department teachers to plan and implement student-initiated activities for the annual Humanities Enrichment Week scheduled in Term 3 as well as take part in competitions. &nbsp;</p>
 
 <p style="text-align: justify;">Sec 3 and 4 students who are highly-proficient in Humanities are also mentored to participate in the competitions organised by higher institutions.</p>
 
