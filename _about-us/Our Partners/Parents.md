@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Partners
 variant: tiptap
 ---
-<h1><strong>TK Parent Support Group (PSG)</strong></h1>
+<h4><strong>TK Parent Support Group (PSG)</strong></h4>
 <p>Guided by the school’s vision for partnership, “The Power of We – Nurturing
 Aspirations through Partnerships”, and values of open communication, mutual
 respect and shared responsibility, the TK Parent Support Group (PSG) has
@@ -27,5 +27,5 @@ learning and development in the school.</p>
 <p>There are many opportunities for parents to be involved in their child’s
 learning in TK, as well as opportunities for parents to connect with each
 other. Parents who are keen to be part of the TK PSG community are encouraged
-to join the TK PSG, and to find out more, do write to <a href="mailto:psgtkss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgtkss@gmail.com</a>
-</p>
+to join the TK PSG, and to find out more, do write to psgtkss@gmail.com</p>
+<p></p>
