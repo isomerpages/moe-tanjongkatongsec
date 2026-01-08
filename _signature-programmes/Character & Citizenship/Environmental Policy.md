@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap
 ---
-<h1>Environmental Policy</h1>
 <p><strong>TK’s Environmental Policy</strong>
 </p>
 <ul data-tight="true" class="tight">
