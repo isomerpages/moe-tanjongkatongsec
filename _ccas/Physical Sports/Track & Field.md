@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# Track & Field
-
 ## **About**
 
 TK athletes are a class of their own. This CCA demands nothing less from them than total discipline, commitment and perseverance to be the best in their events. The athletes train twice a week at least under a qualified and experienced coach. The training programme aims to develop in our athletes not only physical strength, prowess, power and muscular endurance but also mental rigor. These qualities help to build the character of TK athletes who are focused, confident and resilient.
