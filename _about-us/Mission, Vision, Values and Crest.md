@@ -4,7 +4,6 @@ permalink: /about-us/mission-vision-values-and-crest/
 description: ""
 variant: tiptap
 ---
-<h1>Mission, Vision, Values and Crest</h1>
 <h4>Our Mission</h4>
 <p><strong>Enriching Minds, Nurturing Hearts; with and for the Community</strong>
 </p>
