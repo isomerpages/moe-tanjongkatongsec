@@ -4,7 +4,6 @@ permalink: /academic/physical-education/
 description: ""
 variant: markdown
 ---
-# Physical Education
 **Vision**
 
 The purpose of physical education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
