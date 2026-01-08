@@ -4,7 +4,6 @@ permalink: /sec-1-2026/openhouse2025/
 description: ""
 variant: tiptap
 ---
-<h1>Open House 2025</h1>
 <p><u>The TKSS Experience</u>
 </p>
 <div class="iframe-wrapper">
