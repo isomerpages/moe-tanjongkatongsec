@@ -8,33 +8,23 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<ol data-tight="true" class="tight">
-<li>
-<p>Students will return to school on 14 Jan 2026 (Wednesday) to receive your
-GCE-O results. Students are to report in the hall at 1.30pm. You must report
-in full school uniform (this will be the last chance for you to dress up
-with a common identity - Team TK), proper hairstyles (short and neat and
-no coloured hair) and white-based shoes and white socks. You will be denied
-entry to the school hall if your decorum does not meet the school requirements.</p>
-</li>
-<li>
-<p>Due to space constraints, we will not be able to accommodate to any request
-for carpark on that day. Do inform your parents/guardians regarding this
-matter.</p>
-</li>
-<li>
-<p>School candidates who are unable to collect their results in person can
-also appoint a proxy to collect a physical copy of their results on their
-behalf from the school. Proxies are required to produce the relevant documents
-for the school’s verification when collecting the results. School candidates
-may contact their schools for assistance if they are unable to appoint
-a proxy.</p>
-</li>
-<li>
-<p>Please also inform Mdm Halilah (<a href="mailto:halilah_salim_alkhatib@moe.edu.sg" rel="noopener nofollow" target="_blank">halilah_salim_alkhatib@moe.edu.sg</a>)
-if you cannot come to school on 14 Jan (Wednesday) to collect your results
-slip due to any other reason(s)</p>
-<p>Thank you.</p>
-</li>
-</ol>
+<h4>To our class of 2025,</h4>
+<p>The 2025 Singapore-Cambridge GCE O-Level Examination Results will be released
+on 14 Jan 2026 (Wednesday) at 2pm. You are to report to the School Hall
+by 1.30pm in full school uniform, with proper hairstyle (neat and no coloured
+hair) and white-based shoes and white socks to receive your results slip.
+Do note that you will be denied entry to the School Hall if you are not
+properly attired or neat in your appearance.</p>
+<p>More importantly, if you are not able to collect your results slip in
+person, you may appoint a proxy to collect the physical copy of your results
+slip on your behalf. Please note that your proxy is required to produce
+the relevant documents for the school’s verification. Do contact Mdm Halilah
+at <a href="mailto:halilah_salim_alkhatib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halilah_salim_alkhatib@moe.edu.sg</a> if
+you are not able to come to school to collect your results slip on 14 Jan
+and/or require assistance if you are unable to appoint a proxy.</p>
+<p>Last but not least, if your parents are coming with you and are driving,
+do help inform them that there is limited parking facilities within the
+school, and to park their vehicle at the public carpark at the HBD blocks
+at Haig Road.</p>
+<p>Looking forward to seeing you again on 14 Jan.</p>
 <p></p>
