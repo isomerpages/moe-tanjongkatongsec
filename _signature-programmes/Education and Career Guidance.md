@@ -2,8 +2,8 @@
 title: Education and Career Guidance
 permalink: /signature-programmes/education-and-career-guidance/
 description: ""
+variant: markdown
 ---
-# Education and Career Guidance
 ### **Aim**
 
 To equip TKsians with requisite attributes and competencies to succeed in their future education and career.
