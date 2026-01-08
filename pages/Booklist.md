@@ -2,14 +2,13 @@
 title: Booklist
 permalink: /booklist/
 description: ""
+variant: markdown
 ---
-# Booklist
-
 #### **User Guide for Online Purchase of School Textbooks for Year 2022**
 
 In consideration of the current COVID 19 pandemic, Pacific Bookstores would like to propose the following procedures for the year end book sale to all our valued customers to ensure a smooth and pleasant purchase experience.
 
-We encourage parents to make their purchase via our new online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) with effect from **5th November to 13th December 2021 ( Sec 2-4 )** and **Sec 1** will be launched from **20th to 26th December 2021.**
+We encourage parents to make their purchase via our new online platform ([https://www.pacificbookstores.com](https://www.pacificbookstores.com/)) with effect from&nbsp;**5th November to 13th&nbsp;December 2021 ( Sec 2-4 )**&nbsp;and&nbsp;**Sec 1**&nbsp;will be launched from&nbsp;**20th&nbsp;to 26th&nbsp;December 2021.**
 
 This new platform will enable you to purchase with the option of Home Delivery or Self-Collection. Please find the guided procedures for your purchases.
 
@@ -34,7 +33,7 @@ This new platform will enable you to purchase with the option of Home Delivery o
 
 [![Pacific Bookstore 3.png](/images/Booklist/Pacific-bookstore-3.jpg)](/images/Booklist/Pacific-bookstore-3.jpg)
 
-**Step 5** – Complete your order and checkout before the session expires within the **60** minutes.
+**Step 5**&nbsp;– Complete your order and checkout before the session expires within the&nbsp;**60**&nbsp;minutes.
 
 [![Pacific Bookstore 4.jpg](/images/Booklist/Pacific-bookstore-4.png)](/images/Booklist/Pacific-bookstore-4.png)
 
@@ -66,10 +65,9 @@ Step 2. Select PAYNOW on your banking app
 
 Step 3. Scan QR code using banking app to make payment.
 
-<a href="/images/Booklist/Pacific-bookstore-10.png"> <img src="/images/Booklist/Pacific-bookstore-10.png" 
-     style="width:30%"></a>
+<a href="/images/Booklist/Pacific-bookstore-10.png"> <img src="/images/Booklist/Pacific-bookstore-10.png" style="width:30%"></a>
 
-12\. You will receive a confirmation email once you have successfully made your payment. An invoice will be attached together with your confirmation email. Alternatively, you may also print your invoice from Pacific Bookstores website under your User Account -> Orders
+12\. You will receive a confirmation email once you have successfully made your payment. An invoice will be attached together with your confirmation email. Alternatively, you may also print your invoice from Pacific Bookstores website under your User Account -&gt; Orders
 
 *   [TKSS S1 BOOKLIST](/files/Booklist/TKSS-S1-BOOKLIST.pdf)
 *   [TKSS S2 BOOKLIST](/files/Booklist/TKSS-S2-BOOKLIST.pdf)
