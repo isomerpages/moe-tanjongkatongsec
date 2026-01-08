@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA Achievements/.keep
-      - CCA Achievements/CCA Achievements.md
       - CCA Achievements/2025.md
       - CCA Achievements/2024.md
       - CCA Achievements/2023.md
