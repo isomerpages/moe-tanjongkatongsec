@@ -4,7 +4,6 @@ permalink: /useful-links/teachers/
 description: ""
 variant: tiptap
 ---
-<h1>Teachers</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
