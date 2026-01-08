@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Partners
 variant: tiptap
 ---
-<h1>Alumni</h1>
 <p>The term “alma mater’ is Latin for “nourishing mother”. In TK, we encourage
 our alumni to come back to their TK and strengthen bonds developed while
 they were in school TK believes in working closely with our alumni through
