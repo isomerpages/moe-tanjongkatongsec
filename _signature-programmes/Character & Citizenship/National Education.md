@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap
 ---
-<h1>National Education</h1>
 <p>NE&nbsp;Vision:</p>
 <p><strong>Cherishing&nbsp;our History, Charting our Future.</strong>
 </p>

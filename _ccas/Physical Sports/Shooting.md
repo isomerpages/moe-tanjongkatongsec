@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Shooting</h1>
 <h2><strong>About</strong></h2>
 <p>Shooting. The best mind game ever.</p>
 <p>TK Shooting provides an opportunity to shoot air pistols in a safe environment.
@@ -28,7 +27,7 @@ respect, selflessness and teamwork in the shooters.</p>
 <p>Mr Chye De San</p>
 </li>
 <li>
-<p>Mr Ong Victor</p>
+<p>Mr Victor Ong</p>
 </li>
 </ul>
 <p></p>

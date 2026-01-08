@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: markdown
 ---
-# Cyber Wellness Education
 
 <p style="text-align: center;"><b> Overview of Cyber Wellness Education at TK </b></p>
 

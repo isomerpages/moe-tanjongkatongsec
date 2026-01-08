@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-# Choir
 ## **About**
 
 TK Choir was formed in 1992 with merely 30 members. Since then, it has grown from strength to strength and comprises over 100 members today.
@@ -26,3 +25,4 @@ Darren Chan (3D)
 
 *   **Ms Anisah Hassan**
 *   Ms Foo Wen Hui
+*   Ms Sun Ying

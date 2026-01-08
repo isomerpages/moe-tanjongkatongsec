@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-# NCC Land
-
 ## **About**
 
 <p style="text-align: justify;">        
@@ -16,3 +14,4 @@ TK NCC (Land) consistently upholds its status as a quality Gold Unit, having ear
 ## **Teachers-in-Charge**
 *   **Ms Estee Goh**
 *   Mr Edmund Khee
+*   Mr Bryan Tan

@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap
 ---
-<h1>Character Education</h1>
 <p><strong>Character and Citizenship Education</strong>
 </p>
 <p>Key programmes in CCE (i.e. VIA, ECG, Student Leadership, Outdoor Education,

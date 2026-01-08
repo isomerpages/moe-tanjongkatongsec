@@ -5,8 +5,6 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-<h4>School Advisory Committee</h4>
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead></thead><tbody><tr><td colspan="2" style="background-color:#065125;border-color:#cccccc;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#FFF"></span></td></tr>
 
 <tr><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Teo Hong Lim</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Chairman</span></td></tr>

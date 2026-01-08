@@ -2,8 +2,8 @@
 title: MLEP
 permalink: /mlep/
 description: ""
+variant: markdown
 ---
-# MLEP
 **Introduction**
 
 <p style="text-align: justify;">The Malay Language Elective Programme (MLEP) is a two-year programme introduced by MOE so as to nurture bilingual talents and to enhance their understanding of Malay language, literature and culture. Currently there are three secondary schools offering MLEP: Anderson Secondary School, Bukit Panjang Government High School and Tanjong Katong Secondary School. The MLEP programme was introduced in Tanjong Katong Secondary in 2020.</p>

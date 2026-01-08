@@ -5,7 +5,6 @@ description: tkss staff
 third_nav_title: People
 variant: tiptap
 ---
-<h4>School Staff</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -140,7 +139,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -432,24 +431,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Bee Hwee Jacqueline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhao Chun Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zhao_chunyang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -664,7 +652,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_meng_thong_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +663,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_xianheng_bryan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1009,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ong_victor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

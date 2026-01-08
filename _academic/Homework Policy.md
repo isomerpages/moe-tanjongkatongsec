@@ -2,8 +2,8 @@
 title: Homework Policy
 permalink: /academic/homework-policy/
 description: ""
+variant: markdown
 ---
-# Homework Policy
 In TK, the following principles for assigning homework are adopted:
 
 (a)   Homework set has strong emphasis on the development of core skills  

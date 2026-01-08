@@ -4,8 +4,6 @@ permalink: /for-students/
 description: ""
 variant: markdown
 ---
-# Students
-
 *   <a href="http://www.syfc.sg/" target="_blank">SYFC</a>
 *   <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a>
 *   <a href="https://go.gov.sg/tksspwreset" target="_blank">Password Reset</a>

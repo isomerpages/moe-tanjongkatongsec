@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# Netball
 ## **About**
 
 TK Netball provides our netballers with an enriching experience to grow into confident and resilient sportswomen. We believe in holistic development for all girls and work towards achieving their full potential. Through rigorous training, we hope to develop confidence, perseverance and responsibility in the girls. Our comprehensive training programme is tailored to maximise every netballers’ performance physically and psychologically. Additional academic support is also given to netballers in view that they have intensive training schedules throughout the year.

@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# Floorball
 ![](/images/group%20photo.jpg)
 
 ## **About**

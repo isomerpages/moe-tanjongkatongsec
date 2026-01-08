@@ -2,9 +2,8 @@
 title: Mathematics
 permalink: /academic/mathematics/
 description: ""
+variant: markdown
 ---
-# Mathematics
-
 The Mathematics Team works towards pupils being able to apply mathematics concepts and skills to contexts beyond textbooks. They can effectively communicate ideas and thoughts using appropriate mathematics language and make reasonable extrapolation of information.
 
 The mathematics curriculum at TK is broad-based at the lower secondary covering a wide range of concepts, skills and processes. At the upper secondary levels, pupils do a more in-depth study into various strands, going beyond examination syllabus. A spiral approach is adopted for each strand, with interdisciplinary connections made.
