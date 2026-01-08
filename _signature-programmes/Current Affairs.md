@@ -4,7 +4,6 @@ permalink: /signature-programmes/current-affairs/
 description: ""
 variant: markdown
 ---
-# Current Affairs
 #### Developing 21st Century TKsians
 
 The Current Affairs Programme@TK is a platform to help students develop knowledge, skills and values in becoming 21st Century global citizens. The programme involves article reading as well as Public Speaking presentations which are conducted in alternate weeks on Tuesdays.
