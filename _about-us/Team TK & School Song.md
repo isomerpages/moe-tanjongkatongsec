@@ -4,7 +4,6 @@ permalink: /about-us/team-tk/
 description: ""
 variant: markdown
 ---
-# Team TK &amp; School Song
 <b><u>Team TK</u></b>
 
 <img src="/images/About%20us/1-3.jpg" style="width:40%;float:left">
