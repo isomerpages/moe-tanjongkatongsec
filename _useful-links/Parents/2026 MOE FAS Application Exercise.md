@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-# 2026 MOE FAS Application Exercise
-
 Dear Parents / Guardians
 
 With reference to the Parents Gateway message sent by MOE on 17 October 2025 regarding the revised income eligibility criteria and enhanced provisions for MOE financial assistance schemes, please be informed that applications may now be submitted through the following FormSG link below.
