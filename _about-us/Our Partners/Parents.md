@@ -19,6 +19,36 @@ the TK PSG provides strong support for some of the school’s key school
 programmes and events. These include NE events such as the International
 Friendship Day and Racial Harmony Day, and milestone events for students
 such as Secondary 1 Investiture and Secondary 4 Graduation Tea.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_08_at_14_04_07__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_08_at_14_04_11.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_08_at_14_04_09.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_08_at_14_04_10.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The above complements platforms that the school has to reach out to TK
 parents, such as level Parent Engagement sessions, where parents can look
 forward to meaningful conversations with School Leaders and Form Teachers
@@ -28,3 +58,26 @@ learning and development.</p>
 learning in TK, as well as opportunities for parents to connect with each
 other. Parents who are keen to contribute to the TK community are encouraged
 to join the TK PSG, and to find out more, do write to <a href="mailto:psgtkss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgtkss@gmail.com</a>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PSG_Instagram.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PSG_FB.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
