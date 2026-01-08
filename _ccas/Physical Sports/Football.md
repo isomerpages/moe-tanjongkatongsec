@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# Football
-
  ![](/images/IMG_20240814_WA0005.jpg)<br>
  ![](/images/IMG_20240515_WA0030.jpg)<br>
 ## **About**
