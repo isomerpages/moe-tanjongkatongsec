@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-# Purchase of Books, PE Attire and School Uniform 2026
-
 [Download S1 Booklist 2026](/files/2026_S1_BOOKLIST.pdf)<br>
 [Download S2 Booklist 2026](/files/2026_S2_BOOKLIST.pdf)<br>
 [Download S3 Booklist 2026](/files/2026_S3_BOOKLIST.pdf)<br>
