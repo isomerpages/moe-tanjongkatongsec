@@ -5,52 +5,27 @@ description: ""
 third_nav_title: Our Partners
 variant: tiptap
 ---
-<h1><strong>Parents</strong></h1>
-<p>In TK, our partnership vision is “The&nbsp;Power of We – Nurturing Aspirations
-through Partnerships” and it is with this in mind that we forge synergistic
-collaborations with our parents &nbsp;Several platforms exist for us to
-harness the positive effects of such a partnership.</p>
-<p><strong>Parents’</strong>&nbsp;<strong>Days</strong>
-</p>
-<p>A regular feature in the school calendar, the TK Parents’ Day is an event
-which is organised by academic level.</p>
-<p>It provides parents with opportunities to communicate personally with
-the teachers in areas pertaining to their children’s progress and conduct.
-This event also enables the School to provide current updates to parents
-on pertinent matters such as the School Direction and Focus, as well as
-the programmes that their children will engage in as we move in tandem
-towards providing a holistic education.</p>
-<p><strong>TK1</strong>&nbsp;<strong>Nite</strong>
-</p>
-<p>The TK1 Nite is jointly organised by the TK Parent Support Group and the
-School as a platform to enable parents of Secondary &nbsp;One students
-to familiarise themselves with the School. &nbsp;At this event, parents
-are provided with the opportunity to tour the school’s facilities with
-student guides and interact with Form and Subject Teachers. This event
-also enables parents to form social ties with other parents as they partake
-in a sumptuous dinner spread, thereby strengthening the friendships that
-are forged.</p>
-<p><strong>Parent Support</strong>&nbsp;<strong>Group</strong>
-</p>
-<p>The TK Parent Support Group is an active body of parent volunteers who
-work hand-in-hand with the School in realising her vision of providing
-value-adding, all-round and global-oriented education. Formed in December</p>
-<p>2000, the TK PSG seeks to support the school in a strategic partnership
-through a two-pronged approach:</p>
-<p>1. Working with parents directly, and</p>
-<p>2. Supporting and value-adding to school programmes</p>
-<p>The TK PSG is actively involved in organising PSG events such as the Food,
-Fun and Friendship (F3) and TK1 Nite. It also provides strong support at
-school events such as the Racial Harmony Day Celebrations and Teachers’
-Day Celebrations, among others.</p>
-<p>At TK, there are many opportunities for you to stay connected and support
-your child’s learning. Do consider to INVEST some of your time to connect
-with your child and involve in school events and activities.</p>
-<p>The School was awarded the COMPASS Partners Award (Outstanding) [2004-2015]
-in the year 2004. This award was given in recognition of the TK PSG’s active
-and committed involvement in the School and is valid for five years.</p>
-<p>Some of activities we have participated in are shown here.</p>
-<p>Tanjong Katong Sec PSG:<strong> </strong><a href="https://www.facebook.com/share/1CtoL9FjsG/" rel="noopener nofollow" target="_blank">FB page</a>
-</p>
-<p>Email: <a href="mailto:psgtkss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgtkss@gmail.com</a>
+<h1><strong>TK Parent Support Group (PSG)</strong></h1>
+<p>Guided by the school’s vision for partnership, “The Power of We – Nurturing
+Aspirations through Partnerships”, and values of open communication, mutual
+respect and shared responsibility, the TK Parent Support Group (PSG) has
+a strong synergistic and collaborative relationship with the school to
+support the students’ holistic growth since its formation in December 2000.</p>
+<p>Made up of parents who believe that parents are an important part of the
+TK community and play an important role in working collaboratively with
+the school to co-create memorable student learning experiences that support
+their children’s learning and growth, the TK PSG provides strong support
+for some of the school’s key school programmes and events. Some of these
+include NE events such as the International Friendship Day and Racial Harmony
+Day, and milestone events for students such as Secondary 1 Investiture
+and Secondary 4 Graduation Tea.</p>
+<p>The above complements platforms that the school has to reach out to TK
+parents, such as level Parent Engagement sessions, where parents can look
+forward to meaningful conversations with School Leaders and Form Teachers
+of their child on ways to strengthen the support for their child’s holistic
+learning and development in the school.</p>
+<p>There are many opportunities for parents to be involved in their child’s
+learning in TK, as well as opportunities for parents to connect with each
+other. Parents who are keen to be part of the TK PSG community are encouraged
+to join the TK PSG, and to find out more, do write to <a href="mailto:psgtkss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgtkss@gmail.com</a>
 </p>
