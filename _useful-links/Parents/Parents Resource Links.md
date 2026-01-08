@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h1>Parents Resource Links</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE cyberwellness</a>
