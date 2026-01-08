@@ -2,9 +2,9 @@
 title: Humanities
 permalink: /academic/humanities/
 description: ""
+variant: markdown
 ---
-# Humanities
-The Humanities Department represent a committed and passionate group of educators who are always ready to impart their experience and expertise in the areas of Geography, History and Social Studies. We seek to bring to life theoretical knowledge which in turn, inspired our learners to take on the like-minded keenness and curiosity to seek relevance in these subjects they immerse themselves in.
+The Humanities Department represent&nbsp;a committed and passionate group of educators who are always ready to impart their experience and expertise in the areas of Geography, History and Social Studies. We seek to bring to life theoretical knowledge which in turn, inspired our learners to take on the like-minded keenness and curiosity to seek relevance in these subjects they immerse themselves in.
 
 As a department, we seek to continuously update ourselves in terms of pedagogical understanding and curriculum information and knowledge. We understand the shift in education paradigm, and see ourselves as co-learners in this rapidly changing world, yet bearing in mind the critical role we play in preparing our students well for the challenges in the real world.
 
