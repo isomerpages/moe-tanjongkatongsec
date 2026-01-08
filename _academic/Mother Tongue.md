@@ -4,7 +4,6 @@ permalink: /academic/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<h1>Mother Tongue</h1>
 <p><strong>Vision:</strong> TKSS students are effective learners, critical
 thinkers, and enthusiastic ambassadors of Mother Tongue culture.</p>
 <p><strong>Mission:</strong> The MTL Department is committed to nurturing
