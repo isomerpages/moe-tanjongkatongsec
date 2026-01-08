@@ -4,8 +4,6 @@ permalink: /signature-programmes/permalink/
 description: ""
 variant: markdown
 ---
-Overseas School Immersion Programme (OSIP)
-====================
 ![](/images/osip(2).JPG)
 ![](/images/osip(1).jpeg)
 ![](/images/osip(3).jpeg)
