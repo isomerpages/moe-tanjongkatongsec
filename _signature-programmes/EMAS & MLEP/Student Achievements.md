@@ -3,10 +3,8 @@ title: Student Achievements
 permalink: /signature-programmes/emas-and-mlep/student-achievements/
 description: ""
 third_nav_title: EMAS & MLEP
+variant: markdown
 ---
-Student Achievements
-====================
-
 _“Melentur Pencinta Bahasa, Menggapai Keunggulan Bangsa”_
 
 ![](/images/Signature%20Programmes/EMAS%20&amp;%20MLEP/2022%20Blackarena%20and%20Pena%20Emasku.jpg)
