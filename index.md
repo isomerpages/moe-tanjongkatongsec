@@ -13,9 +13,9 @@ sections:
       button: VIEW ALL ANNOUNCEMENTS
   - infobar:
       title: STUDENTS
-      description: The TK Graduate is self-directed in learning and passionate in all
-        he undertakes. Confident, resilient and flexible, he is guided by sound
-        values to lead...
+      description: The TK Graduate is an inquisitive learner, empathetic communicator
+        and a discerning leader, who exemplifies diligence, ingenuity and
+        dexterity in making a......
       button: MORE
       url: /for-students/
 ---
