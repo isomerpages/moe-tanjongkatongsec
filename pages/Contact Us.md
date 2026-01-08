@@ -4,7 +4,6 @@ permalink: /contact-us-page/
 description: ""
 variant: markdown
 ---
-# Contact Us
 **School Address:**&nbsp;130, Haig Road, Singapore 438796  
 **Tel:**&nbsp;6344 3471  
 **Fax:**&nbsp;6440 9624  
