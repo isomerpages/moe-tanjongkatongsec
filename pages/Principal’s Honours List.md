@@ -2,9 +2,8 @@
 title: Principal’s Honours List
 permalink: /principals-honours-list/
 description: ""
+variant: markdown
 ---
-# Principal’s Honours List
-
 **TD@TK Application: Principal’s Honours List**
 
 <p style="text-align: justify;">The school’s Principal’s Honours List (PHL) is the second platform for TD@TK. PHL is structured according and aligned to the 3I (Imaginative-Inquisitive-Interconnectedness) framework of TD@TK below.</p>
@@ -28,7 +27,7 @@ The objectives of the PHL programme are as follows:
 3.  To possess strong leadership and communication skills
 4.  To contribute back to the school and/or the community
 
- **Approach**
+&nbsp;**Approach**
 
 <p style="text-align: justify;">The Principal’s Honours List students are determined after the final-year examinations at the end of each academic year. Eligibility is determined based on the combined marks for all subjects taken in the academic year.</p>
 
@@ -44,17 +43,17 @@ Sec 4 PHL Students – Going Beyond
 
 <p style="text-align: justify;">The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are ready to face the key driving forces of the future – globalisation, changing demographics and technological advancements.</p>
 
-<p style="text-align: justify;">In this programme, our students will embark on research projects which will sharpen their thinking processes. The projects are categorised into 5 domains – Cognitive Domain, Sports and Health Domain, Arts and Aesthetics Domain, Character and Leadership Domain and Community and Citizenship Domain. The projects will involve student-centred questioning or inquiry and will focus on enhancing students’ 21st Century Competencies. This will lead to greater understanding of the discipline and students will also develop the corresponding ability to formulate patterns, correlations or similarities.</p>
+<p style="text-align: justify;">In this programme, our students will embark on research projects which will sharpen their thinking processes. The projects are categorised into 5 domains – Cognitive Domain, Sports and Health Domain, Arts and Aesthetics Domain, Character and Leadership Domain and Community and Citizenship Domain. The projects will involve student-centred questioning or inquiry and will focus on enhancing students’ 21st&nbsp;Century Competencies. This will lead to greater understanding of the discipline and students will also develop the corresponding ability to formulate patterns, correlations or similarities.</p>
 
 **Example of Da Vinci + Project**
 
-[![Sports & Health Domain](/images/Sports-Health-Domain.png)](/images/Sports-Health-Domain.png)
+[![Sports &amp; Health Domain](/images/Sports-Health-Domain.png)](/images/Sports-Health-Domain.png)
 
 **Einstein Plus Programme**
 
 <p style="text-align: justify;">The programme is for our Secondary Two and Three Principal’s Honours List students. The focus of the programme is developing TK graduates who are passionate in the Science, Mathematics and Design and Technology domains.</p>
 
-<p style="text-align: justify;">Students will embark on research projects to come up with innovative solutions to meet the needs of the end user. This will give them an edge in the maker culture of the 21st Century and equip them with the necessary digital literacy to allow them to stay ahead of the changes that take place.</p>
+<p style="text-align: justify;">Students will embark on research projects to come up with innovative solutions to meet the needs of the end user. This will give them an edge in the maker culture of the 21st&nbsp;Century and equip them with the necessary digital literacy to allow them to stay ahead of the changes that take place.</p>
 
 **Example of Einstein + Project**
 
