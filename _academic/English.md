@@ -2,8 +2,8 @@
 title: English
 permalink: /academic/english/
 description: ""
+variant: markdown
 ---
-# English
 ![](/images/Academic/English%20Department%20Photo%201.jpg)
 
 <u>Vision</u>
