@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-# Group Personal Accident Product Factsheet and User Guide
-
-[Product Fact Sheet (Year 2022) (Sep 2022)](/files/Useful%20Links/Product-Fact-Sheet-Year-2022-Sep-2022.pdf)   
-[Student GPA User Guide Parent](/files/Useful%20Links/StudentGPAUserGuide-Parent.pdf)
-
- Online Submission – Income’s GPA portal at [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
+<p><a href="/files/Useful%20Links/Product-Fact-Sheet-Year-2022-Sep-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet (Year 2022) (Sep 2022)</a>
+<br><a href="/files/Useful%20Links/StudentGPAUserGuide-Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide Parent</a>
+</p>
+<p>Online Submission – Income’s GPA portal at&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
