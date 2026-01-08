@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1>Art Club</h1>
 <h2><strong>About</strong></h2>
 <p>The objectives of the Art Club are to have creative fun, be innovative
 and develop partnership with parents and former TK students who are in
