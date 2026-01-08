@@ -4,9 +4,6 @@ permalink: /for-teachers/
 description: ""
 variant: markdown
 ---
-Teachers
-========
-
 *   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
     
 *   [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
