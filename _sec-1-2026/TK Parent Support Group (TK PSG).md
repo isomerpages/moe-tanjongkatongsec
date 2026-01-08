@@ -4,7 +4,6 @@ permalink: /sec-1-2026/parent-support-group-psg-tkss/
 description: ""
 variant: tiptap
 ---
-<h1>TK Parent Support Group (TK PSG)</h1>
 <p>Please refer to the link&nbsp;<a href="/about-us/our-partners/parents/" rel="noopener noreferrer nofollow" target="_blank">/about-us/our-partners/parents/</a>&nbsp;for
 details of home school partnership and platforms for parents to be involved
 in TK PSG.</p>
