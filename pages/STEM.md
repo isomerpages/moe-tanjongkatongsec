@@ -2,9 +2,8 @@
 title: STEM
 permalink: /stem/
 description: ""
+variant: markdown
 ---
-# STEM
-
 **TD@TK Application: DSA – STEM@TK (Einstein Plus)**
 
  STEM@TK is a programme to inculcate the spirit of inquiry and scientific thinking in our students. We aim for our students to be able to identify and provide solutions to real-life problems through scientific inquiry, using mathematics as a tool for data analysis and interpretation.
