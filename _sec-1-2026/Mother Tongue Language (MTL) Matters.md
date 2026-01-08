@@ -4,8 +4,6 @@ permalink: /sec-1-2026/mother-tongue-language-mtl-matters/
 description: ""
 variant: markdown
 ---
-# Mother Tongue Language (MTL) Matters
-
 **Higher Mother Tongue Languages:**
 *   **<u>Letter will be sent to the Parent of the eligible Sec 1 students</u>** based on MOE's eligibility criteria to offer **HMTL** via Parent Gateway. **Parents are advised to purchase MT/HMTL textbook only after receiving the eligibility letter to be offered  HMTL.**
 *   For students who are offering Higher Chinese Language (HCL) and Higher Malay Language (HML), they will study these subjects during school curriculum time.
