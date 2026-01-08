@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-# NCC Land
-
 ## **About**
 
 <p style="text-align: justify;">        
