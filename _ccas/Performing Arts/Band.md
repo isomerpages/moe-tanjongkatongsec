@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-# Band
-
 ## **About**
 
 The beginnings of the Tanjong Katong Band can be traced to two root branches. One branch – from the former Tanjong Katong Technical School (TKTS) – began in the year 1965. That band started out humbly as a brass band with only 26 members. It called itself the Tanjong Katong Brass Band – TKBB, in short.
