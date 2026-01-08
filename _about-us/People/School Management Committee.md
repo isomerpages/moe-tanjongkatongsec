@@ -5,7 +5,6 @@ description: ""
 third_nav_title: People
 variant: tiptap
 ---
-<h4>School Management Committee</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
