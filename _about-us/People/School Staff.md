@@ -5,7 +5,6 @@ description: tkss staff
 third_nav_title: People
 variant: tiptap
 ---
-<h4>School Staff</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
