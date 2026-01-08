@@ -3,9 +3,8 @@ title: Leave of Absence (LOA)
 permalink: /useful-links/parents/loa/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
-# Leave of Absence (LOA)
-
 The Leave of Absence (LOA) scheme allows your child to rejoin their school after they return from overseas.
 
 If your child is granted LOA, they will remain as a registered student of the school. They can then be re-admitted to the school directly after returning to Singapore.
