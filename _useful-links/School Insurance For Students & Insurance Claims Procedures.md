@@ -4,9 +4,7 @@ permalink: /school-insurance-for-students-insurance-claims-procedures/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>School Insurance For Students &amp; Insurance Claims Procedures</u></strong>
-</p>
-<p>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:</p>
+<h4>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:</h4>
 <p>All students are covered under the GPA Insurance Plan which provides 24-hour
 worldwide accident coverage while they are at the school premises (including
 school-based Student Care Centre), in Singapore or elsewhere, participating
