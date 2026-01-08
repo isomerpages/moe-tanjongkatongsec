@@ -31,7 +31,7 @@ may contact their schools for assistance if they are unable to appoint
 a proxy.</p>
 </li>
 <li>
-<p>Please also inform Mdm Halilah (<a href="halilah_salim_alkhatib@moe.edu.sg" rel="noopener nofollow" target="_blank">halilah_salim_alkhatib@moe.edu.sg</a>)
+<p>Please also inform Mdm Halilah (<a href="mailto:halilah_salim_alkhatib@moe.edu.sg" rel="noopener nofollow" target="_blank">halilah_salim_alkhatib@moe.edu.sg</a>)
 if you cannot come to school on 14 Jan (Wednesday) to collect your results
 slip due to any other reason(s)</p>
 <p>Thank you.</p>
