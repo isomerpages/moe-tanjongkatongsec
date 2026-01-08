@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-# NCC Sea
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NVoEYRpQlqs" height="315" width="560"></iframe>
 
 [TK SEA FAQs](/files/CCAs/TK-SEA-FAQs.pdf)
