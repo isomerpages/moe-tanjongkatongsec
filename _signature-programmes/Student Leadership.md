@@ -4,7 +4,6 @@ permalink: /signature-programmes/student-leadership/
 description: ""
 variant: tiptap
 ---
-<h1>Student Leadership</h1>
 <p><strong>Leadership Philosophy</strong>
 </p>
 <p>&nbsp;We believe that every TK student can and will rise to the occasion
