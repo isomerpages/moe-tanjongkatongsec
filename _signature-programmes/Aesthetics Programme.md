@@ -2,12 +2,11 @@
 title: Aesthetics Programme
 permalink: /signature-programmes/aesthetics-programme/
 description: ""
+variant: markdown
 ---
-# Aesthetics Programme
-
 ![](/images/Signature%20Programmes/aest.png)
 
-In TK, the promotion of the learning of and the passion for arts and culture is achieved by having TKsians develop an **appreciation** for the arts, be involved in arts **immersion** in the arts and ultimately in the **presentation** of the arts.
+In TK, the promotion of the learning of and the passion for arts and culture is&nbsp;achieved by having TKsians develop an&nbsp;**appreciation**&nbsp;for the arts, be involved in arts&nbsp;**immersion**&nbsp;in the arts and ultimately in the&nbsp;**presentation**&nbsp;of the arts.
 
 <table>
 <thead>
