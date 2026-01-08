@@ -5,10 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>TK Graduate</u></strong></h4>
-<p>The TK Graduate is self-directed in learning and passionate in all he
-undertakes. Confident, resilient, adaptable and compassionate, he is guided
-by sound values to lead and contribute to school, nation and the global
-community.</p>
+<p>The TK Graduate is an inquisitive learner, empathetic communicator and
+a discerning leader, who exemplifies diligence, ingenuity and dexterity
+in making a difference to the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ver_2.jpg">
