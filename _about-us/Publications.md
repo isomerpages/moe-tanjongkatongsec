@@ -42,6 +42,6 @@ variant: tiptap
 <p>Click here to access: <a href="https://go.gov.sg/tkyearbook2025" rel="noopener noreferrer nofollow" target="_blank">TK Year Book 2025</a> or scan the
 QR code below</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Link to access TK Year Book 2025" src="/images/TK_Year_Book_2025.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Link to access TK Year Book 2025" src="/images/TK_Year_Book_2025.jpg">
 </div>
 <p></p>
