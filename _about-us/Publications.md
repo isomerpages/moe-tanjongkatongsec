@@ -42,5 +42,10 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3P0sdlNg4g"></iframe>
 </div>
+<p>Click here to access: <a href="https://go.gov.sg/tkyearbook2025" rel="noopener nofollow" target="_blank">TK Yearbook 2025</a> or
+scan the QR code below</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TK_Year_Book_2025.jpg">
+</div>
 <p></p>
 <p></p>
