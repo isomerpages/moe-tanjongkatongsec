@@ -40,7 +40,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="800" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3P0sdlNg4g"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3P0sdlNg4g"></iframe>
 </div>
 <p></p>
 <p></p>
