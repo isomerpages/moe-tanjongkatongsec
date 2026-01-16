@@ -40,12 +40,17 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3P0sdlNg4g"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/by0pz2FaIUo?si=w1LPOLuL0UFjN6Qe"></iframe>
 </div>
 <p>Click here to access: <a href="https://go.gov.sg/tkyearbook2025" rel="noopener nofollow" target="_blank">TK Yearbook 2025</a> or
 scan the QR code below</p>
-<table style="minWidth: 300px">
+<table style="minWidth: 425px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -82,6 +87,21 @@ scan the QR code below</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
