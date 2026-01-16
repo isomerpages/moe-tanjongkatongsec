@@ -226,7 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Azlan</p>
+<p>Mr Azlan Azri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (S3)</p>
