@@ -215,17 +215,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (S2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Azlan Azri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,6 +222,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>azlan_azri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (S2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammed_yusoff_abdul_latiff@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
