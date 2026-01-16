@@ -911,7 +911,7 @@ variant: tiptap
 <p>Mdm Shahera</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Aes, Craft &amp; Tech</p>
+<p>HOD Aesthetics, Craft &amp; Tech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shahera_mohamed@moe.edu.sg</p>
