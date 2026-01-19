@@ -1,5 +1,5 @@
 ---
-title: Netball
+title: Netball (Girls)
 permalink: /ccas/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports

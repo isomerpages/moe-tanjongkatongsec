@@ -1,5 +1,5 @@
 ---
-title: Floorball
+title: Floorball (Girls)
 permalink: /ccas/physical-sports/floorball/
 description: ""
 third_nav_title: Physical Sports

@@ -1,5 +1,5 @@
 ---
-title: Basketball
+title: Basketball (Boys)
 permalink: /ccas/physical-sports/basketball/
 description: ""
 third_nav_title: Physical Sports

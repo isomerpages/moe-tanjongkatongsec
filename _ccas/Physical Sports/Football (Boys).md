@@ -1,11 +1,11 @@
 ---
-title: Football
+title: Football (Boys)
 permalink: /ccas/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
- ![](/images/IMG_20240814_WA0005.jpg)<br>
+![](/images/IMG_20240814_WA0005.jpg)<br>
  ![](/images/IMG_20240515_WA0030.jpg)<br>
 ## **About**
 
