@@ -42,17 +42,14 @@ ones.</p>
 <p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p></p>
-<h4><strong>Overview of Tanjong Katong Secondary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong></h4>
-<p></p>
+<h4><strong>Overview of Tanjong Katong Secondary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2026</strong></h4>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
-in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
 <li>
@@ -116,9 +113,9 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 </li>
 <li>
-<p>eTeens &nbsp;is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
 conducted in two segments – a mass talk segment and a classroom-based programme.
 The desired outcome of the <em>eTeens</em> programme is that students are
 empowered to make wise, informed and sensible decisions.</p>
