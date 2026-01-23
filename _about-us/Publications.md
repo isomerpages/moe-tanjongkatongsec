@@ -40,7 +40,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XbG071nDv64?si=AdtFacWS2DHCLARd"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ERa3VXMhmSM?si=v0R4JFfLcvJMusZi"></iframe>
 </div>
 <p>Click here to access: <a href="https://go.gov.sg/tkyearbook2025" rel="noopener nofollow" target="_blank">TK Yearbook 2025</a> or
 scan the QR code below</p>
