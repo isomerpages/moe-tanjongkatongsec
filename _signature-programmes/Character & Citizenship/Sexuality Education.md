@@ -145,7 +145,7 @@ at the start of the year and is also downloadable&nbsp;<a href="https://form.gov
 The completed form is to be submitted by 20/02/2026.</p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="https://form.gov.sg/69731916a61086ee49dd69bf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 form is to be submitted by 20/02/2026.</p>
