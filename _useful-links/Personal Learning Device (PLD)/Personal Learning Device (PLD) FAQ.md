@@ -34,7 +34,7 @@ CTHub offers parking facilities. Enter via Kallang Avenue, and parking is availa
 **What are the operating hours of the service centre?** <br>
 •	Monday to Friday: 9:00am – 6:00pm <br>
 •	Saturday: 9:00am – 1:00pm <br>
-•	Closed on Sundays and Public Holidays<br>
+•	Closed on Sunday and Public Holidays<br>
 
 **Do I need to book an appointment to visit the service centre?**<br>
 No, there is no need to book an appointment. The service centre operates on a self-service concept, designed to minimise waiting time for customers. Simply walk in during operating hours to receive assistance.
