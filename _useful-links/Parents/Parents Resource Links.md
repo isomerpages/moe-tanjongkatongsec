@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE cyberwellness</a>
+<p><a href="https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE cyberwellness</a>
 </p>
 </li>
 <li>
