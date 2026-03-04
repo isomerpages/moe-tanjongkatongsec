@@ -133,8 +133,8 @@ any reason.</p>
 <p>Interested applicants are to submit:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office</p>
+<p>Download and complete the <a href="/files/FormBF7_canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
+You may also request for a hardcopy from the School’s General Office</p>
 </li>
 <li>
 <p>Photocopy of NRIC (Front and back)</p>
