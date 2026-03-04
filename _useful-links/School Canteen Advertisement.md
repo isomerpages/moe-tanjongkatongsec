@@ -4,7 +4,6 @@ permalink: /tanjong-katong-secondary-school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<h2>School Canteen Advertisement</h2>
 <h4><strong>Indian Cuisine Stall (Halal / Non Halal) (Secondary School)</strong></h4>
 <p>The School invites interested and suitably qualified vendors to apply
 for the operation of an <strong>Indian Cuisine stall</strong> in our secondary
