@@ -62,8 +62,6 @@ stewing; no deep-fried main dishes)</p>
 <li>
 <p>Be prepared to adjust menu offerings based on student feedback (with school
 approval)</p>
-<p><strong>&nbsp;</strong>
-</p>
 </li>
 </ul>
 <p><strong>Eligibility Criteria</strong>
@@ -155,7 +153,7 @@ by HPB (if any)</p>
 </li>
 </ul>
 <p>Closing Date: <strong>13 March 2026 </strong>
-<br>Submission to: <strong>Tanjong Katong Secondary School 130 Haig Road / General Office]</strong>
+<br>Submission to: <strong>Tanjong Katong Secondary School 130 Haig Road / General Office</strong>
 </p>
 <p><strong>Contact No: 6344 3471</strong>
 </p>
