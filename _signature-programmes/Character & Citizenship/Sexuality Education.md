@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Sexuality Education (SEd) in schools aims to enable stdents to understand
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -113,12 +113,15 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 </li>
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+<p>eTeens is a programme that was developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
