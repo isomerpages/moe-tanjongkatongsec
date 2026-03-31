@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Sexuality Education (SEd) in schools aims to enable stdents to understand
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
