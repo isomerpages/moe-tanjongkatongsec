@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 third_nav_title: Parents
 ---
-<h1>Direct School Admission-Secondary (DSA-Sec) 2025</h1>
+<h1>Direct School Admission-Secondary (DSA-Sec) 2026</h1>
 <p>Introduced in 2004, DSA-Sec is a pathway for students to gain admission
 to secondary schools based on their interests, aptitude, and potential,
 beyond their performance at Primary School Leaving Examination (PSLE).
-For the 2025 DSA-Sec exercise to gain admission to Secondary 1 in TK in
-2026, TK offers five talent areas under two domain areas.</p>
+For the 2026 DSA-Sec exercise to gain admission to Secondary 1 in TK in
+2027, TK offers five talent areas under two domain areas.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,10 +38,10 @@ For the 2025 DSA-Sec exercise to gain admission to Secondary 1 in TK in
 <p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball (Girls)</p>
-<p>Football (Boys)</p>
-<p>Floorball (Girls)</p>
 <p>Basketball (Boys)</p>
+<p>Floorball (Girls)</p>
+<p>Football (Boys)</p>
+<p>Netball (Girls)</p>
 </td>
 </tr>
 </tbody>
@@ -99,7 +99,9 @@ related to the talent they are selected for from year 1-4.</p>
 <p></p>
 <p>Contact Person:</p>
 <p></p>
-<p>Mdm Sri Nabilah, Malay Language Teacher @ 6344 3471 (ext 293)</p>
+<p>Ms Nurul ‘Ain,</p>
+<p>SH/ Malay Language</p>
+<p>@&nbsp;6344 3471 (ext 309)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,16 +127,15 @@ or National level.</p>
 <br>
 <br>Contact Person:
 <br>
-<br>Mr Lawrence Siao, SH / Aesthetics @ 6344 3471 (ext 308)</p>
+<br>Mdm Catherine Sim,</p>
+<p>HOD PE/CCA @</p>
+<p>6344 3471 (ext 216)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball (Girls)
-<br>
-<br>Football (Boys)
-<br>
-<br>Floorball (Girls)
-<br>
-<br>Basketball (Boys)</p>
+<p>Basketball (Boys)</p>
+<p>Floorball (Girls)</p>
+<p>Football (Boys)</p>
+<p>Netball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Passion and sporting background in the relevant game.</p>
@@ -169,11 +170,11 @@ or National level.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>APPLICATION STAGE</u></strong>
 </p>
-<p>7 May 2025 - 3 June 2025</p>
+<p>6 May 2026 - 2 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11.00am to 3 June 2025, 3.00pm</strong>
+The application is free-of-charge and will be open from <strong>6 May 2026, 11.00am to 2 June 2026, 4.30pm</strong>
 </p>
 <p></p>
 <p>For more details, please refer to MOE website - <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
@@ -184,26 +185,27 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11.0
 <td rowspan="1" colspan="1">
 <p><strong><u>SELECTION STAGE</u></strong>
 </p>
-<p>30 June - 4 September 2025</p>
-<p>Selection Stage</p>
+<p>29 June - 28 August 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Only shortlisted applicants will be notified via email on the details
-of the relevant assessment, sports trial and/or interview.</p>
+<p>Only shortlisted applicants will be notified via email from TKSS on the
+details of the relevant assessment, sports trial and/ or interview.</p>
 <p>&nbsp;</p>
-<p>Notification of outcome to be sent to all applicants by 4 September 2025.</p>
+<p><em>You will receive notification from TKSS by 31 July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 17 and 28 Aug 2026</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>SCHOOL PREFERENCE SUBMISSION</u></strong>
 </p>
-<p>27 - 31 October 2025</p>
+<p>19 - 23 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
 will receive an email and SMS notification via Postman.gov.sg on the School
-Preference Submission between 27 – 31 October 2025.</p>
+Preference Submission between 19 October, 9am – 23 October 2026, 4.30pm.</p>
 <p>&nbsp;</p>
 <p>DSA-Sec offers that are not taken up will be considered as lapsed at the
 end of the School Preference Submission period.</p>
@@ -213,7 +215,7 @@ end of the School Preference Submission period.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>RESULTS RELEASE</u></strong>
 </p>
-<p>Late November 2025</p>
+<p>Late November 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
@@ -266,7 +268,7 @@ the following MOE weblinks:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p><strong>*Will only go live on 7 May 2025, 11.00am</strong>
+<p><strong>*Will only go live on 6 May 2026, 11.00am</strong>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -277,7 +279,7 @@ the following MOE weblinks:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Non Mainstream Students)</p>
-<p><strong>*Will only go live on 7 May 2025, 11.00am&nbsp;</strong>
+<p><strong>*Will only go live on 6 May 2026, 11.00am&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
