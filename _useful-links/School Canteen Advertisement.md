@@ -105,7 +105,7 @@ nutrition, and affordability.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Stallholder(s) and assistant(s) who are SIngapore Citizens or SIngapore
+<p>Stallholder(s) and assistant(s) who are Singapore Citizens or Singapore
 Permanent Residents, aged 21 years old and above.</p>
 </li>
 <li>
