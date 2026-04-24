@@ -16,7 +16,7 @@ variant: tiptap
 <p>Registration is now <a href="https://Www.tinyurl.com/tkdsa2026" rel="noopener nofollow" target="_blank">open</a>.
 <br>📅 <strong>Date:</strong> 26 May 2026 (Tuesday)
 <br>🕒 <strong>Time:</strong> 2.30–5.00pm (Please arrive at the school foyer
-by 2.00-2.15pm for registration and briefing)
+by 2.15pm for registration and briefing)
 <br>Explore our CCA offerings, meet our coaches, and learn more about the
 DSA experience at TK!</p>
 <p>We seek your understanding to park your vehicle at public car parks in
