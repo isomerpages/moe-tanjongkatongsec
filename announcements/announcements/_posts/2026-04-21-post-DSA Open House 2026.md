@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gemini_Generated_Image_2zmdh62zmdh62zmd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSAOpenHouse26.jpg">
 </div>
 <p><strong>Join Us for TK's DSA Open House 2026!</strong>
 </p>
