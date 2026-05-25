@@ -155,13 +155,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hasha Iman</p>
+<p>Ms Sheenaz Mohamed Iqbal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hasha_iman_khamilnullah@moe.edu.sg</p>
+<p>sheenaz_mohamed_iqbal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
