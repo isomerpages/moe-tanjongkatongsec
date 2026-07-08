@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Eng &amp; Lit (CV)</p>
+<p>HOD Eng &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
@@ -140,28 +140,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_siew_ee_jocelyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wira Ciptadi Pitoyo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wira_ciptadi_pitoyo@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sheenaz Mohamed Iqbal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sheenaz_mohamed_iqbal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
