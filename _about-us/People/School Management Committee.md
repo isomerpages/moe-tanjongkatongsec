@@ -262,7 +262,7 @@ variant: tiptap
 <p>Ms Nur Izyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD EL &amp; Literature (CV)</p>
+<p>HOD EL &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_izyan_mohamed_hashim@moe.edu.sg</p>
